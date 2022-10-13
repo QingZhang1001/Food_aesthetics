@@ -1,0 +1,2367 @@
+,recipe_id,flavordb_ingrs,class
+0,100000175,"['rice', 'salt', 'cabbage', 'oats', 'pepper']",1
+1,100000387,"['salt', 'broccoli', 'cooking_oil', 'pork']",1
+2,100000424,"['tomato', 'soybean_sauce', 'garlic', 'salt', 'cabbage', 'sesame', 'capsicum']",1
+3,100000444,"['shiitake', 'garlic', 'salt', 'cabbage', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",1
+4,100000562,"['durian', 'water']",1
+5,100000604,"['coriander', 'salt', 'welsh_onion', 'lamb', 'pepper', 'ashgourd']",1
+6,100000758,"['vinegar', 'garlic', 'salt', 'eggplant', 'welsh_onion', 'water', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",1
+7,100000943,"['salt', 'soybean', 'pork', 'capsicum', 'ginger']",1
+8,100001150,"['soybean_sauce', 'abalone']",1
+9,100001260,"['honey', 'kiwifruit', 'cucumber']",1
+10,100001688,"['tomato', 'vinegar', 'garlic', 'salt', 'carrot', 'cucumber', 'soybean_sauce', 'cooking_oil', 'buckwheat']",1
+11,100001692,"['rice', 'shiitake', 'salt', 'welsh_onion', 'oyster', 'pak_choy', 'scallop', 'cooking_oil', 'ginger']",0
+12,100002121,"['milk', 'flour', 'egg', 'corn_oil', 'sugar']",1
+13,100002401,['egg'],1
+14,100002434,"['water', 'salt', 'cauliflower', 'jews_ear', 'soybean_sauce', 'cooking_oil']",1
+15,100003011,"['soybean_sauce', 'garlic', 'soybean', 'bamboo_shoots', 'capsicum']",0
+16,1000033,"['butter', 'mushroom']",1
+17,100003451,"['salt', 'green_beans', 'cooking_oil', 'egg']",1
+18,100007112,"['salt', 'milk', 'flour', 'sugar']",1
+19,100007287,"['garlic', 'salt', 'soybean', 'pork', 'capsicum', 'ginger', 'sugar']",1
+20,1000099,"['salt', 'tomato', 'potato', 'garlic']",1
+21,100010590,"['capsicum', 'green_beans', 'pork', 'garlic']",1
+22,100013451,"['blueberry', 'gelatin', 'sugar']",1
+23,100014831,"['salt', 'chicken', 'pepper', 'cooking_oil', 'ginger']",1
+24,100014833,"['salt', 'mung_bean', 'pork', 'ginger', 'ashgourd']",1
+25,100016737,"['salt', 'soybean_sauce', 'sausage', 'cauliflower']",1
+26,100016755,"['tofu', 'mushroom', 'tomato', 'salt', 'sugar']",1
+27,100017074,"['scallop', 'ginger', 'garlic']",1
+28,100017165,"['garlic', 'salt', 'green_beans', 'water', 'cooking_oil']",1
+29,100017323,"['millet', 'water']",0
+30,100017336,"['salt', 'pepper', 'corn', 'water']",1
+31,100017341,"['salt', 'shrimp', 'potato', 'water', 'soybean_sauce', 'cooking_oil', 'ginger']",0
+32,100017880,['mung_bean'],0
+33,1000186,"['salt', 'peas', 'garlic']",1
+34,100018722,"['salt', 'chicken', 'lime', 'honey', 'water', 'soybean_sauce', 'cooking_oil', 'orange', 'sugar']",1
+35,100018858,"['flour', 'cream_cheese', 'butter', 'rum', 'egg', 'sugar']",1
+36,100021120,"['salt', 'capsicum', 'cooking_oil', 'bamboo_shoots']",1
+37,100021150,"['garlic', 'salt', 'towel_gourd', 'pepper', 'cooking_oil', 'ginger']",1
+38,100021180,"['salt', 'flour', 'cranberry', 'yogurt', 'butter', 'egg', 'sugar']",1
+39,100021298,"['vanilla', 'parsley', 'salt', 'chicken', 'butter', 'pepper']",1
+40,100021692,"['soybean_sauce', 'okra', 'bonito']",1
+41,100022024,"['milk', 'medlar', 'sugar', 'water']",1
+42,100022057,"['cucumber', 'vinegar', 'radish', 'salt', 'carrot', 'water', 'ginger', 'sugar']",0
+43,100022216,"['tofu', 'medlar', 'soybean_sauce', 'salt', 'welsh_onion', 'capsicum', 'ginger']",1
+44,100022479,"['tofu', 'garlic', 'salt', 'pork', 'soybean_sauce', 'sugar']",0
+45,100022555,"['saffron', 'coriander', 'nutmeg', 'cumin', 'fenugreek', 'cardamom', 'turmeric', 'poppy_seed', 'tamarind', 'cinnamon', 'pepper', 'sesame', 'capsicum', 'peanut', 'mace', 'clove']",0
+46,100022615,"['garlic', 'salt', 'welsh_onion', 'crab', 'soybean_sauce', 'ginger']",1
+47,100022637,['peach'],1
+48,100022836,"['sugar', 'water']",1
+49,100023225,"['peanut', 'soybean', 'pork', 'chestnut']",0
+50,100023447,"['shiitake', 'garlic', 'salt', 'capsicum', 'swamp_cabbage']",1
+51,100023727,"['corn', 'cooking_oil', 'sugar']",0
+52,100023741,"['sesame', 'rice', 'milk', 'sugar']",1
+53,100023944,['green_beans'],0
+54,100024130,"['cream', 'butter', 'sugar']",0
+55,100024615,['chocolate'],0
+56,1000247,"['vinegar', 'pork', 'welsh_onion', 'water', 'soybean_sauce', 'ginger', 'sugar']",1
+57,100025048,"['marshmallow', 'cream', 'rum', 'egg', 'chocolate', 'sugar']",1
+58,100025203,"['butter', 'oats', 'honey']",1
+59,100025248,"['salt', 'cooking_oil', 'mustard', 'clam']",1
+60,100026339,"['rice', 'pork']",0
+61,100026489,"['milk', 'salt', 'flour', 'green_tea', 'kidney_beans', 'sugar']",1
+62,100026624,"['cream', 'milk', 'sugar']",0
+63,100026656,"['spinach', 'egg']",1
+64,100027549,"['cooking_oil', 'egg']",1
+65,100027750,"['flour', 'butter', 'egg', 'chocolate', 'sugar']",1
+66,100028039,"['milk', 'flour', 'banana', 'egg', 'corn_oil', 'sugar']",1
+67,100028106,"['oats', 'milk', 'egg']",1
+68,100028619,['durian'],0
+69,100028643,"['flour', 'yogurt', 'egg', 'sugar']",1
+70,100028915,"['flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+71,100028979,"['celery', 'jews_ear', 'garlic']",1
+72,100029229,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+73,100029323,['cucumber'],0
+74,100029406,"['flour', 'pumpkin']",1
+75,1000299,"['spinach', 'pork', 'ginger', 'garlic']",1
+76,100029985,"['welsh_onion', 'clam']",1
+77,1000307,"['salt', 'chicken', 'red_wine', 'water', 'soybean_sauce', 'cooking_oil', 'ginger']",1
+78,100030902,"['tomato', 'apple', 'vinegar', 'onion', 'garlic', 'salt', 'pepper_c_chinense', 'beans', 'water', 'capsicum', 'sugar']",0
+79,100031361,"['onion', 'salt', 'rosemary', 'red_wine', 'potato', 'pepper', 'capsicum', 'lamb']",1
+80,100031392,"['soybean_sauce', 'garlic', 'pork', 'beans', 'ginger', 'water', 'capsicum', 'sugar']",1
+81,100031750,"['soybean', 'grapefruit']",0
+82,100032411,"['jujube', 'walnut']",0
+83,100032686,"['flour', 'oats', 'egg', 'raisin', 'cooking_oil', 'sugar']",0
+84,100033851,"['garlic', 'salt', 'eggplant', 'capsicum', 'cooking_oil']",1
+85,100033904,['persimmon'],0
+86,100034244,"['star_anise', 'garlic', 'pork', 'chestnut', 'cinnamon', 'ginger', 'sugar']",0
+87,100034336,"['tomato', 'salt', 'cherry_tomato', 'egg', 'water', 'sugar']",1
+88,100034644,"['corn', 'salt', 'butter', 'pepper', 'sugar']",1
+89,100034695,"['star_anise', 'cumin', 'salt', 'egg', 'pepper', 'cinnamon', 'soybean_sauce', 'oyster_mushroom', 'clove']",0
+90,100034755,"['flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+91,100034812,['persimmon'],0
+92,100034950,"['salt', 'pork', 'carrot', 'capsicum', 'cooking_oil']",1
+93,100035158,"['soybean_sauce', 'green_zucchini', 'shrimp']",1
+94,100035323,"['purple_laver', 'tomato', 'sugar', 'bread']",0
+95,100035610,"['rice', 'cheese']",0
+96,100035645,"['tomato', 'vinegar', 'common_carp', 'salt', 'pepper', 'sugar']",0
+97,100035988,"['milk', 'flour', 'butter', 'honey', 'walnut', 'water', 'sugar']",1
+98,100036084,"['coriander', 'tomato', 'jalapeno', 'garlic', 'salt', 'shallot', 'lemon']",0
+99,100036906,"['salt', 'flour', 'cranberry', 'egg', 'lemon', 'sugar']",1
+100,100038253,['rice'],0
+101,100038298,"['rice', 'cheese', 'pasta', 'purple_laver', 'sesame']",0
+102,100038595,"['salt', 'flour', 'oats', 'water', 'sugar']",1
+103,100041022,"['milk', 'sweet_potato', 'butter', 'honey', 'egg', 'sesame']",1
+104,100041066,"['salt', 'meat', 'cucumber', 'soybean_sauce', 'cooking_oil']",1
+105,100041320,"['apple', 'sugar']",1
+106,100042415,"['milk', 'flour', 'fried_potato', 'cooking_oil', 'beer', 'lemon', 'codfish']",1
+107,100042514,"['vanilla', 'almond', 'flour', 'butter', 'egg', 'cocoa_powder', 'sugar']",1
+108,100042626,"['purple_laver', 'rice', 'carrot', 'pasta']",0
+109,100042693,"['flour', 'yogurt', 'egg', 'cooking_oil', 'sugar']",1
+110,100042741,['kiwifruit'],0
+111,100042774,"['vanilla', 'milk', 'flour', 'cream', 'egg', 'sugar']",1
+112,100042783,"['vanilla', 'blueberry', 'flour', 'cream_cheese', 'yogurt', 'butter', 'rum', 'egg', 'lemon', 'sugar']",0
+113,100042830,"['garlic', 'salt', 'welsh_onion', 'jews_ear', 'soybean_sauce', 'oyster_mushroom', 'ginger']",1
+114,100043397,"['spinach', 'peanut']",0
+115,100044658,"['jujube', 'pork', 'carrot']",0
+116,100044789,"['taro', 'ginger', 'sugar', 'sweet_potato']",1
+117,100045312,"['salt', 'cucumber', 'sesame', 'lemon', 'sugar']",1
+118,100045863,"['capsicum', 'cauliflower', 'pork', 'garlic']",1
+119,100046110,"['salt', 'orange', 'sugar', 'water']",0
+120,100046184,"['purple_laver', 'rice']",0
+121,100046737,"['milk', 'flour', 'yogurt', 'honey', 'egg', 'lemon']",1
+122,100047193,"['sesame', 'strawberry', 'banana']",0
+123,100047437,"['oats', 'milk', 'egg', 'pumpkin']",1
+124,100047894,"['vanilla', 'blueberry', 'milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+125,100048307,"['orange', 'carrot']",0
+126,100048747,"['salt', 'bread', 'pepper']",1
+127,100049280,"['cooking_oil', 'sweet_potato']",1
+128,100049514,"['milk', 'egg', 'sugar', 'water']",1
+129,100049701,"['salt', 'egg', 'pork', 'bread']",0
+130,100050011,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",1
+131,100050249,"['flour', 'cranberry', 'egg', 'cooking_oil', 'sugar']",1
+132,100050373,"['orange', 'sugar', 'water']",0
+133,100050400,"['flour', 'milk_powder', 'butter', 'cashew_nut', 'egg', 'coffee', 'sugar']",1
+134,100050541,['flour'],0
+135,100050602,"['milk', 'gelatin', 'cream', 'water', 'sugar']",0
+136,100051334,"['milk', 'egg', 'sugar', 'bread']",1
+137,100051446,"['beef', 'welsh_onion', 'pak_choy', 'pepper', 'soybean_sauce']",1
+138,100051641,"['corn', 'milk', 'sugar']",0
+139,100052202,"['honey', 'peach', 'black_tea', 'lemon']",1
+140,1000525,"['milk', 'sweet_potato', 'cheese', 'butter', 'egg', 'sugar']",1
+141,100053081,"['milk', 'egg', 'durian', 'sugar']",1
+142,100053631,"['pork', 'abalone', 'okra']",1
+143,100054817,"['cream', 'condensed_milk', 'strawberry', 'sugar']",0
+144,1000777,"['condensed_milk', 'kidney_beans']",1
+145,1000811,"['milk', 'salt', 'flour', 'butter', 'egg', 'raisin', 'sugar']",1
+146,1000886,"['flour', 'cooking_oil', 'taro', 'sugar']",1
+147,100097472,['water'],1
+148,100097509,"['soft_drink', 'sugar']",1
+149,100097562,"['garlic', 'salt', 'shrimp', 'soybean_sauce', 'cooking_oil', 'ginger']",1
+150,100097918,"['flour', 'egg', 'sugar']",1
+151,100098159,"['kidney_beans', 'sugar']",1
+152,100098172,"['garlic', 'salt', 'chicken', 'pepper', 'soybean_sauce', 'ginger']",1
+153,100098692,"['milk', 'millet', 'egg', 'water', 'sugar']",1
+154,100098708,"['oats', 'banana', 'sugar']",1
+155,100098771,"['milk', 'salt', 'flour', 'egg', 'soybean_oil', 'sugar']",1
+156,100098876,"['almond', 'flour', 'egg', 'raisin', 'sugar']",1
+157,100100580,"['cream', 'chocolate', 'cocoa_powder', 'butter']",0
+158,100100764,"['chicken', 'ginger']",0
+159,100100871,"['rice', 'shiitake', 'potato', 'capsicum', 'ginger']",1
+160,100101004,"['cream', 'chocolate', 'sugar']",0
+161,100101059,"['vinegar', 'shiitake', 'salt', 'welsh_onion', 'jews_ear', 'pepper', 'soybean_sauce', 'ginger', 'ashgourd']",1
+162,100101573,"['milk', 'salt', 'flour', 'cranberry', 'cream_cheese', 'egg', 'sugar']",1
+163,100101665,"['sweet_potato', 'flour', 'butter', 'egg', 'sesame', 'sugar']",1
+164,100102950,"['milk_powder', 'butter', 'egg', 'water', 'syrup', 'peanut', 'sugar']",0
+165,100103793,"['milk', 'salt', 'flour', 'butter', 'egg', 'raisin', 'sugar']",1
+166,100104326,"['welsh_onion', 'pork', 'ginger']",0
+167,100104998,"['flour', 'yogurt', 'egg', 'sugar']",1
+168,100106060,"['broccoli', 'garlic', 'salt', 'chicken', 'ginger']",1
+169,1001069,"['milk', 'flour', 'chocolate', 'butter', 'egg', 'cocoa_powder', 'cooking_oil', 'sugar']",1
+170,100107188,"['salt', 'beef', 'ginger', 'welsh_onion']",0
+171,100108170,"['salt', 'cooking_oil', 'peas']",1
+172,100113310,['cream'],0
+173,100115750,"['tomato', 'garlic', 'salt', 'green_beans', 'soybean_sauce']",1
+174,100116928,"['water', 'salt', 'flour', 'butter', 'egg', 'pepper', 'mozzarella_cheese']",1
+175,100117395,"['salt', 'cooking_oil', 'egg', 'pepper']",1
+176,100117606,"['milk', 'flour', 'egg', 'cooking_oil', 'sugar']",1
+177,100118212,"['pork', 'water']",0
+178,100122204,"['sesame', 'egg', 'flour', 'sugar']",1
+179,100123076,"['milk', 'egg']",1
+180,100123079,"['rice', 'water']",0
+181,100123245,"['salt', 'cooking_oil', 'peanut', 'sugar']",0
+182,100123420,"['rice', 'walnut', 'sugar', 'water']",0
+183,100124185,"['milk', 'sweet_potato', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+184,100124682,"['star_anise', 'soybean_sauce', 'pork', 'laurel', 'water', 'capsicum', 'ginger', 'sugar']",0
+185,100124806,"['salt', 'pork', 'potato', 'carrot', 'soybean_sauce', 'ginger', 'sugar']",1
+186,100125141,"['salt', 'milk', 'egg', 'flour']",0
+187,100125616,"['coconut', 'gelatin', 'sugar']",1
+188,100126262,"['chanterelle', 'pork', 'garlic']",0
+189,100127229,"['pear', 'cucumber']",1
+190,100127914,"['garlic', 'pork', 'eggplant', 'welsh_onion', 'soybean_sauce', 'ginger']",1
+191,100127991,"['milk', 'gelatin', 'flour', 'butter', 'egg', 'sugar']",0
+192,100128495,"['mushroom', 'coriander', 'garlic']",0
+193,100128814,"['towel_gourd', 'pork', 'ginger']",1
+194,100129501,"['lemon_peel_oil', 'flour', 'butter', 'egg', 'brandy', 'lemon', 'sugar']",1
+195,1001307,['potato'],1
+196,1001315,"['blueberry', 'salt', 'flour', 'cream', 'butter', 'egg', 'water', 'lemon', 'sugar']",1
+197,100132089,"['flour', 'corn_oil', 'egg', 'sugar']",1
+198,100132736,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+199,100132955,"['towel_gourd', 'tomato']",1
+200,100133504,"['jujube', 'milk', 'flour', 'egg', 'sugar']",1
+201,100133969,"['abalone', 'garlic']",1
+202,100134017,"['salt', 'milk_powder', 'butter', 'egg', 'sugar']",0
+203,100134023,"['bayberry', 'sugar', 'water']",0
+204,100134027,"['milk', 'gelatin', 'cream_cheese', 'cream', 'butter', 'biscuit', 'green_tea', 'lemon', 'sugar']",1
+205,100134039,"['purple_laver', 'rice']",0
+206,100134129,"['milk', 'gelatin', 'cream', 'coconut', 'sugar']",1
+207,1001349,"['star_anise', 'water', 'cumin', 'salt', 'flour', 'eggplant', 'egg', 'pepper', 'cinnamon', 'clove']",1
+208,100134912,"['oats', 'banana']",1
+209,100136392,"['tomato', 'cheese', 'cream', 'butter', 'egg', 'pepper']",1
+210,100136469,"['salt', 'leavening_agent', 'flour', 'water', 'sugar']",1
+211,100136591,"['salt', 'soybean_sauce', 'sesame', 'bamboo_shoots']",1
+212,100137471,"['milk', 'gelatin', 'cream_cheese', 'yogurt', 'cream', 'butter', 'green_tea', 'water', 'sugar']",1
+213,100138236,"['salt', 'flour', 'milk_powder', 'butter', 'honey', 'water']",1
+214,100138314,"['salt', 'egg', 'oregano', 'pepper', 'bread']",1
+215,100138486,"['tomato', 'pasta', 'sausage', 'cucumber', 'pepper', 'sugar']",1
+216,100138555,"['salt', 'flour', 'egg', 'carrot', 'cinnamon', 'lemon', 'cooking_oil', 'sugar']",1
+217,100138823,"['salt', 'flour', 'cream', 'butter', 'egg', 'raisin', 'sugar']",1
+218,1001390,"['salt', 'potato', 'pepper']",0
+219,100139434,"['vanilla', 'flour', 'oats', 'egg', 'raisin', 'cooking_oil', 'sugar']",1
+220,1001441,"['tofu', 'salt', 'oyster_mushroom', 'welsh_onion', 'pepper', 'cooking_oil']",1
+221,100144139,"['flour', 'cooking_oil', 'egg', 'sugar']",1
+222,100151386,"['blueberry', 'mango', 'durian', 'cream', 'strawberry', 'sugar']",0
+223,100153264,"['flour', 'honey', 'egg', 'walnut', 'cooking_oil', 'sugar']",0
+224,100153280,['condensed_milk'],0
+225,100153299,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'sugar']",1
+226,100155902,"['flour', 'egg', 'sugar']",1
+227,100157097,"['oats', 'egg', 'sugar']",1
+228,100157223,"['salt', 'towel_gourd', 'tomato', 'egg']",1
+229,100157303,"['garlic', 'salt', 'green_beans', 'pork', 'soybean_sauce', 'sugar']",1
+230,100160613,['sweet_potato'],1
+231,100161071,"['onion', 'salt', 'chicken', 'potato', 'soybean_sauce', 'cooking_oil', 'sugar']",1
+232,100161170,"['pineapple', 'kiwifruit', 'tomato', 'flour', 'olive', 'butter', 'strawberry', 'water', 'mozzarella_cheese', 'sugar']",1
+233,100165214,"['avocado', 'sugar', 'cucumber']",0
+234,100169977,"['shrimp', 'tomato', 'kelp', 'ashgourd']",1
+235,100170056,"['cream', 'condensed_milk', 'durian', 'biscuit']",1
+236,100171513,"['salt', 'milk', 'flour', 'sugar']",1
+237,100171518,"['milk', 'flour', 'oats', 'honey', 'raisin', 'sugar']",1
+238,100184719,"['garlic', 'salt', 'cauliflower', 'soybean_sauce', 'cooking_oil']",1
+239,1001881,"['milk', 'salt', 'flour', 'milk_powder', 'cream', 'butter', 'pear', 'egg', 'sugar']",1
+240,100188925,"['lemon', 'milk', 'egg', 'sugar']",1
+241,100196013,"['oats', 'peanut_butter', 'banana', 'walnut']",1
+242,1001983,"['jujube', 'milk', 'flour', 'egg', 'walnut']",1
+243,1002035,"['honey', 'apple', 'water']",1
+244,100208290,"['vanilla', 'beef', 'tomato', 'onion', 'garlic', 'salt', 'fried_potato', 'pepper', 'mozzarella_cheese', 'sugar']",0
+245,1002121,"['vinegar', 'soybean_sauce', 'salt', 'water', 'capsicum', 'peanut']",1
+246,1002129,"['milk', 'egg', 'sugar', 'water']",1
+247,1002143,"['coffee', 'milk', 'egg', 'sugar']",1
+248,1002164,"['salt', 'tomato', 'bittergourd']",1
+249,100217486,"['garlic', 'welsh_onion', 'shrimp', 'peas', 'ginger']",1
+250,100218790,"['milk', 'gelatin', 'sugar', 'water']",1
+251,100218809,"['flour', 'butter', 'egg', 'sugar']",1
+252,100225961,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+253,1002286,"['flour', 'peach', 'water', 'corn_oil', 'sugar']",1
+254,100230036,"['vinegar', 'garlic', 'pork', 'abalone', 'welsh_onion', 'carrot', 'soybean_sauce', 'ginger', 'sugar']",0
+255,100232976,"['milk', 'mango', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+256,100234526,"['corn', 'ham', 'garlic', 'salt', 'peas', 'carrot', 'soybean_sauce']",1
+257,100244739,"['rice', 'cumin', 'onion', 'salt', 'carrot', 'water', 'raisin', 'lamb']",0
+258,100247899,"['tomato', 'salt', 'egg', 'cooking_oil', 'sugar']",1
+259,100247975,"['milk', 'gelatin', 'cream', 'condensed_milk', 'strawberry', 'water']",1
+260,100249424,"['soybean', 'yogurt', 'egg', 'sugar']",1
+261,100250350,"['jujube', 'milk', 'soybean', 'water', 'peanut']",0
+262,100250603,"['garlic', 'salt', 'abalone', 'welsh_onion', 'soybean_sauce', 'cooking_oil']",0
+263,100253229,['avocado'],0
+264,100254381,"['avocado', 'egg']",1
+265,100260725,"['blueberry', 'almond', 'flour', 'butter', 'egg', 'lemon', 'sugar']",1
+266,100260936,"['milk', 'egg', 'sugar']",1
+267,100261084,"['oats', 'milk', 'egg']",1
+268,100261182,"['gelatin', 'cream_cheese', 'cream', 'butter', 'biscuit', 'rum', 'water', 'chocolate', 'sugar']",1
+269,100261288,"['cooking_oil', 'pasta']",1
+270,100261572,"['milk', 'egg', 'pancake']",1
+271,100261575,"['sweet_potato', 'flour', 'milk_powder', 'egg', 'sesame', 'cooking_oil', 'sugar']",1
+272,100261625,"['salt', 'towel_gourd', 'prawn', 'garlic']",1
+273,100263159,"['kidney_beans', 'water_chestnut', 'coconut', 'water', 'sugar']",1
+274,100263334,"['salt', 'flour', 'potato']",1
+275,100263361,"['flour', 'cream', 'butter', 'egg', 'lemon', 'sugar']",1
+276,100263872,"['flour', 'egg', 'banana']",1
+277,100265846,"['garlic', 'salt', 'eggplant', 'soybean_sauce', 'sugar']",1
+278,100268522,"['flour', 'condensed_milk', 'egg', 'sesame', 'corn_oil', 'sugar']",1
+279,100268727,"['salt', 'chicken', 'pepper', 'capsicum', 'ginger']",1
+280,100268945,"['salt', 'flour', 'green_beans', 'welsh_onion', 'meat', 'soybean_sauce', 'cooking_oil', 'ginger']",0
+281,100269293,"['salt', 'flour', 'canola_oil', 'purple_laver', 'water']",1
+282,100269574,"['rice', 'vinegar', 'remoulade', 'shrimp', 'cucumber', 'pepper']",0
+283,100269672,"['flour', 'honey', 'corn_oil', 'water']",0
+284,100269818,['litchi'],1
+285,100270076,"['gelatin', 'cream_cheese', 'yogurt', 'cream', 'green_tea', 'water', 'lemon', 'sugar']",1
+286,100270100,"['salt', 'chicken', 'white_wine']",1
+287,100270440,"['lemon', 'litchi', 'sugar']",1
+288,100270783,"['garlic', 'salt', 'pork', 'cucumber', 'capsicum']",1
+289,100271211,"['flour', 'peanut_oil', 'egg', 'peanut', 'sugar']",1
+290,100271309,"['mango', 'cream', 'coconut', 'lemon', 'sugar']",0
+291,100271809,"['soybean_sauce', 'chicken', 'onion', 'pepper']",1
+292,100275145,"['cherry', 'soft_drink']",1
+293,100275431,"['flour', 'egg', 'sugar']",1
+294,100277053,"['milk', 'salt', 'flour', 'wheat', 'butter', 'bagel', 'water', 'sugar']",0
+295,100277758,"['garlic', 'green_beans', 'pork', 'potato', 'soybean_sauce', 'pumpkin', 'sugar']",0
+296,100277910,"['flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+297,100277994,"['apricot', 'sugar', 'water']",0
+298,100278121,"['milk', 'tomato', 'garlic', 'salt', 'welsh_onion', 'shrimp', 'mint', 'potato', 'pepper', 'soybean_sauce', 'sugar']",0
+299,100280901,"['cherry', 'sugar']",0
+300,100281786,"['milk', 'sweet_potato', 'butter', 'condensed_milk', 'mozzarella_cheese']",1
+301,100284135,['celery'],1
+302,100285746,"['star_anise', 'soybean_sauce', 'salt', 'pork', 'welsh_onion', 'capsicum', 'ginger']",0
+303,100286396,"['beef', 'mushroom', 'soybean_sauce', 'onion', 'garlic', 'salt', 'welsh_onion', 'pepper', 'capsicum', 'ginger', 'sugar']",1
+304,100287435,"['salt', 'chicken', 'ginger', 'garlic']",1
+305,100287442,"['blueberry', 'flour', 'butter', 'egg', 'sugar']",1
+306,1002889,"['tofu', 'ham', 'salt', 'clam', 'welsh_onion', 'shrimp', 'pumpkin']",1
+307,100294851,"['salt', 'peach']",1
+308,100294910,"['corn', 'ham', 'salt', 'carrot', 'cooking_oil']",1
+309,100295145,"['cherry_tomato', 'avocado', 'pepper', 'soybean_sauce', 'buckwheat', 'lemon']",1
+310,1003042,"['salt', 'welsh_onion', 'sausage', 'cucumber', 'capsicum', 'cooking_oil']",1
+311,100304320,"['flour', 'sugar', 'sweet_potato']",1
+312,100304726,"['towel_gourd', 'tomato']",1
+313,100312052,"['peach', 'water']",1
+314,1003167,"['soybean_sauce', 'salt', 'flour', 'eggplant', 'water', 'capsicum', 'cooking_oil', 'ginger', 'sugar']",0
+315,100320791,"['salt', 'flour', 'chicken', 'egg', 'pepper']",1
+316,1003211,"['coriander', 'garlic', 'salt', 'eggplant', 'soybean_sauce']",1
+317,1003380,"['shiitake', 'salt', 'soybean_sauce', 'sugar', 'ashgourd']",1
+318,100346317,['grape'],0
+319,100347290,"['avocado', 'rice', 'pork', 'onion']",1
+320,100347460,"['salt', 'capsicum', 'cooking_oil', 'soybean']",1
+321,100347665,"['common_carp', 'beans', 'welsh_onion', 'water', 'sesame', 'capsicum', 'ginger']",0
+322,100352256,"['honey', 'black_tea', 'lemon', 'water']",0
+323,100352587,"['carrot', 'rice', 'egg', 'onion']",1
+324,100352835,"['blueberry', 'milk', 'cream_cheese', 'cream', 'honey', 'sugar']",0
+325,100353798,"['honey', 'soybean']",0
+326,1003542,"['tomato', 'soybean_sauce', 'garlic', 'egg', 'capsicum', 'cooking_oil']",1
+327,100354710,"['milk', 'gelatin', 'cream', 'sesame', 'sugar']",0
+328,100355263,"['capsicum', 'chicken', 'cumin', 'potato']",1
+329,100356318,"['rice', 'tomato', 'salt', 'canola_oil', 'welsh_onion', 'egg']",0
+330,100356562,"['yogurt', 'milk_powder', 'egg', 'lemon', 'sugar']",1
+331,100357937,"['blueberry', 'milk', 'vinegar', 'flour', 'cream_cheese', 'cream', 'egg', 'lemon', 'cooking_oil', 'sugar']",1
+332,100358158,"['water', 'salt', 'flour', 'egg', 'amaranth', 'pepper', 'cooking_oil']",0
+333,100358564,"['salt', 'amaranth', 'garlic']",1
+334,100358639,"['welsh_onion', 'mushroom', 'okra', 'ginger']",1
+335,100358656,"['flour', 'yogurt', 'egg', 'sugar']",1
+336,100359046,"['blueberry', 'lemon', 'sugar']",0
+337,100359823,"['grape', 'sugar', 'water']",0
+338,100360565,"['milk', 'egg', 'sugar']",1
+339,100360784,['carrot'],0
+340,100362203,"['salt', 'vinegar', 'sugar']",0
+341,100364173,"['peach', 'sugar']",0
+342,100364244,"['chicken', 'oats', 'egg', 'carrot', 'cucumber']",1
+343,100364768,"['milk', 'flour', 'durian', 'egg', 'lemon', 'cooking_oil', 'sugar']",1
+344,100364782,"['flour', 'kidney_beans', 'condensed_milk', 'egg']",1
+345,100365810,['water'],0
+346,100365915,"['papaya', 'vinegar', 'sugar']",1
+347,100365926,"['green_beans', 'kidney_beans', 'sugar']",1
+348,100366113,"['rice', 'salt', 'sausage', 'egg', 'soybean_sauce', 'okra']",0
+349,100366516,"['milk', 'gelatin', 'coconut', 'water', 'sugar']",1
+350,100366589,['butter'],0
+351,100366823,['beverage_alcolohic_other'],1
+352,100367412,"['passionfruit', 'honey', 'green_tea', 'water', 'sugar']",0
+353,100367607,"['beef', 'broccoli', 'salt', 'pepper', 'soybean_sauce', 'ginger']",1
+354,100367759,"['sugar', 'ashgourd']",1
+355,100368468,"['millet', 'soybean', 'medlar', 'water']",0
+356,100368473,"['flour', 'cocoa_powder', 'water', 'chocolate', 'sugar']",0
+357,100368669,"['milk', 'salt', 'flour', 'honey', 'egg', 'sugar']",1
+358,100369233,"['apple', 'salt', 'chicken', 'thyme', 'butter', 'cinnamon', 'mustard', 'lemon', 'sugar']",0
+359,100369548,"['gelatin', 'cream_cheese', 'yogurt', 'cream', 'butter', 'biscuit', 'green_tea', 'water', 'lemon', 'cake', 'sugar']",1
+360,100369718,"['flour', 'milk']",0
+361,100370909,"['rice', 'tomato', 'salt', 'pork', 'beans', 'water', 'capsicum', 'pepper']",1
+362,100371488,"['garlic', 'spinach', 'pork', 'welsh_onion', 'capsicum', 'ginger']",1
+363,100371545,"['mung_bean', 'water']",1
+364,100371971,"['sweet_potato', 'salt', 'flour', 'vegetable_juice', 'water', 'pumpkin']",0
+365,100372557,"['milk', 'almond', 'milk_powder', 'oats', 'egg', 'pumpkin']",1
+366,100372730,['tomato'],1
+367,100373311,"['evaporated_milk', 'water', 'coffee', 'black_tea', 'sugar']",0
+368,100373396,"['salt', 'olive', 'flour', 'water']",0
+369,100373565,"['capsicum', 'celery', 'jews_ear', 'garlic']",1
+370,100373645,"['milk', 'salt', 'flour', 'chicken', 'butter', 'pepper']",1
+371,100373724,"['peach', 'gelatin', 'lemon', 'water']",1
+372,100373873,['cream_cheese'],0
+373,100374693,"['milk', 'salt', 'flour', 'milk_powder', 'water', 'sugar']",0
+374,100375105,"['soybean_sauce', 'pork', 'cauliflower']",1
+375,1003759,"['milk', 'gelatin', 'cream_cheese', 'cream', 'butter', 'biscuit', 'cherry', 'lemon', 'sugar']",1
+376,100376044,"['fig', 'honey', 'red_wine', 'cinnamon', 'sugar', 'clove']",0
+377,100376138,"['milk', 'salt', 'flour', 'butter', 'condensed_milk', 'egg', 'sesame', 'sugar']",0
+378,100376146,"['apple', 'flour', 'cranberry', 'condensed_milk', 'egg', 'cooking_oil', 'sugar']",1
+379,100376358,"['oats', 'milk', 'honey']",1
+380,100377346,"['corn', 'water']",0
+381,100377370,"['garlic', 'cabbage', 'welsh_onion', 'capsicum', 'ginger']",1
+382,100379113,"['milk', 'salt', 'fig', 'condensed_milk', 'purple_laver', 'cocoa_powder', 'carrot', 'cucumber', 'chocolate', 'sugar']",0
+383,100379285,"['millet', 'cooking_oil', 'egg', 'sugar']",1
+384,100379662,"['soybean_sauce', 'cumin', 'salt', 'pork', 'water', 'capsicum', 'sugar']",0
+385,100379804,"['butter', 'egg', 'sugar']",1
+386,100380155,"['kiwifruit', 'sugar', 'water']",1
+387,100381713,"['flour', 'cranberry', 'butter', 'green_tea', 'egg', 'sugar']",1
+388,100382706,['yogurt'],0
+389,100384539,"['oats', 'egg', 'sugar', 'sweet_potato']",1
+390,100384546,"['flour', 'celery', 'egg', 'carrot']",0
+391,100384765,"['pumpkin', 'gelatin', 'sugar']",1
+392,100384773,['coconut'],0
+393,100384834,"['millet', 'kidney_beans', 'water_chestnut', 'water', 'sugar']",1
+394,100384984,"['flour', 'butter', 'egg', 'coconut', 'raisin', 'sugar']",1
+395,100385064,"['salt', 'flour']",0
+396,100385729,"['kiwifruit', 'apple', 'yogurt', 'avocado', 'lemon']",0
+397,100385765,"['flour', 'butter', 'egg', 'sugar']",1
+398,100386200,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",1
+399,100386679,"['flour', 'milk', 'butter', 'nutmeg']",0
+400,100386768,"['flour', 'poppy_seed', 'cream_cheese', 'butter', 'egg', 'sugar']",0
+401,100386877,"['milk', 'egg', 'pepper']",1
+402,100388202,"['salt', 'welsh_onion', 'egg', 'capsicum', 'cooking_oil', 'okra']",1
+403,1003883,"['blueberry', 'yogurt']",0
+404,100388800,"['coriander', 'cumin', 'garlic', 'salt', 'laurel', 'pepper', 'cinnamon', 'soybean_sauce', 'sugar', 'lamb']",0
+405,100388910,"['salt', 'tofu', 'sesame', 'egg']",1
+406,100391637,"['vinegar', 'garlic', 'salt', 'capsicum', 'cooking_oil', 'mustard', 'sugar']",0
+407,1003919,"['soybean_sauce', 'rice', 'egg']",1
+408,100391942,"['flour', 'eggplant', 'welsh_onion', 'meat', 'egg', 'ginger']",0
+409,100392137,"['star_anise', 'allspice', 'nutmeg', 'cumin', 'salt', 'soybean', 'welsh_onion', 'laurel', 'egg', 'water', 'cinnamon', 'capsicum', 'cooking_oil', 'ginger', 'clove']",0
+410,100392145,"['rice', 'soybean_sauce', 'garlic', 'beans', 'welsh_onion', 'oyster', 'water', 'capsicum', 'ginger']",1
+411,100392507,"['beef', 'rice', 'salt', 'enokitake', 'welsh_onion', 'soybean_sauce', 'cooking_oil', 'sugar', 'lamb']",1
+412,100393043,"['flour', 'egg', 'milk_powder']",1
+413,100393131,"['enokitake', 'bamboo_shoots', 'coriander', 'shiitake']",1
+414,100393210,"['oats', 'banana', 'sugar']",1
+415,100393685,"['milk', 'salt', 'flour', 'butter', 'oats', 'walnut', 'sugar']",1
+416,100393867,"['sesame', 'pork', 'sugar']",1
+417,100394232,"['almond', 'salt', 'flour', 'egg', 'syrup', 'cooking_oil']",1
+418,100394324,"['salt', 'grapefruit_peel_oil']",0
+419,100394356,"['tofu', 'salt', 'enokitake', 'welsh_onion', 'kelp']",1
+420,100394379,"['salt', 'salmon', 'lemon', 'pepper']",1
+421,100394384,"['walnut', 'water', 'sesame', 'peanut', 'sugar']",1
+422,100394911,"['salt', 'cinnamon', 'egg', 'banana']",1
+423,100395150,"['rice', 'shiitake', 'spinach', 'pork', 'carrot', 'ginger']",1
+424,100395372,"['rice', 'onion', 'morchella', 'sausage', 'carrot']",0
+425,100395724,"['soybean_sauce', 'garlic', 'salt', 'cauliflower', 'welsh_onion', 'capsicum', 'ginger']",1
+426,100395993,"['milk', 'salt', 'flour', 'cranberry', 'soybean', 'butter', 'sugar']",1
+427,100396583,"['corn', 'pear', 'broccoli', 'carrot']",0
+428,100396847,"['flour', 'water']",0
+429,1003975,"['peach', 'lemon', 'sugar']",0
+430,1003981,"['salt', 'green_zucchini', 'welsh_onion', 'egg', 'capsicum', 'cooking_oil']",1
+431,100398208,"['gelatin', 'mango', 'cream', 'butter', 'biscuit', 'lemon', 'sugar']",0
+432,100398511,"['cream', 'cake']",0
+433,100398534,"['roselle', 'sugar', 'water']",0
+434,100398700,"['vanilla', 'flour', 'butter', 'green_tea', 'egg', 'sugar']",1
+435,100399399,"['water', 'salt', 'flour', 'pepper', 'sesame', 'soybean_sauce']",0
+436,100399458,['pomegranate'],0
+437,100399660,"['salt', 'cream', 'butter', 'pepper', 'crab', 'mozzarella_cheese']",1
+438,100399693,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'sugar']",1
+439,100399845,"['salt', 'flour', 'yogurt', 'green_tea', 'egg', 'cooking_oil', 'sugar']",1
+440,100400463,"['flour', 'milk', 'sugar', 'milk_powder']",1
+441,100400989,"['salt', 'flour', 'water']",1
+442,100400998,"['oats', 'milk', 'egg', 'sugar']",1
+443,100401644,"['salt', 'avocado', 'egg', 'pepper']",1
+444,100401860,"['flour', 'cream', 'egg', 'chocolate', 'sugar']",1
+445,100402050,"['flour', 'egg', 'raisin', 'corn_oil', 'orange', 'sugar']",1
+446,100402823,"['flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+447,100403186,"['jujube', 'salt', 'flour', 'soybean', 'milk_powder', 'butter', 'water', 'sugar']",1
+448,100404077,"['orange', 'gelatin', 'sugar', 'water']",1
+449,100405335,"['cream', 'syrup', 'almond', 'sugar']",0
+450,100406164,"['orange', 'sugar', 'water']",1
+451,100406238,"['salt', 'remoulade', 'avocado', 'egg', 'pepper', 'lemon', 'bread']",1
+452,100406768,"['milk', 'flour', 'butter', 'cocoa_powder', 'sugar']",1
+453,100406951,"['parsley', 'garlic', 'salt', 'butter', 'welsh_onion', 'salmon', 'lemon']",1
+454,100407092,"['flour', 'kidney_beans', 'sugar']",1
+455,100407093,"['spinach', 'rice', 'pork']",1
+456,100407326,"['flour', 'butter', 'cocoa_powder', 'egg', 'sugar']",1
+457,100407636,"['salt', 'capsicum', 'potato', 'garlic']",0
+458,100407691,"['flour', 'cream_cheese', 'cream', 'butter', 'biscuit', 'green_tea', 'egg', 'sugar']",1
+459,100407752,"['milk', 'salt', 'flour', 'cranberry', 'butter', 'egg', 'lemon', 'sugar']",1
+460,100408522,"['chicken', 'ginger']",1
+461,100408530,"['milk', 'salt', 'flour', 'purple_laver', 'egg', 'cooking_oil']",1
+462,100408919,"['flour', 'condensed_milk', 'green_tea', 'butter', 'sugar']",1
+463,100409843,"['milk', 'sweet_potato', 'flour', 'oats', 'egg', 'cooking_oil', 'sugar']",1
+464,100410485,"['whisky', 'flour', 'butter', 'egg', 'cocoa_powder', 'chocolate', 'sugar']",0
+465,100410520,"['wasabi', 'mango', 'potato_chip', 'potato', 'cucumber', 'salad_dressing', 'salmon']",0
+466,100410562,"['mushroom', 'broccoli', 'garlic', 'salt', 'peanut_oil']",1
+467,100410683,"['milk', 'flour', 'egg', 'cooking_oil', 'sugar']",1
+468,100411301,"['milk', 'gelatin', 'cream', 'butter', 'biscuit', 'strawberry', 'sugar']",1
+469,100411613,"['soft_drink', 'mallard_duck', 'ginger']",1
+470,100412262,"['broccoli', 'orange']",0
+471,100412788,"['cheese', 'sausage', 'egg', 'pepper', 'capsicum']",1
+472,100412851,"['corn', 'tomato', 'cheese', 'peas', 'egg', 'pepper']",1
+473,100413308,"['blueberry', 'milk', 'flour', 'cream_cheese', 'butter', 'egg', 'lemon', 'sugar']",1
+474,100413521,"['flour', 'egg', 'water']",0
+475,100414048,"['milk', 'yogurt']",0
+476,100414266,"['milk', 'vinegar', 'flour', 'egg', 'cooking_oil', 'sugar']",1
+477,100415495,['strawberry'],0
+478,100415643,"['milk_powder', 'honey', 'oats', 'egg', 'corn_oil', 'sugar']",1
+479,100416937,"['flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+480,100417489,"['flour', 'butter', 'egg', 'sugar']",1
+481,100417591,"['cinnamon', 'oats', 'banana', 'sugar']",1
+482,100417687,"['salt', 'shrimp', 'egg']",1
+483,100417746,"['milk', 'salt', 'flour', 'butter', 'sesame']",1
+484,100418205,['orange'],0
+485,100418551,"['flour', 'butter', 'egg', 'sugar']",1
+486,100418602,"['milk', 'flour', 'egg', 'raisin', 'cooking_oil', 'sugar']",1
+487,100418979,"['milk', 'flour', 'butter', 'egg', 'sugar']",1
+488,100419411,"['salt', 'pork', 'welsh_onion', 'water', 'ginger']",0
+489,100419977,"['pineapple', 'flour', 'egg', 'water', 'cooking_oil', 'sugar']",1
+490,100420214,"['milk', 'egg', 'sugar']",1
+491,100420399,"['cream', 'strawberry', 'sugar']",0
+492,100420600,"['salt', 'soybean_sauce', 'pork', 'water_chestnut']",0
+493,100421299,"['salt', 'cooking_oil', 'peanut']",0
+494,100421401,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'strawberry', 'water', 'sugar']",0
+495,100421485,"['water_chestnut', 'sugar', 'water']",0
+496,100421687,"['salt', 'asparagus', 'pepper']",1
+497,100421842,['orange'],0
+498,100422044,"['oats', 'raisin', 'egg', 'sweet_potato']",1
+499,100422438,"['flour', 'avocado', 'egg', 'corn_oil', 'sugar']",1
+500,100422879,"['flour', 'cream', 'egg', 'chocolate', 'sugar']",0
+501,100423118,"['salt', 'flour', 'water', 'sesame', 'cooking_oil']",1
+502,100423197,['bamboo_shoots'],0
+503,100423545,"['salt', 'ham', 'sugar', 'welsh_onion']",1
+504,100424623,"['vanilla', 'beef', 'tomato', 'water', 'onion', 'salt', 'red_wine', 'pepper', 'soybean_sauce', 'celery', 'sugar']",0
+505,100424733,"['salt', 'butter', 'flour', 'water']",1
+506,100424968,"['milk', 'egg', 'sugar']",1
+507,100425507,"['garlic', 'salt', 'capsicum', 'celery', 'sugar']",1
+508,100425822,"['pear', 'fig', 'sugar', 'water']",0
+509,100425882,"['blueberry', 'milk', 'salt', 'flour', 'butter', 'sugar']",1
+510,100426383,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+511,100426854,"['salt', 'avocado', 'pepper', 'garlic']",1
+512,1004272,"['salt', 'welsh_onion', 'ginger', 'garlic']",1
+513,1004279,"['salt', 'pak_choy', 'meat']",1
+514,100428223,"['peas', 'water']",0
+515,100428599,"['garlic', 'salt', 'welsh_onion', 'soybean_sauce', 'ginger']",0
+516,100428753,"['flour', 'cranberry', 'milk_powder', 'egg', 'corn_oil', 'sugar']",1
+517,100429035,"['flour', 'water']",0
+518,100429113,"['milk', 'flour', 'cream', 'cooking_oil', 'sugar']",1
+519,100429286,"['milk', 'milk_powder', 'cream', 'egg', 'sugar']",0
+520,100429874,"['flour', 'corn_oil', 'egg', 'passionfruit']",1
+521,100430127,"['butter', 'sweet_potato']",1
+522,100430855,"['millet', 'cooking_oil', 'egg', 'sugar']",1
+523,100431136,"['tofu', 'radish', 'salt', 'welsh_onion', 'cooking_oil', 'ginger']",1
+524,100431186,"['milk', 'almond', 'flour', 'cream', 'butter', 'egg', 'water', 'sugar', 'lemon_peel_oil']",0
+525,100432515,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'cinnamon', 'raisin', 'sugar']",0
+526,100432992,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'chocolate', 'sugar']",0
+527,100433146,"['oats', 'egg', 'sugar']",1
+528,100433769,"['mushroom', 'soybean_sauce', 'garlic', 'salt', 'pork', 'capsicum', 'cooking_oil', 'sugar']",1
+529,1004342,"['garlic', 'salt', 'pork', 'cucumber', 'capsicum', 'sugar']",1
+530,100434677,"['salt', 'flour', 'durian', 'butter', 'lemon', 'sugar']",1
+531,100434873,"['salt', 'flour', 'sugar', 'water']",0
+532,1004369,"['welsh_onion', 'soybean_sauce', 'egg', 'water']",1
+533,100437385,"['cream', 'coconut', 'gelatin', 'sugar']",1
+534,100438204,"['flour', 'kidney_beans', 'sorghum', 'water']",1
+535,100438348,"['milk', 'salt', 'flour', 'butter', 'egg', 'peanut', 'sugar']",0
+536,100438689,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",0
+537,100439173,"['salt', 'chicken', 'tomato', 'pepper']",1
+538,100439472,"['milk', 'flour', 'butter', 'egg', 'sesame', 'sugar']",1
+539,100439603,"['lemon', 'durian', 'sugar']",1
+540,100439972,"['vinegar', 'sugar', 'garlic']",0
+541,100440661,"['blueberry', 'lemon', 'milk', 'sugar']",1
+542,100441155,"['sesame', 'oats', 'kidney_beans', 'peanut_butter']",0
+543,100441225,"['tomato', 'onion', 'garlic', 'salt', 'pork', 'pepper', 'soybean_sauce', 'sugar']",0
+544,100441888,"['flour', 'chestnut', 'water', 'sesame', 'cooking_oil', 'sugar']",1
+545,100442207,"['milk', 'flour', 'egg', 'sesame', 'cooking_oil', 'sugar']",1
+546,100442264,"['honey', 'kidney_beans', 'sugar', 'water']",1
+547,100442711,"['flour', 'milk']",0
+548,100442817,"['egg', 'pumpkin']",1
+549,100443039,"['flour', 'butter', 'egg', 'sesame', 'sugar']",1
+550,100443145,"['vanilla', 'salt', 'flour', 'condensed_milk', 'butter', 'cocoa_powder']",1
+551,100443971,"['vanilla', 'milk', 'flour', 'cream', 'egg', 'sugar']",1
+552,100444733,"['coriander', 'soybean_sauce', 'cumin', 'salt', 'capsicum', 'cooking_oil', 'sugar', 'codfish']",1
+553,100444869,"['salt', 'capsicum', 'egg', 'sugar']",1
+554,100446498,"['milk', 'sweet_potato', 'salt', 'flour', 'water', 'cooking_oil', 'sugar']",1
+555,100446874,"['salt', 'spinach', 'cumin']",1
+556,100448090,"['vanilla', 'blueberry', 'cheese', 'butter', 'biscuit', 'egg', 'sugar']",1
+557,100448986,"['shiitake', 'salt', 'pork', 'welsh_onion', 'shrimp', 'egg', 'pepper', 'soybean_sauce', 'sugar']",0
+558,100449368,"['milk', 'strawberry', 'sugar', 'pudding']",1
+559,100450225,"['chocolate', 'almond']",0
+560,100453421,"['cream', 'lemon', 'cream_cheese', 'sugar']",0
+561,100454784,"['jujube', 'water']",0
+562,100454818,"['yogurt', 'strawberry', 'egg', 'lemon', 'sugar']",1
+563,100455219,"['cream', 'kidney_beans', 'bread']",0
+564,100455862,"['purple_laver', 'rice', 'cheese']",0
+565,100456719,"['vanilla', 'honey', 'chia', 'milk']",0
+566,100457778,"['radish', 'garlic', 'clam', 'egg', 'capsicum']",1
+567,100457872,"['salt', 'beef', 'butter', 'pepper']",1
+568,100458656,"['beef', 'rice', 'coriander', 'nutmeg', 'cumin', 'onion', 'cardamom', 'fenugreek', 'poppy_seed', 'saffron', 'turmeric', 'tamarind', 'purple_laver', 'cinnamon', 'potato', 'pepper', 'sesame', 'capsicum', 'mace', 'clove']",0
+569,100458838,"['star_anise', 'beef', 'cumin', 'garlic', 'salt', 'welsh_onion', 'soybean_sauce', 'ginger', 'sugar']",0
+570,100460253,"['milk', 'vinegar', 'flour', 'cheese', 'butter', 'egg', 'sugar']",1
+571,100460733,"['milk', 'flour', 'egg', 'strawberry', 'cooking_oil', 'sugar']",1
+572,100460765,"['alfalfa', 'egg', 'pork']",0
+573,100461100,"['salt', 'shrimp', 'cooking_oil', 'flour']",0
+574,100461259,"['cream', 'condensed_milk', 'biscuit']",0
+575,100461843,"['flour', 'butter', 'egg', 'sugar']",1
+576,100463275,"['soybean', 'sugar']",0
+577,100464271,"['cream', 'yogurt', 'lemon']",0
+578,100464460,"['sesame', 'soybean_sauce', 'flour', 'water']",0
+579,1004651,"['broccoli', 'garlic', 'salt', 'pork', 'capsicum', 'ginger']",1
+580,1004652,"['ham', 'cucumber', 'ginger', 'garlic']",1
+581,100465781,"['papaya', 'milk']",1
+582,100466937,['shiitake'],0
+583,100466947,"['milk', 'salt', 'flour', 'butter', 'green_tea', 'egg', 'sugar']",1
+584,100466984,"['flour', 'cranberry', 'cream_cheese', 'honey', 'egg', 'coconut', 'sugar']",1
+585,100467511,"['jujube', 'tomato', 'common_octopus', 'pork', 'potato', 'ginger']",0
+586,100467966,"['milk', 'salt', 'flour', 'butter', 'green_tea', 'kidney_beans', 'sugar']",1
+587,100468341,['strawberry'],0
+588,100469895,"['millet', 'rice']",0
+589,100469938,"['butter', 'cream_cheese', 'gelatin', 'biscuit']",1
+590,100470774,"['flour', 'egg', 'water', 'corn_oil', 'cake', 'sugar']",1
+591,100471123,"['milk', 'flour', 'avocado', 'egg', 'cooking_oil', 'sugar']",1
+592,100471480,"['blueberry', 'milk', 'flour', 'egg', 'corn_oil', 'sugar']",1
+593,100471490,"['capsicum', 'cooking_oil', 'pork', 'garlic']",1
+594,100471539,['cream_cheese'],0
+595,100471583,"['corn', 'cheese', 'meatball', 'capsicum', 'bread']",0
+596,100471634,"['rice', 'vinegar', 'onion', 'salt', 'welsh_onion', 'egg', 'carrot', 'soybean_sauce', 'cooking_oil']",1
+597,100472173,"['salt', 'flour', 'butter', 'egg', 'lemon', 'sugar']",1
+598,100472226,"['salt', 'flour', 'egg', 'sesame', 'corn_oil', 'sugar']",1
+599,100472228,"['yogurt', 'gelatin', 'water']",1
+600,100472866,"['soybean_sauce', 'garlic', 'salt', 'green_beans', 'capsicum', 'cooking_oil']",1
+601,100472901,"['flour', 'butter', 'egg', 'raisin', 'sugar']",1
+602,100473035,"['salt', 'flour', 'pepper']",0
+603,100473808,"['shrimp', 'water']",0
+604,100474622,"['oats', 'milk', 'sweet_potato']",1
+605,100475354,"['sesame', 'sugar', 'water']",0
+606,100476297,"['salt', 'chicken', 'honey', 'soybean_sauce', 'sugar']",1
+607,100476365,"['soybean_sauce', 'vinegar', 'salt', 'capsicum', 'lettuce', 'sugar']",0
+608,100477018,"['garlic', 'salt', 'welsh_onion', 'lamb', 'soybean_sauce', 'celery', 'ginger', 'sugar']",0
+609,100478120,"['salt', 'clam', 'cooking_oil', 'mustard', 'ginger']",0
+610,100478794,"['salt', 'egg', 'chicory']",1
+611,100479154,"['salt', 'fish', 'welsh_onion', 'egg', 'capsicum']",1
+612,100480463,"['pineapple', 'lemon', 'sugar']",0
+613,100480662,"['cabbage', 'radish']",0
+614,100481345,"['cream', 'pumpkin', 'water']",0
+615,100483278,"['flour', 'cooking_oil', 'ghee']",0
+616,100483729,"['milk', 'flour', 'egg', 'lemon', 'cooking_oil', 'sugar']",1
+617,100483920,"['vanilla', 'raspberry', 'cream', 'butter', 'egg', 'chocolate', 'sugar']",0
+618,100484268,"['chicken', 'mustard', 'garlic']",0
+619,100484474,"['star_anise', 'coriander', 'soybean_sauce', 'salt', 'chicken', 'welsh_onion', 'potato', 'capsicum', 'ginger']",0
+620,100484927,"['garlic', 'salt', 'welsh_onion', 'egg', 'jews_ear', 'soybean_sauce', 'cooking_oil', 'ginger']",0
+621,100485921,"['blueberry', 'milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+622,100486789,"['apple', 'flour', 'pasta', 'cinnamon', 'apricot', 'lemon', 'sugar']",1
+623,100486945,"['salt', 'egg', 'flour', 'water']",0
+624,100487204,"['milk', 'egg', 'sugar']",1
+625,100487482,"['salt', 'enokitake', 'egg']",0
+626,100488022,"['nutmeg', 'cumin', 'garlic', 'salt', 'welsh_onion', 'potato', 'capsicum', 'cooking_oil', 'ginger']",0
+627,100488305,"['star_anise', 'soybean_sauce', 'cumin', 'salt', 'water', 'sesame', 'capsicum', 'cooking_oil', 'peanut', 'ginger', 'sugar']",0
+628,100488852,"['garlic', 'salt', 'beans', 'welsh_onion', 'sugar']",1
+629,100489130,"['apple', 'flour', 'butter', 'honey', 'water', 'sugar']",1
+630,100489282,"['orange', 'sugar']",0
+631,100489428,"['tofu', 'soybean_sauce', 'garlic', 'salt', 'squid', 'welsh_onion', 'pepper', 'capsicum', 'ginger']",0
+632,100489548,"['milk', 'persimmon', 'banana', 'oats', 'water']",0
+633,100491485,"['salt', 'evaporated_milk', 'flour', 'sugar']",1
+634,100492212,"['salt', 'clam', 'welsh_onion', 'cooking_oil', 'ginger']",1
+635,100492572,"['flour', 'milk_powder', 'condensed_milk', 'butter', 'sesame']",1
+636,100492642,"['mixed_nuts', 'popcorn', 'oats', 'honey', 'syrup', 'cooking_oil', 'sugar']",0
+637,100493627,"['star_anise', 'allspice', 'nutmeg', 'cumin', 'salt', 'flour', 'welsh_onion', 'laurel', 'lamb', 'water', 'cinnamon', 'soybean_sauce', 'cooking_oil', 'celery', 'ginger', 'clove']",0
+638,100494237,"['milk', 'salt', 'flour', 'butter', 'honey', 'millet', 'egg', 'water', 'sesame', 'sugar']",0
+639,100494628,"['avocado', 'pear']",1
+640,100495160,"['pork', 'garlic']",1
+641,100497093,"['star_anise', 'allspice', 'nutmeg', 'cumin', 'salt', 'flour', 'welsh_onion', 'laurel', 'lamb', 'water', 'cinnamon', 'soybean_sauce', 'clove']",0
+642,100497103,"['white_wine', 'garlic', 'crayfish', 'cheese', 'cream', 'ginger']",1
+643,100498283,"['salt', 'pork', 'honey', 'sesame', 'soybean_sauce', 'sugar']",1
+644,1004984,"['welsh_onion', 'soybean_sauce', 'ginger', 'other_fish_product']",1
+645,100498688,"['milk', 'banana', 'oats', 'egg', 'raisin']",1
+646,100499186,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'orange', 'sugar']",0
+647,100499249,"['salt', 'flour', 'durian', 'butter', 'egg', 'water']",1
+648,100500488,"['flour', 'green_tea', 'egg', 'water', 'corn_oil', 'lemon', 'sugar']",1
+649,100501228,"['flour', 'yogurt', 'egg', 'corn_oil', 'lemon', 'sugar']",0
+650,100501291,"['salt', 'flour', 'butter', 'egg', 'sugar']",0
+651,100501634,"['salt', 'sugar', 'bayberry']",0
+652,100501900,"['oats', 'raisin', 'water']",1
+653,100501901,"['milk', 'durian', 'cream', 'egg', 'sugar']",0
+654,100501975,"['garlic', 'salt', 'egg', 'water', 'capsicum', 'sugar']",1
+655,100503067,"['star_anise', 'vinegar', 'garlic', 'pork', 'welsh_onion', 'soybean_sauce', 'ginger', 'sugar']",0
+656,100503588,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'sugar']",1
+657,100505012,"['blueberry', 'lemon', 'sugar']",1
+658,100506955,"['cream_cheese', 'cream', 'butter', 'biscuit', 'egg', 'lemon', 'sugar']",1
+659,100509060,"['salt', 'cucumber', 'amaranth', 'garlic']",0
+660,100509993,"['vanilla', 'milk', 'yogurt', 'avocado', 'honey', 'green_tea', 'water']",1
+661,100510177,"['rice', 'pumpkin', 'water']",0
+662,100510408,"['sugar', 'lemon_peel_oil']",1
+663,100511013,"['kiwifruit', 'orange']",0
+664,100511065,"['flour', 'rosemary']",0
+665,100511693,"['cream', 'condensed_milk', 'milk']",1
+666,100511697,"['flour', 'yogurt', 'egg', 'sugar']",1
+667,100513370,"['salt', 'salmon', 'egg']",1
+668,100514632,"['lemon', 'strawberry', 'sugar']",0
+669,100515318,"['cream', 'rum', 'cocoa_powder', 'egg', 'cocoa_butter', 'sugar']",0
+670,100515358,"['salt', 'flour', 'butter', 'egg', 'walnut', 'water', 'sugar']",0
+671,100516345,"['soybean_sauce', 'garlic', 'papaya', 'capsicum', 'ginger', 'sugar']",0
+672,100517611,"['vinegar', 'pork', 'water', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",1
+673,100519195,"['salt', 'flour', 'walnut', 'water', 'raisin', 'sugar']",0
+674,100519211,"['milk', 'cream', 'egg', 'cocoa_powder', 'biscuit', 'sugar']",0
+675,100519986,"['capsicum', 'soybean', 'garlic']",1
+676,100520304,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",0
+677,100520953,"['orange', 'medlar', 'sugar', 'ashgourd']",0
+678,100521372,"['butter', 'peach', 'sugar']",1
+679,100521846,"['rice', 'broccoli', 'crayfish', 'egg', 'potato']",0
+680,1005226,"['butter', 'mushroom', 'egg']",1
+681,100523868,"['garlic', 'salt', 'green_beans', 'pork', 'soybean_sauce', 'ginger']",1
+682,100523879,['grape'],0
+683,100524649,"['milk', 'gelatin', 'cream', 'butter', 'biscuit', 'rum', 'egg', 'chocolate', 'sugar']",0
+684,100524954,"['salt', 'cooking_oil', 'cabbage', 'sugar']",1
+685,100524967,"['flour', 'egg', 'vinegar', 'sugar']",1
+686,100525374,"['passionfruit', 'grapefruit', 'honey', 'water', 'orange', 'lemon']",1
+687,100526314,['cucumber'],0
+688,100526943,"['sugar', 'water']",1
+689,100528292,"['milk', 'gelatin', 'papaya', 'cream', 'coconut', 'sugar']",0
+690,100528335,"['passionfruit', 'lemon', 'apple', 'sugar']",0
+691,100529921,"['beef', 'garlic', 'salt', 'enokitake', 'beans', 'welsh_onion', 'water', 'capsicum', 'sugar']",1
+692,100530957,"['peach', 'sugar']",0
+693,100531158,"['soybean_sauce', 'mustard', 'squid']",1
+694,100532175,"['salt', 'flour', 'butter', 'peach', 'water', 'lemon', 'sugar']",1
+695,100532343,"['oyster', 'capsicum']",0
+696,100532593,"['crayfish', 'water']",0
+697,100532722,"['sugar', 'bayberry']",0
+698,100533276,"['passionfruit', 'lemon', 'sugar', 'water']",0
+699,100533738,"['salt', 'flour', 'water']",0
+700,100534310,"['salt', 'flour', 'water']",0
+701,1005350,"['mushroom', 'salt', 'welsh_onion', 'cooking_oil', 'ginger']",1
+702,100535231,"['salt', 'flour', 'passionfruit', 'butter', 'corn_oil', 'sugar']",1
+703,100535409,"['salt', 'butter', 'flour', 'sugar']",0
+704,100535561,['water'],1
+705,100535929,"['flour', 'cooking_oil']",0
+706,100537655,"['salt', 'pork', 'ginger', 'welsh_onion']",0
+707,100537690,"['sesame', 'cooking_oil']",0
+708,100538755,"['salt', 'welsh_onion', 'soybean_sauce', 'cooking_oil', 'sugar']",0
+709,100540154,"['beef', 'soybean_sauce', 'onion', 'garlic', 'chicken', 'shrimp', 'honey', 'capsicum', 'pineapple']",0
+710,100540182,"['corn', 'milk', 'flour', 'egg', 'sugar']",1
+711,1005404,"['tomato', 'salt', 'pasta', 'egg', 'water', 'cooking_oil']",1
+712,100540475,"['beef', 'coriander', 'tomato', 'garlic', 'salt', 'pepper', 'ginger']",1
+713,100541339,"['water', 'salt', 'chicken', 'welsh_onion', 'pepper', 'ginger']",1
+714,100542415,"['cocoa_powder', 'yogurt', 'bread']",1
+715,100543108,"['capsicum', 'mushroom']",1
+716,1005432,"['cream', 'pumpkin', 'water']",1
+717,100544820,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+718,100544876,"['capsicum', 'chicken']",1
+719,100545916,['pork'],0
+720,100547585,"['milk', 'gelatin', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+721,100547802,"['salt', 'green_beans']",0
+722,100548845,"['salt', 'soybean', 'sugar']",1
+723,100550786,"['salt', 'flour', 'butter', 'peach', 'pie_crust', 'water', 'lemon', 'sugar']",1
+724,100550999,"['lemon', 'sugar', 'water']",0
+725,100551122,"['salt', 'broccoli', 'cabbage', 'garlic']",1
+726,100553115,"['peach', 'sugar']",0
+727,100554075,"['tomato', 'salt', 'chicken', 'welsh_onion', 'water']",1
+728,100555260,"['salt', 'shrimp', 'peach', 'pepper', 'lemon']",0
+729,1005553,"['capsicum', 'carrot']",1
+730,100555463,"['salt', 'cream_cheese', 'egg', 'sugar', 'bread']",1
+731,1005562,"['salt', 'flour', 'oats', 'water', 'cooking_oil', 'sugar']",1
+732,100556335,"['flour', 'butter', 'egg', 'sesame', 'peanut', 'sugar']",1
+733,100556396,"['peach', 'sugar', 'water']",0
+734,100557504,"['tofu', 'pak_choy', 'garlic']",1
+735,100558634,"['star_anise', 'vinegar', 'pork', 'soybean_sauce', 'sugar']",0
+736,100558891,['egg'],0
+737,100559263,"['milk', 'apple', 'salt', 'oats', 'egg', 'soybean_sauce', 'mozzarella_cheese']",1
+738,100559893,"['salt', 'peanut', 'sugar']",0
+739,100560416,"['salt', 'egg', 'flour', 'water']",0
+740,100560559,['flour'],0
+741,100561037,['persimmon'],0
+742,100561201,"['flour', 'butter', 'egg', 'sugar']",1
+743,100561409,"['flour', 'chicken', 'cooking_oil', 'egg']",1
+744,100561629,"['welsh_onion', 'carrot', 'grape']",0
+745,100563244,"['flour', 'cranberry', 'cream_cheese', 'butter', 'egg', 'raisin', 'sugar']",1
+746,100563509,"['pork', 'ginger']",0
+747,1005644,"['soybean_sauce', 'garlic', 'beans', 'meat', 'carrot', 'water', 'capsicum', 'ginger']",1
+748,100565496,"['sweet_potato', 'butter', 'raisin', 'pumpkin', 'bread']",0
+749,100565809,"['salt', 'chicken', 'pepper', 'garlic']",1
+750,100567829,"['salt', 'flour', 'cranberry', 'oats', 'water', 'cooking_oil', 'sugar']",1
+751,100569663,"['jujube', 'sugar', 'water']",0
+752,100569853,"['rice', 'shiitake', 'garlic', 'salt', 'onion', 'chicken', 'welsh_onion', 'soybean_sauce', 'pumpkin', 'sugar']",0
+753,100571586,"['welsh_onion', 'shrimp', 'egg']",0
+754,100572518,"['cashew_nut', 'sugar', 'water']",0
+755,100573133,"['salt', 'flour', 'butter', 'water', 'raisin']",0
+756,100573533,"['milk', 'cream_cheese', 'cream', 'butter', 'biscuit', 'chocolate', 'sugar']",0
+757,100573676,"['soybean_sauce', 'peanut', 'vinegar', 'sugar']",1
+758,1005744,"['mallard_duck', 'salt', 'soybean_sauce', 'ginger', 'sugar']",1
+759,100574711,"['salt', 'flour', 'butter', 'egg', 'mozzarella_cheese', 'sugar']",1
+760,100575049,"['flour', 'water']",0
+761,100575277,"['salt', 'egg', 'sugar']",0
+762,100575475,"['tofu', 'coriander', 'mallard_duck', 'salt', 'welsh_onion', 'pepper', 'cooking_oil', 'ginger']",0
+763,100576690,"['flour', 'oats', 'chocolate']",0
+764,100577929,"['salt', 'flour', 'welsh_onion', 'butter', 'egg', 'capsicum', 'sugar']",0
+765,100578409,['flour'],1
+766,100578674,"['star_anise', 'cumin', 'shiitake', 'salt', 'pork', 'taro', 'pepper', 'cinnamon', 'soybean_sauce', 'sugar', 'clove']",0
+767,100578910,"['flour', 'milk_powder']",0
+768,100579792,"['cooking_oil', 'egg', 'banana']",1
+769,100580533,"['flour', 'cream_cheese', 'sugar']",1
+770,100581919,['sweet_potato'],1
+771,100582917,"['salt', 'butter', 'flour']",0
+772,100583068,['taro'],0
+773,100584162,"['pork', 'welsh_onion', 'potato', 'soybean_sauce', 'beer', 'sugar']",1
+774,100584680,"['flour', 'persimmon']",0
+775,100584692,"['rice', 'milk', 'cranberry', 'water', 'sugar']",1
+776,100584976,"['salt', 'flour', 'cream', 'butter', 'egg', 'pumpkin', 'sugar']",0
+777,100585568,"['salt', 'flour', 'sugar', 'water']",0
+778,100586024,"['milk', 'salt', 'flour', 'butter', 'condensed_milk', 'egg', 'water', 'sugar']",0
+779,100586380,"['flour', 'lemon', 'egg', 'sugar']",0
+780,100586430,"['common_carp', 'garlic', 'beans', 'welsh_onion', 'water', 'capsicum', 'ginger']",0
+781,100586929,"['salt', 'butter', 'flour', 'sugar']",0
+782,100587234,"['chia', 'yogurt']",0
+783,100587545,"['beef', 'soybean_sauce', 'onion', 'garlic', 'salt', 'egg', 'pepper', 'capsicum', 'cooking_oil', 'sugar']",1
+784,100587882,"['longan', 'oats', 'milk', 'egg']",1
+785,100588333,"['flour', 'sugar', 'water']",0
+786,1005887,"['chestnut', 'water']",1
+787,100589311,"['cumin', 'salt', 'chicken', 'pepper', 'soybean_sauce', 'cooking_oil', 'sugar']",0
+788,100589834,"['soybean_sauce', 'garlic', 'shrimp', 'capsicum', 'cooking_oil']",0
+789,100590601,"['salt', 'flour', 'chicken', 'egg', 'pepper', 'cooking_oil']",1
+790,100590955,"['cumin', 'salt', 'welsh_onion', 'capsicum', 'lamb']",1
+791,100591486,"['rice', 'salt', 'welsh_onion', 'shrimp', 'egg', 'cooking_oil']",0
+792,1005924,"['salt', 'rice', 'egg']",1
+793,100592418,"['radish', 'salt', 'shrimp', 'water', 'ginger']",0
+794,100592623,"['jujube', 'soybean', 'sugar']",1
+795,100592831,"['blueberry', 'milk', 'egg', 'sugar']",1
+796,100593041,"['salt', 'flour', 'cranberry', 'milk_powder', 'butter', 'egg', 'water', 'sesame', 'sugar']",0
+797,100593727,"['flour', 'yogurt', 'egg', 'cooking_oil', 'sugar']",1
+798,100594451,"['rice', 'shiitake', 'salt', 'chicken', 'potato', 'pepper', 'soybean_sauce', 'cooking_oil']",1
+799,100595296,"['sweet_potato', 'cream', 'butter', 'taro', 'sugar']",0
+800,100595469,"['garlic', 'salt', 'peanut_oil', 'peas', 'capsicum']",1
+801,100597300,"['flour', 'sugar', 'water']",0
+802,100597867,"['milk', 'flour', 'cream', 'butter', 'egg', 'water', 'pumpkin', 'sugar']",1
+803,100598092,['persimmon'],0
+804,100599186,"['almond', 'butter', 'honey', 'walnut', 'sugar']",1
+805,100602006,"['star_anise', 'coriander', 'soybean_sauce', 'garlic', 'salt', 'chicken', 'welsh_onion', 'capsicum', 'cooking_oil', 'ginger', 'sugar']",0
+806,100603355,"['orange', 'passionfruit']",0
+807,100603616,"['honey', 'water_chestnut', 'water']",1
+808,100604297,"['capsicum', 'lemon', 'beef']",1
+809,100604459,"['pineapple', 'vinegar', 'garlic', 'salt', 'water', 'capsicum', 'sugar']",0
+810,100604661,"['salt', 'flour', 'milk_powder', 'butter', 'sugar']",0
+811,100604806,"['sweet_potato', 'salt', 'milk_powder', 'honey', 'sesame', 'lemon']",1
+812,100604825,"['salt', 'soybean_sauce', 'egg', 'jews_ear']",1
+813,100605035,"['gelatin', 'water']",1
+814,100605676,"['miso', 'peanut_butter', 'chocolate', 'peanut', 'bread']",0
+815,100605888,"['flour', 'avocado', 'black_currant', 'egg', 'cooking_oil', 'sugar']",1
+816,100605939,"['cream', 'sesame', 'strawberry', 'sugar']",0
+817,100606437,"['strawberry', 'pancake', 'sugar']",0
+818,100606710,"['salt', 'pork', 'ginger']",0
+819,100606880,"['vanilla', 'milk', 'apple', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+820,100607071,"['welsh_onion', 'soybean_sauce', 'mushroom', 'tofu']",1
+821,1006084,"['vanilla', 'milk', 'flour', 'butter', 'egg', 'strawberry', 'mint', 'sugar']",1
+822,100609044,['orange'],0
+823,100609215,"['butter', 'soybean_sauce', 'enokitake']",1
+824,100609472,['passionfruit'],0
+825,100611033,"['flour', 'corn_oil', 'egg', 'sugar']",0
+826,100618976,"['vanilla', 'almond', 'flour', 'cream', 'butter', 'egg', 'strawberry', 'walnut', 'chocolate', 'sugar']",0
+827,100619211,"['lemon', 'strawberry', 'sugar']",0
+828,100619550,"['salt', 'pak_choy', 'meat']",0
+829,100619636,"['flour', 'milk', 'sugar']",0
+830,100620467,['orange'],0
+831,100621117,"['vanilla', 'milk', 'gelatin', 'water', 'sugar']",1
+832,100622103,"['mushroom', 'feta_cheese', 'parsley', 'spinach', 'thyme', 'rosemary', 'egg', 'oregano']",0
+833,100622112,"['flour', 'corn_oil', 'sugar', 'water']",0
+834,100622529,"['oats', 'yogurt', 'egg']",1
+835,100623422,"['milk', 'salt', 'flour', 'welsh_onion', 'cooking_oil']",1
+836,100623547,"['flour', 'milk_powder', 'butter', 'egg', 'cocoa_powder', 'cinnamon', 'lemon', 'ginger', 'sugar']",1
+837,100624292,"['milk', 'salt', 'flour', 'grape', 'cream', 'butter', 'egg', 'walnut', 'raisin', 'sugar']",0
+838,100624689,"['oats', 'banana']",1
+839,100625401,"['milk', 'apple', 'sugar']",1
+840,100626066,"['vanilla', 'flour', 'cranberry', 'butter', 'green_tea', 'egg', 'walnut', 'pistachio', 'chocolate', 'sugar']",1
+841,100626450,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+842,100626542,"['milk', 'flour', 'chocolate', 'cream', 'butter', 'egg', 'strawberry', 'cocoa_powder', 'cooking_oil', 'sugar']",0
+843,100627757,"['milk', 'salt', 'flour', 'egg', 'cooking_oil']",0
+844,100628203,"['pork', 'welsh_onion', 'ginger', 'water', 'taro']",1
+845,100629163,"['vinegar', 'flour', 'milk_powder', 'egg', 'lemon', 'sugar']",1
+846,100630169,"['milk_powder', 'egg', 'sugar', 'water']",1
+847,100630648,['flour'],0
+848,100631108,"['beef', 'tomato', 'shiitake', 'garlic', 'salt', 'welsh_onion', 'soybean_sauce', 'cooking_oil', 'celery', 'ginger']",0
+849,100631249,"['garlic', 'salt', 'pork', 'green_zucchini', 'welsh_onion', 'shrimp', 'pepper', 'soybean_sauce']",0
+850,100633119,"['chicken', 'pepper']",1
+851,100634157,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+852,100634290,"['milk', 'flour', 'egg', 'biscuit', 'sugar']",1
+853,100634401,['walnut'],0
+854,100634609,['beef'],0
+855,100634682,['pork'],0
+856,100634748,"['mushroom', 'salt', 'welsh_onion', 'egg', 'ginger']",1
+857,100635871,"['salt', 'flour', 'spinach', 'cabbage', 'egg', 'cooking_oil']",0
+858,100637310,"['milk', 'salt', 'oats', 'egg', 'sugar']",1
+859,100637850,"['soybean_sauce', 'garlic', 'abalone', 'welsh_onion', 'capsicum', 'ginger', 'sugar']",1
+860,100638353,"['salt', 'flour', 'water', 'rye', 'sugar']",0
+861,100638462,"['salt', 'flour', 'butter', 'egg', 'strawberry', 'sugar']",0
+862,100638505,"['garlic', 'welsh_onion', 'egg', 'water', 'soybean_sauce', 'cooking_oil']",0
+863,1006390,"['salt', 'cucumber', 'ginger', 'garlic']",1
+864,100639045,"['oats', 'yogurt', 'egg']",1
+865,100639381,"['hazelnut', 'salt', 'flour', 'cream_cheese', 'fig', 'wheat', 'butter', 'honey', 'water', 'rye', 'sugar']",0
+866,100639729,"['chocolate', 'strawberry']",1
+867,100640771,"['flour', 'pumpkin']",0
+868,100641081,"['corn', 'cooking_oil', 'egg', 'sugar']",1
+869,100642241,"['star_anise', 'soybean_sauce', 'garlic', 'salt', 'soybean', 'pork', 'welsh_onion', 'ginger', 'potato', 'water', 'cinnamon', 'capsicum', 'peanut', 'sugar']",0
+870,100644029,"['garlic', 'salt', 'enokitake', 'beans', 'welsh_onion', 'lamb', 'water', 'capsicum', 'ginger', 'sugar']",1
+871,1006717,"['salt', 'towel_gourd', 'pork', 'garlic']",1
+872,1006819,"['salt', 'salmon', 'cooking_oil', 'lemon']",1
+873,1006913,"['salt', 'capsicum', 'egg', 'carrot']",1
+874,1007116,"['salt', 'chicken', 'welsh_onion', 'water', 'ginger', 'sugar']",1
+875,1007316,"['salt', 'cooking_oil', 'peas']",1
+876,1007369,"['rice', 'tomato', 'onion', 'garlic', 'pork', 'butter', 'egg']",1
+877,1007487,"['corn', 'mushroom', 'milk', 'onion', 'flour', 'cream', 'butter']",1
+878,1007712,"['salt', 'flour', 'green_zucchini', 'egg', 'cooking_oil']",1
+879,1007920,"['soybean_sauce', 'garlic', 'salt', 'pork', 'welsh_onion', 'potato', 'carrot', 'capsicum', 'cooking_oil', 'ginger']",1
+880,1007959,"['kiwifruit', 'gelatin', 'water', 'lemon', 'sugar']",1
+881,1007961,"['coriander', 'radish', 'salt', 'pepper', 'lamb']",0
+882,1008130,"['salt', 'lettuce', 'garlic']",1
+883,1008209,"['salt', 'swamp_cabbage', 'garlic']",1
+884,1008355,"['grapefruit', 'lemon', 'honey', 'sugar']",1
+885,1008400,"['morchella', 'pork', 'ginger', 'garlic']",1
+886,1008581,"['salt', 'chickpea']",1
+887,1008663,"['broccoli', 'milk', 'garlic', 'salt', 'cream', 'mozzarella_cheese']",1
+888,1008812,"['cinnamon', 'apple', 'ginger', 'sugar']",1
+889,1008845,"['corn', 'milk', 'medlar', 'oats', 'water', 'sugar']",1
+890,1008880,"['apple', 'flour', 'butter', 'egg', 'sugar']",1
+891,1008894,"['shrimp', 'ashgourd', 'garlic']",1
+892,1008904,"['coriander', 'shiitake', 'radish', 'salt', 'pepper', 'ginger']",1
+893,100892,"['mixed_nuts', 'cream', 'cocoa_powder', 'chestnut', 'cake']",1
+894,1009149,"['rice', 'shiitake', 'salt', 'welsh_onion', 'shrimp', 'ginger']",1
+895,1009513,"['milk', 'marshmallow']",1
+896,1009753,"['lemon', 'orange', 'sugar']",1
+897,1009935,"['salt', 'welsh_onion', 'shrimp', 'egg', 'jews_ear', 'cucumber']",1
+898,1010009,"['vanilla', 'vinegar', 'butter', 'egg', 'lemon', 'sugar']",1
+899,1010426,"['capsicum', 'chicken', 'soybean', 'garlic']",1
+900,1010430,"['honey', 'european_chestnut', 'sweet_potato']",0
+901,1010722,"['rice', 'salt', 'welsh_onion', 'purple_laver', 'sesame', 'soybean_sauce', 'salmon', 'mustard']",1
+902,1010816,"['milk', 'flour', 'banana', 'honey', 'egg']",1
+903,1010817,"['corn', 'flour', 'cherry_tomato', 'water', 'sugar']",1
+904,1011276,"['tomato', 'salt', 'jews_ear', 'pepper', 'cooking_oil', 'ginger', 'ashgourd']",1
+905,1011684,"['vinegar', 'soybean_sauce', 'salt', 'capsicum', 'sugar']",1
+906,1012520,"['shiitake', 'salt', 'beans', 'water', 'capsicum']",1
+907,1012524,"['salt', 'cooking_oil', 'egg', 'green_zucchini']",1
+908,1012533,"['salt', 'capsicum', 'tofu', 'soybean_sauce']",1
+909,101269775,"['vanilla', 'milk', 'flour', 'cream', 'butter', 'egg', 'chestnut', 'cooking_oil', 'sugar']",1
+910,1012721,"['milk', 'cream', 'butter', 'egg', 'raisin', 'sugar', 'bread']",1
+911,1012812,['sesame'],0
+912,1012975,"['tofu', 'broccoli', 'garlic', 'welsh_onion', 'ginger']",1
+913,1013095,"['salt', 'orange']",1
+914,1013394,"['tomato', 'salt', 'flour', 'chicken', 'laurel', 'red_wine', 'pepper', 'sugar']",1
+915,1013425,"['honey', 'rice', 'raisin', 'apple']",1
+916,1013517,"['salt', 'shrimp', 'mustard', 'garlic']",1
+917,1013560,"['flour', 'egg', 'sesame', 'cooking_oil', 'pumpkin', 'sugar']",1
+918,1013698,"['broccoli', 'soybean_sauce', 'garlic', 'salt', 'pork', 'welsh_onion', 'carrot', 'capsicum', 'cooking_oil']",1
+919,1013742,"['salt', 'soybean_sauce', 'towel_gourd', 'soybean']",1
+920,1014951,"['oats', 'almond', 'honey', 'water']",1
+921,1015379,"['beef', 'tomato', 'garlic', 'salt', 'welsh_onion', 'egg', 'cooking_oil', 'ginger', 'sugar']",1
+922,1015554,"['water', 'salt', 'laurel', 'cucumber', 'capsicum', 'mustard', 'pepper', 'fennel']",0
+923,1015850,"['flour', 'cream_cheese', 'yogurt', 'butter', 'kidney_beans', 'egg', 'sugar']",1
+924,1015897,"['cream', 'mozzarella_cheese', 'sugar', 'corn']",1
+925,1015991,"['medlar', 'pork', 'angelica', 'longan', 'ginger']",1
+926,1016096,"['garlic', 'salt', 'pork', 'bittergourd', 'sugar']",1
+927,1016415,"['salt', 'flour', 'water']",1
+928,101659544,"['saffron', 'coriander', 'nutmeg', 'cumin', 'onion', 'cardamom', 'salt', 'fenugreek', 'poppy_seed', 'turmeric', 'tamarind', 'cinnamon', 'pepper', 'sesame', 'capsicum', 'mace', 'clove']",0
+929,101666815,"['mushroom', 'tomato', 'onion', 'garlic', 'salt', 'parsley', 'chicken', 'basil', 'kidney_beans', 'pepper']",0
+930,101667963,"['peanut', 'sugar', 'water']",0
+931,1016751,"['lettuce', 'salt', 'sausage', 'soybean_sauce', 'cooking_oil']",0
+932,101678077,"['salt', 'beef', 'pepper', 'garlic']",1
+933,101678422,"['cream', 'butter', 'cream_cheese', 'sugar']",1
+934,101680109,"['tomato', 'salt', 'welsh_onion', 'shrimp', 'egg', 'cooking_oil', 'sugar']",0
+935,101683923,['peanut'],0
+936,101684066,"['vanilla', 'milk', 'salt', 'flour', 'butter', 'egg', 'cocoa_powder', 'chocolate', 'sugar']",1
+937,101690839,"['water', 'salt', 'cheese', 'oats', 'egg', 'carrot', 'pepper']",0
+938,101690939,"['mushroom', 'salt', 'pork', 'beans', 'welsh_onion', 'water', 'capsicum', 'ginger']",1
+939,101690984,"['milk', 'salt', 'flour', 'condensed_milk', 'corn_oil', 'egg', 'cocoa_powder', 'water', 'lemon', 'chocolate', 'sugar']",1
+940,101692227,"['vanilla', 'flour', 'butter', 'egg', 'cocoa_powder', 'sugar']",1
+941,101693495,"['milk', 'flour', 'corn_oil', 'egg', 'cocoa_powder', 'lemon', 'chocolate', 'sugar']",0
+942,101695978,"['celery', 'capsicum', 'beef', 'garlic']",1
+943,101696054,"['chicken', 'welsh_onion', 'water', 'soybean_sauce', 'ginger', 'sugar']",0
+944,101697586,"['cream', 'chocolate', 'egg', 'sugar']",1
+945,1017000,['pumpkin'],1
+946,101702958,"['salt', 'green_zucchini', 'welsh_onion', 'shrimp', 'cooking_oil']",0
+947,101708619,"['honey', 'oats', 'egg', 'cooking_oil', 'sugar']",1
+948,101708685,"['loquat', 'sugar']",1
+949,101708940,"['milk', 'flour', 'corn_oil', 'egg', 'sesame', 'chocolate', 'sugar']",0
+950,101712023,"['welsh_onion', 'beef', 'ginger']",0
+951,101712622,"['oats', 'egg']",1
+952,101715139,['kiwifruit'],0
+953,101716839,"['cream', 'egg', 'flour', 'sugar']",1
+954,101717291,['avocado'],0
+955,1017174,['soybean'],0
+956,101719559,"['corn', 'salad_dressing', 'cheese']",1
+957,101719947,"['ham', 'milk', 'cucumber', 'tomato', 'salt', 'flour', 'butter', 'pepper', 'mozzarella_cheese', 'sugar', 'bread']",1
+958,101720221,"['white_wine', 'salt', 'green_zucchini', 'shrimp', 'pepper', 'ginger']",1
+959,101720656,"['cucumber', 'garlic', 'salt', 'flour', 'carrot', 'water', 'jews_ear', 'soybean_sauce', 'cooking_oil', 'peanut']",0
+960,101720838,"['salt', 'flour', 'egg', 'sesame', 'cooking_oil', 'sugar']",1
+961,101721023,"['millet', 'jujube', 'medlar', 'sugar']",1
+962,1017221,"['salt', 'capsicum', 'cumin', 'pork']",1
+963,1017249,"['tofu', 'salt', 'enokitake', 'welsh_onion', 'soybean_sauce']",1
+964,101725809,"['salt', 'avocado', 'egg', 'pepper']",1
+965,1017259,"['soybean_sauce', 'pork', 'welsh_onion', 'capsicum', 'ginger']",1
+966,1017291,"['vinegar', 'salt', 'pork', 'welsh_onion', 'soybean_sauce', 'ginger', 'sugar']",0
+967,101731115,"['flour', 'jujube', 'milk', 'sweet_potato']",0
+968,101742407,"['coriander', 'salt', 'pork', 'welsh_onion', 'water', 'sesame', 'capsicum', 'ginger']",0
+969,1017463,"['flour', 'butter', 'egg', 'lemon', 'sugar']",1
+970,101750641,['avocado'],0
+971,101751424,"['milk', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+972,101753065,"['milk', 'gelatin', 'mango', 'coconut', 'water', 'sugar']",1
+973,101754116,['capsicum'],0
+974,101755000,"['strawberry', 'yogurt']",0
+975,101755480,"['sesame', 'butter', 'sweet_potato']",1
+976,101755730,['coconut'],0
+977,101756595,"['chicken', 'cherry_tomato', 'chicory', 'cucumber', 'lettuce']",1
+978,101756714,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+979,101758520,"['chicken', 'potato', 'ginger']",1
+980,101758610,"['jujube', 'milk', 'soybean', 'oats', 'egg', 'walnut']",1
+981,101759278,"['milk', 'flour', 'egg', 'water', 'lemon', 'corn_oil', 'sugar']",0
+982,101759410,"['hazelnut', 'salt', 'flour', 'butter', 'condensed_milk', 'egg', 'sugar']",1
+983,101760455,"['millet', 'cooking_oil', 'canola_oil', 'water']",0
+984,101762254,"['strawberry', 'yogurt', 'biscuit']",0
+985,101762265,"['salt', 'flour', 'butter', 'avocado', 'egg', 'sugar']",1
+986,101764753,"['flour', 'buckwheat', 'water']",1
+987,101765287,"['flour', 'spinach', 'egg', 'corn_oil', 'sugar']",0
+988,101765312,"['tomato', 'garlic', 'salt', 'welsh_onion', 'shrimp', 'soybean_sauce', 'ginger', 'sugar']",0
+989,101767346,"['milk', 'salt', 'flour', 'yogurt', 'butter', 'egg', 'sugar']",0
+990,101768965,"['flour', 'honey', 'butter', 'sugar']",1
+991,101770085,"['flour', 'rice', 'sugar', 'sweet_potato']",0
+992,101770398,"['milk', 'salt', 'flour', 'cream', 'egg', 'sugar']",0
+993,101771287,"['salt', 'pork', 'welsh_onion', 'bamboo_shoots', 'pepper', 'soybean_sauce', 'ginger']",0
+994,101771947,"['flour', 'yogurt', 'kidney_beans', 'egg', 'sesame', 'sugar']",1
+995,101772402,"['scallop', 'ginger', 'water']",0
+996,101773811,"['sesame', 'milk', 'banana']",0
+997,101773887,"['garlic', 'flour', 'green_zucchini', 'welsh_onion', 'egg', 'carrot', 'ginger']",0
+998,101774039,"['flour', 'condensed_milk', 'sugar', 'water']",1
+999,101776125,"['egg', 'beer', 'canola_oil']",0
+1000,101777716,"['medlar', 'salt', 'chicken', 'pork', 'pepper', 'ginger']",0
+1001,101778269,"['star_anise', 'soybean_sauce', 'pork', 'welsh_onion', 'fennel', 'capsicum', 'ginger']",1
+1002,101780777,"['flour', 'cooking_oil', 'sugar', 'water']",0
+1003,101781581,"['salt', 'green_zucchini', 'carrot']",1
+1004,101781661,"['cream', 'lemon']",0
+1005,101781744,"['milk', 'salt', 'milk_powder', 'egg', 'cooking_oil', 'sugar']",0
+1006,101781797,"['flour', 'butter', 'sugar']",0
+1007,101782843,"['lemon', 'orange', 'sugar']",1
+1008,101782937,"['vanilla', 'milk', 'flour', 'cream', 'egg', 'strawberry', 'lemon', 'corn_oil', 'sugar']",0
+1009,101789531,"['radish', 'shiitake', 'macaroni', 'welsh_onion', 'shrimp', 'sausage']",1
+1010,101790190,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",0
+1011,101790212,"['salt', 'avocado', 'bread', 'pepper']",0
+1012,101790264,"['star_anise', 'soybean_sauce', 'cumin', 'garlic', 'pork', 'pepper', 'cinnamon', 'capsicum', 'ginger', 'clove']",1
+1013,101791797,"['salt', 'plum', 'sugar', 'water']",1
+1014,101793990,"['tofu', 'mushroom', 'shiitake', 'salt', 'soybean', 'welsh_onion', 'bamboo_shoots', 'water', 'sesame', 'cooking_oil']",0
+1015,101795088,"['honey', 'kidney_beans', 'sugar']",0
+1016,101795385,"['mushroom', 'coriander', 'garlic', 'pork', 'welsh_onion', 'capsicum', 'ginger']",0
+1017,101796390,['peas'],0
+1018,101798671,"['bamboo_shoots', 'soybean_sauce', 'sugar', 'laurel']",1
+1019,101799170,"['salt', 'corn_oil', 'pork', 'sugar']",0
+1020,101799771,"['milk', 'gelatin', 'peach', 'coconut', 'water', 'sugar']",1
+1021,101800208,"['salt', 'plum', 'sugar', 'water']",1
+1022,101800582,"['salt', 'sausage', 'peas', 'soybean_sauce', 'cooking_oil', 'sugar']",1
+1023,101800898,"['milk', 'gelatin', 'mango', 'coconut', 'water', 'sugar']",1
+1024,101801262,"['rice', 'milk', 'welsh_onion', 'avocado', 'egg']",1
+1025,101804446,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",0
+1026,101804559,"['rose', 'roselle', 'sugar', 'water']",0
+1027,101804781,"['mung_bean', 'sugar', 'water']",0
+1028,101804926,"['flour', 'milk', 'egg', 'sugar']",1
+1029,101805081,"['water', 'onion', 'salt', 'beans', 'welsh_onion', 'pepper', 'soybean_sauce']",0
+1030,101805126,"['vanilla', 'hazelnut', 'salt', 'cream', 'honey', 'egg', 'cocoa_powder', 'sugar']",0
+1031,101806075,"['star_anise', 'beef', 'soybean_sauce', 'salt', 'welsh_onion', 'laurel', 'water', 'cinnamon', 'capsicum', 'ginger', 'sugar']",0
+1032,101807193,"['okra', 'garlic', 'salt', 'welsh_onion', 'egg', 'pepper', 'ginger']",1
+1033,101807233,"['milk', 'flour', 'banana', 'egg', 'corn_oil', 'sugar']",1
+1034,101809438,"['gelatin', 'cherry', 'water', 'lemon', 'sugar']",0
+1035,101810761,"['sesame', 'rice', 'milk', 'sugar']",1
+1036,101812017,"['salt', 'plum', 'sugar', 'water']",0
+1037,101812233,"['milk', 'flour', 'butter', 'egg', 'sugar']",1
+1038,101813762,"['soybean', 'sugar']",1
+1039,101813996,"['tomato', 'onion', 'garlic', 'salt', 'basil', 'butter', 'oregano', 'pepper', 'sugar']",0
+1040,101814057,"['milk', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+1041,101814747,"['milk', 'salt', 'flour', 'milk_powder', 'cream', 'butter', 'egg', 'sugar']",0
+1042,101815685,"['plum', 'sugar']",0
+1043,101817618,"['purple_laver', 'apple']",0
+1044,101818540,"['salt', 'flour', 'butter', 'egg', 'water', 'sesame', 'sugar']",0
+1045,101820656,"['spinach', 'peas', 'scallop']",0
+1046,101820721,"['vanilla', 'milk', 'cream', 'rum', 'egg', 'sugar']",0
+1047,101821310,"['vanilla', 'apricot', 'lemon', 'sugar']",0
+1048,101821862,"['milk', 'salt', 'flour', 'cream_cheese', 'cream', 'butter', 'honey', 'egg', 'cocoa_powder', 'chocolate', 'sugar']",1
+1049,101822559,"['cream', 'chocolate']",1
+1050,101823384,"['flour', 'soybean', 'walnut']",1
+1051,101823898,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",0
+1052,101824121,"['milk', 'flour', 'butter', 'egg', 'sugar']",1
+1053,101824194,"['papaya', 'milk', 'sugar']",1
+1054,101825076,"['garlic', 'salt', 'egg', 'water', 'soybean_sauce', 'lettuce']",1
+1055,101825330,"['vanilla', 'cream', 'rum', 'black_currant', 'egg', 'sugar']",0
+1056,101825364,['crayfish'],0
+1057,101825740,"['salt', 'capsicum', 'egg', 'pepper']",1
+1058,101827137,"['salt', 'cream', 'cocoa_powder', 'chocolate', 'sugar']",0
+1059,101827798,['mung_bean'],1
+1060,101827958,"['broccoli', 'onion', 'salt', 'chicken', 'honey', 'potato', 'pepper', 'carrot', 'capsicum']",1
+1061,101828063,"['salt', 'flour', 'water', 'sesame', 'sugar']",0
+1062,101828216,"['peach', 'lemon', 'sugar', 'water']",0
+1063,101829030,"['cream', 'biscuit', 'yogurt', 'sugar']",1
+1064,101830128,"['blueberry', 'lemon', 'beverage_alcolohic_other', 'sugar']",0
+1065,101830162,"['garlic', 'eggplant', 'welsh_onion', 'soybean_sauce', 'corn_oil']",1
+1066,101830378,"['milk', 'ice_cream']",0
+1067,101830419,"['gelatin', 'raspberry', 'flour', 'cream', 'egg', 'mint', 'lemon', 'litchi', 'sugar']",1
+1068,101830907,"['salt', 'sugar', 'bayberry']",0
+1069,101831129,"['pineapple', 'tomato', 'vinegar', 'sugar']",0
+1070,101831869,"['soybean_sauce', 'garlic', 'pork', 'beans', 'welsh_onion', 'ginger', 'water', 'capsicum', 'sugar']",0
+1071,101832582,"['salt', 'flour', 'butter', 'avocado', 'egg', 'pistachio', 'lemon', 'sugar']",1
+1072,101834628,"['flour', 'lemon', 'egg', 'sugar']",1
+1073,101836507,"['flour', 'egg', 'sugar']",1
+1074,101837360,['ice_cream'],0
+1075,101837548,"['sugar', 'bayberry']",1
+1076,101838300,"['cucumber', 'soybean_sauce', 'garlic', 'salt', 'flour', 'water', 'capsicum']",0
+1077,101838471,"['vanilla', 'apricot', 'lemon', 'sugar']",0
+1078,101839463,"['chicken', 'pepper', 'soybean_sauce', 'ginger', 'sugar']",1
+1079,101839515,"['soybean_sauce', 'garlic', 'salt', 'celery', 'shrimp', 'pepper', 'capsicum', 'cooking_oil', 'beer', 'ginger', 'sugar']",0
+1080,101839525,['litchi'],0
+1081,101839585,"['gelatin', 'mango', 'condensed_milk', 'coconut', 'sugar']",1
+1082,101839738,"['almond', 'flour', 'cream', 'butter', 'honey', 'egg', 'sugar']",1
+1083,101840333,"['mushroom', 'soybean_sauce', 'garlic', 'chicken', 'welsh_onion', 'potato', 'capsicum', 'ginger']",0
+1084,101840882,"['gelatin', 'cream', 'butter', 'peach', 'biscuit', 'lemon', 'sugar']",1
+1085,101841358,"['mung_bean', 'pumpkin', 'water']",0
+1086,101843920,"['cream', 'litchi', 'gelatin', 'sugar']",1
+1087,101844828,"['mung_bean', 'sugar', 'water']",0
+1088,101844977,"['garlic', 'eggplant', 'water', 'soybean_sauce', 'sugar']",1
+1089,101846520,"['cream', 'soy_milk', 'sugar', 'water']",0
+1090,101846624,"['peach', 'sugar', 'water']",0
+1091,101847790,"['salt', 'flour', 'passionfruit', 'egg', 'water', 'lemon', 'cooking_oil', 'sugar']",1
+1092,101847961,"['miso', 'garlic', 'flour', 'chicken', 'cabbage', 'remoulade', 'water', 'soybean_sauce', 'sugar']",0
+1093,101848427,['grape'],0
+1094,101848903,"['salt', 'flour', 'egg', 'water', 'sugar']",1
+1095,101849312,"['milk', 'salt', 'flour', 'butter', 'oats', 'egg', 'water', 'sugar']",1
+1096,101852047,"['soybean_sauce', 'salt', 'chicken', 'capsicum', 'ginger']",1
+1097,101853291,"['tomato', 'onion', 'garlic', 'salt', 'basil', 'butter', 'oregano', 'pepper', 'sugar']",0
+1098,101853433,['oats'],0
+1099,101853958,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+1100,101854521,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+1101,101855478,['passionfruit'],0
+1102,101856210,"['condensed_milk', 'millet', 'egg', 'corn_oil', 'sugar']",1
+1103,101857205,"['salt', 'flour', 'cream_cheese', 'fig', 'butter', 'walnut', 'red_wine', 'water', 'sugar']",0
+1104,101859147,"['vinegar', 'garlic', 'carrot', 'capsicum', 'shallot']",0
+1105,101859840,"['vanilla', 'milk', 'water', 'cinnamon', 'coffee', 'ice_cream', 'sugar']",0
+1106,101859922,"['salt', 'shrimp', 'egg']",0
+1107,101860351,"['beef', 'salt', 'welsh_onion', 'soybean_sauce', 'ginger', 'sugar']",0
+1108,101862558,"['flour', 'milk_powder']",1
+1109,101863223,"['salt', 'flour', 'cranberry', 'butter', 'egg', 'mozzarella_cheese', 'sugar']",1
+1110,101865330,"['milk', 'salt', 'flour', 'butter', 'honey', 'egg', 'sugar']",0
+1111,101865553,"['plum', 'pear', 'sugar']",0
+1112,101867105,"['welsh_onion', 'soybean_sauce', 'fish', 'peanut_oil']",0
+1113,101867903,"['soybean_sauce', 'buckwheat']",1
+1114,101871072,"['coriander', 'salt', 'avocado', 'wholewheat_bread', 'egg', 'pepper', 'capsicum', 'lemon']",1
+1115,101871545,"['milk', 'gelatin', 'cream', 'avocado', 'butter', 'biscuit', 'sugar']",1
+1116,101872635,"['tomato', 'salt', 'chicken', 'egg', 'pepper', 'lemon', 'cooking_oil', 'mustard', 'ginger', 'sugar']",0
+1117,101873578,"['milk', 'cocoa_butter', 'cocoa_powder', 'cocoa', 'sugar']",0
+1118,101873963,"['tofu', 'tomato', 'garlic', 'salt', 'towel_gourd', 'welsh_onion', 'water', 'cooking_oil', 'ginger', 'sugar']",0
+1119,101874895,"['milk', 'salt', 'honey', 'egg', 'pumpkin']",1
+1120,101878487,"['tomato', 'bottlegourd', 'garlic', 'salt', 'welsh_onion', 'cooking_oil']",1
+1121,101878648,"['flour', 'pork', 'sugar', 'water']",0
+1122,101880177,"['butter', 'pumpkin', 'pepper']",0
+1123,101882100,"['gelatin', 'flour', 'milk_powder', 'cheese', 'cream', 'butter', 'condensed_milk', 'egg', 'coconut', 'sugar']",1
+1124,101883,"['salt', 'egg']",1
+1125,101883476,"['milk', 'almond', 'salt', 'flour', 'butter', 'sugar']",0
+1126,101884650,"['vanilla', 'flaxseed', 'banana', 'oats', 'honey', 'sugar']",0
+1127,101884767,"['milk', 'egg', 'sugar']",1
+1128,101886918,"['milk', 'egg', 'sugar']",1
+1129,101888751,"['flour', 'butter']",0
+1130,101888908,"['gelatin', 'flour', 'butter', 'evaporated_milk', 'egg', 'sugar']",1
+1131,101889893,"['onion', 'garlic', 'salt', 'flour', 'coconut', 'pepper']",0
+1132,101890478,"['sesame', 'oats', 'parmesan_cheese']",0
+1133,101890565,"['plum', 'yogurt', 'cheese', 'butter', 'egg', 'sugar']",1
+1134,101891813,"['flour', 'flaxseed', 'green_zucchini', 'dates', 'water', 'ginger']",0
+1135,101892174,"['rice', 'coriander', 'salt', 'scallop', 'welsh_onion', 'shrimp', 'oyster', 'pepper', 'cooking_oil', 'ginger']",0
+1136,101893275,['chicken'],1
+1137,101894048,"['milk', 'walnut']",0
+1138,101896411,"['star_anise', 'soybean_sauce', 'shiitake', 'garlic', 'cumin', 'onion', 'chicken', 'pork', 'welsh_onion', 'clove', 'pepper', 'cinnamon', 'capsicum', 'ginger', 'sugar']",1
+1139,101911504,"['garlic', 'welsh_onion', 'shrimp', 'capsicum', 'ashgourd']",1
+1140,101937956,"['salt', 'pork', 'welsh_onion', 'pepper', 'ginger']",0
+1141,101964,"['pineapple', 'cucumber']",1
+1142,101964006,"['salt', 'flour', 'milk_powder', 'butter', 'pumpkin', 'sugar']",0
+1143,102003538,"['milk', 'flour', 'milk_powder', 'butter', 'egg', 'corn_oil', 'sugar']",1
+1144,102021,"['tofu', 'garlic', 'salt', 'pork', 'welsh_onion', 'pak_choy', 'soybean_sauce', 'ginger', 'sugar']",1
+1145,102043522,"['corn', 'mushroom', 'rice', 'shiitake', 'salt', 'green_beans', 'cauliflower', 'welsh_onion', 'peas', 'carrot', 'pepper', 'soybean_sauce', 'salmon']",0
+1146,102045410,"['flour', 'cooking_oil', 'sugar', 'water']",1
+1147,102045902,"['capsicum', 'pumpkin', 'garlic']",1
+1148,102046721,"['vanilla', 'milk', 'salt', 'flour', 'butter', 'honey', 'cashew_nut', 'egg', 'cinnamon', 'raisin', 'cake', 'sugar', 'lemon_peel_oil']",1
+1149,102051393,"['radish', 'soybean', 'capsicum', 'cooking_oil', 'sugar']",0
+1150,102051545,"['soybean_sauce', 'salt', 'fish', 'pork', 'welsh_onion', 'capsicum', 'cooking_oil', 'ginger']",0
+1151,102051721,"['passionfruit', 'pear', 'lime', 'sugar']",0
+1152,102052030,"['salt', 'soybean', 'sugar']",0
+1153,102107664,['sweet_potato'],0
+1154,102115801,['pomegranate'],0
+1155,102115812,"['milk', 'flour', 'banana', 'butter', 'condensed_milk', 'egg', 'sugar']",1
+1156,102116062,"['sugar', 'ashgourd']",1
+1157,102117068,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'orange', 'sugar']",0
+1158,102117459,"['egg', 'banana']",0
+1159,102120293,"['salt', 'garden_cress']",1
+1160,102122479,"['salt', 'pork', 'welsh_onion', 'carrot', 'pepper', 'jews_ear', 'capsicum']",0
+1161,102123319,"['hazelnut', 'cocoa_powder', 'sugar']",1
+1162,102123471,"['milk', 'almond', 'gelatin', 'salt', 'flour', 'cream', 'butter', 'egg', 'cocoa_powder', 'water', 'syrup', 'chocolate', 'sugar']",0
+1163,102124132,"['sesame', 'egg', 'banana']",0
+1164,102124589,"['rice', 'tomato', 'salt', 'welsh_onion', 'egg', 'cooking_oil']",1
+1165,102124682,['pomegranate'],0
+1166,102125158,"['mint', 'grapefruit']",0
+1167,102126952,"['taro', 'sugar']",1
+1168,102127320,"['grapefruit', 'honey', 'sugar']",0
+1169,102128954,"['chicken', 'coriander', 'cumin', 'onion']",0
+1170,102129525,"['tomato', 'cumin', 'salt', 'potato', 'cooking_oil', 'sugar']",0
+1171,102131646,"['salt', 'cooking_oil', 'chickpea', 'pepper']",1
+1172,102131714,"['cream', 'salt', 'water']",0
+1173,102132438,['chicken'],0
+1174,102132652,"['flour', 'egg', 'milk_powder', 'water']",1
+1175,102133328,"['salt', 'shrimp', 'flour', 'corn']",0
+1176,102133968,"['sesame', 'shrimp']",0
+1177,102134110,"['flour', 'mung_bean', 'butter', 'water', 'corn_oil', 'sugar']",0
+1178,102134293,"['salt', 'flour', 'welsh_onion', 'egg', 'water']",1
+1179,102134928,['corn'],0
+1180,102135575,"['vanilla', 'peanut_butter', 'almond', 'salt', 'flour', 'banana', 'oats', 'egg', 'strawberry', 'sesame', 'lemon', 'sugar']",0
+1181,102136168,"['shrimp', 'agar', 'vinegar', 'water']",0
+1182,102136267,"['salt', 'cooking_oil', 'egg', 'taro']",1
+1183,102138325,"['soybean_sauce', 'pork', 'ginger']",1
+1184,102138862,"['salt', 'flour', 'butter', 'condensed_milk', 'egg', 'water', 'sugar']",0
+1185,102139023,"['welsh_onion', 'soybean_sauce', 'lettuce', 'garlic']",1
+1186,102139647,"['vanilla', 'rice', 'milk', 'egg', 'sugar']",1
+1187,102140600,"['mushroom', 'water', 'salt', 'flour', 'egg', 'pepper']",0
+1188,102141604,"['corn', 'cranberry', 'orange', 'vanilla']",0
+1189,102141935,"['tomato', 'vinegar', 'common_carp', 'garlic', 'salt', 'soybean', 'welsh_onion', 'water', 'capsicum', 'ginger', 'sugar']",0
+1190,102143501,"['salt', 'flour', 'green_beans', 'milk_powder', 'cheese', 'cream', 'butter', 'egg', 'water', 'lemon', 'sugar']",0
+1191,102147171,"['salt', 'butter', 'egg', 'sugar']",1
+1192,102147183,"['pecans', 'milk']",0
+1193,102147445,"['corn', 'broccoli', 'onion', 'salt', 'cheese', 'butter', 'carrot', 'pepper', 'capsicum', 'pumpkin']",1
+1194,102148156,"['salt', 'flour', 'milk_powder', 'honey', 'egg', 'water', 'sesame', 'corn_oil', 'orange', 'sugar']",0
+1195,102148391,"['radish', 'salt', 'flour', 'pork', 'shrimp', 'egg', 'ginger']",0
+1196,102148658,"['sesame', 'orange']",0
+1197,102149115,"['salt', 'fish', 'pepper']",0
+1198,102149264,"['capsicum', 'sugar', 'water']",0
+1199,102149432,"['milk', 'gelatin', 'raspberry', 'cream_cheese', 'cream', 'butter', 'biscuit', 'green_tea', 'chocolate', 'sugar']",1
+1200,102149915,"['salt', 'codfish', 'pepper']",1
+1201,102150109,"['bamboo_shoots', 'water']",0
+1202,102150742,"['cumin', 'salt', 'peanut_oil', 'potato', 'pepper']",0
+1203,102151619,"['gelatin', 'cream_cheese', 'yogurt', 'cream', 'lemon', 'sugar']",0
+1204,102152847,"['flour', 'milk', 'egg', 'sweet_potato']",1
+1205,102153264,"['star_anise', 'salt', 'pork', 'welsh_onion', 'laurel', 'cinnamon', 'ginger', 'clove']",0
+1206,102153606,['capsicum'],0
+1207,102156001,"['flour', 'milk', 'sugar', 'corn']",0
+1208,102157119,['water'],0
+1209,102158037,"['milk', 'salt', 'flour', 'condensed_milk', 'walnut', 'sugar']",1
+1210,102158715,"['milk', 'salt', 'flour', 'butter', 'kidney_beans', 'water', 'sugar']",0
+1211,102158963,['passionfruit'],0
+1212,102160441,"['rice', 'salt', 'flour', 'butter', 'egg', 'water', 'sugar']",0
+1213,102160498,"['cream', 'butter', 'beer', 'sugar']",1
+1214,102161232,"['sweet_potato', 'flour', 'milk_powder', 'egg', 'sesame']",1
+1215,102161805,"['milk', 'salt', 'flour', 'butter', 'kidney_beans', 'egg', 'sesame', 'sugar']",0
+1216,102161813,"['bottlegourd', 'garlic', 'salt', 'shrimp', 'ginger']",1
+1217,102162449,"['rice', 'tomato', 'okra', 'salt', 'purple_laver', 'capsicum', 'sugar']",0
+1218,102162947,"['star_anise', 'vinegar', 'salt', 'welsh_onion', 'laurel', 'fennel', 'egg', 'cinnamon', 'soybean_sauce', 'ginger', 'sugar']",0
+1219,102163282,"['ginkgo_nuts', 'water']",0
+1220,102164355,"['avocado', 'egg']",0
+1221,102165236,"['sesame', 'medlar', 'ginger']",0
+1222,102167641,"['salt', 'butter', 'flour', 'sugar']",1
+1223,102168017,"['salt', 'flour', 'banana', 'egg', 'cinnamon', 'buckwheat', 'sugar']",0
+1224,102168799,"['flour', 'milk_powder', 'cream', 'butter', 'peanut_butter', 'sugar']",1
+1225,102169292,"['salt', 'cashew_nut', 'cooking_oil']",0
+1226,102169413,"['salt', 'flour', 'milk_powder', 'cream', 'butter', 'egg', 'water', 'sugar']",0
+1227,102170122,"['milk', 'garlic', 'salt', 'cheese', 'cream', 'butter', 'pepper', 'bread']",0
+1228,102170237,"['soybean_sauce', 'soybean', 'pork', 'carrot']",0
+1229,102170342,"['radish', 'garlic', 'salt', 'soybean_sauce', 'cooking_oil', 'sugar']",0
+1230,102170622,"['beef', 'radish', 'salt', 'welsh_onion', 'pak_choy', 'soybean_sauce', 'ginger', 'sugar']",0
+1231,102170739,"['milk', 'salt', 'flour', 'butter', 'millet', 'egg', 'sugar']",0
+1232,102172693,"['cream', 'flour', 'sugar']",1
+1233,102173420,"['salt', 'flour', 'butter', 'condensed_milk', 'egg', 'water']",0
+1234,102174349,"['lemon', 'orange', 'sugar']",0
+1235,102175695,"['milk', 'salt', 'flour', 'butter', 'cinnamon', 'raisin', 'sugar']",0
+1236,102176245,"['jujube', 'millet', 'water']",0
+1237,102177264,"['tomato', 'garlic', 'welsh_onion', 'capsicum', 'cooking_oil', 'ginger', 'sugar']",0
+1238,102177446,"['soybean', 'ashgourd']",0
+1239,102177866,"['flour', 'milk_powder', 'condensed_milk', 'honey', 'corn_oil']",1
+1240,102178890,"['peas', 'sugar', 'water']",0
+1241,102179265,"['cream', 'salt', 'sugar', 'water']",0
+1242,102180083,"['salt', 'green_beans', 'cooking_oil', 'tea']",0
+1243,102180353,"['star_anise', 'salt', 'pork', 'cuttlefish', 'laurel', 'pepper', 'cinnamon', 'soybean_sauce', 'cooking_oil', 'beer', 'ginger', 'sugar']",0
+1244,102180555,"['apple', 'cranberry', 'cherry_tomato', 'avocado', 'salad_dressing', 'raisin', 'orange']",0
+1245,102183001,"['strawberry', 'sugar']",0
+1246,102186975,"['tomato', 'garlic', 'salt', 'prawn', 'welsh_onion', 'cooking_oil', 'beer', 'ginger', 'sugar']",0
+1247,102187360,"['tomato', 'salt', 'oyster_mushroom', 'welsh_onion', 'egg', 'water', 'cooking_oil']",1
+1248,102187485,"['soybean_sauce', 'garlic', 'salt', 'chicken', 'capsicum', 'ginger', 'sugar']",0
+1249,102187671,"['salt', 'capsicum', 'chicken', 'pistachio']",0
+1250,102188380,"['sesame', 'walnut', 'egg', 'flour']",0
+1251,102188808,"['radish', 'salt', 'pork', 'welsh_onion', 'egg', 'pepper']",0
+1252,102188845,"['salt', 'cranberry', 'flour', 'cream', 'green_tea', 'sugar']",1
+1253,102190846,"['grapefruit', 'sugar', 'water']",0
+1254,102191153,"['tomato', 'garlic', 'salt', 'oregano', 'sugar']",0
+1255,102191160,['oyster'],0
+1256,102192066,"['corn', 'rice', 'purple_laver', 'egg', 'carrot']",0
+1257,102193067,"['flour', 'pork']",0
+1258,102195336,"['flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+1259,102195656,"['ham', 'rice', 'cumin', 'salt', 'avocado', 'egg', 'capsicum', 'cooking_oil']",0
+1260,102196351,"['salt', 'crayfish', 'welsh_onion', 'cooking_oil', 'ginger']",1
+1261,102202490,"['vinegar', 'pork', 'sesame', 'soybean_sauce', 'ginger', 'sugar']",0
+1262,102203041,"['flour', 'egg', 'sugar']",1
+1263,102203888,"['passionfruit', 'lemon', 'sugar']",0
+1264,102203956,"['lemon', 'chocolate', 'sugar', 'mango']",1
+1265,102204175,"['flour', 'butter', 'egg', 'water', 'lemon', 'sugar']",1
+1266,102205389,['sweet_potato'],0
+1267,102206657,"['blueberry', 'milk', 'flour', 'yogurt', 'egg', 'cooking_oil', 'sugar']",1
+1268,102209991,"['passionfruit', 'water', 'orange', 'lemon', 'sugar']",0
+1269,102210817,"['salt', 'flour', 'milk_powder', 'cream', 'butter', 'honey', 'egg', 'water', 'sesame', 'corn_oil', 'sugar']",0
+1270,102211244,"['salt', 'enokitake', 'peas', 'water', 'pumpkin']",0
+1271,102212067,"['capsicum', 'peas', 'ginkgo_nuts', 'mallard_duck']",0
+1272,102212718,"['flour', 'cranberry', 'spinach', 'water', 'sugar']",0
+1273,102213887,"['condensed_milk', 'milk_powder']",1
+1274,102214767,"['cumin', 'soybean_sauce', 'chicken', 'pepper', 'capsicum']",0
+1275,102215247,"['salt', 'orange', 'sugar']",0
+1276,102217296,"['cream', 'millet', 'egg', 'corn_oil', 'sugar']",1
+1277,102217507,"['sesame', 'orange']",0
+1278,102217824,"['salt', 'flour', 'yogurt', 'butter', 'egg']",0
+1279,102219696,"['milk', 'salt', 'flour', 'butter', 'condensed_milk', 'sugar']",1
+1280,102220929,"['blueberry', 'milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+1281,102222173,"['soybean_sauce', 'garlic', 'salt', 'welsh_onion', 'scallop', 'capsicum']",0
+1282,102222597,['scallop'],0
+1283,102223210,"['coriander', 'salt', 'pork', 'purple_laver', 'egg', 'celery']",1
+1284,102223502,"['milk', 'cream', 'egg', 'water', 'coffee', 'chocolate', 'sugar']",0
+1285,102224153,"['rice', 'salt', 'welsh_onion', 'shrimp', 'egg', 'carrot']",0
+1286,102224379,"['milk', 'salt', 'flour', 'egg', 'mozzarella_cheese', 'sugar']",1
+1287,102224579,"['beef', 'shiitake', 'salt', 'egg', 'water', 'soybean_sauce']",0
+1288,102225425,['cucumber'],0
+1289,102226830,"['salt', 'flour', 'green_zucchini', 'egg', 'pepper']",0
+1290,102226899,"['milk', 'flour', 'egg', 'cooking_oil', 'sugar']",1
+1291,102229011,"['flour', 'egg', 'sugar']",1
+1292,102229050,"['grape', 'lemon', 'sugar']",0
+1293,102229878,"['flour', 'spinach']",0
+1294,102231647,"['rice', 'water']",0
+1295,102233631,"['egg', 'sugar']",0
+1296,102233985,"['milk', 'millet', 'egg', 'cooking_oil', 'sugar']",1
+1297,102234095,"['salt', 'milk', 'flour', 'sugar']",0
+1298,102234840,"['rice', 'vinegar']",0
+1299,102235509,"['salt', 'shrimp', 'peanut_oil', 'peanut']",0
+1300,102236290,"['flour', 'butter', 'green_tea', 'egg', 'sesame', 'sugar']",1
+1301,102236692,"['rice', 'cumin', 'onion', 'garlic', 'salt', 'chicken', 'soybean', 'oregano', 'pepper']",0
+1302,102238700,"['salt', 'flour', 'cranberry', 'cheese', 'butter', 'walnut', 'water', 'sugar']",0
+1303,102238737,"['flour', 'butter', 'yogurt', 'sugar']",0
+1304,102239316,['orange'],0
+1305,102239583,"['gelatin', 'cream_cheese', 'yogurt', 'cream', 'water', 'orange', 'cake', 'sugar']",1
+1306,102240302,"['salt', 'sugar', 'corn']",0
+1307,102243771,['loquat'],0
+1308,102244453,"['sweet_potato', 'salt', 'flour', 'cream', 'butter', 'taro', 'egg', 'water', 'sugar']",0
+1309,102244568,"['cherry_tomato', 'cabbage', 'cucumber']",0
+1310,102244898,"['rice', 'lentils', 'shiitake', 'pork', 'shrimp']",0
+1311,102246434,"['yogurt', 'cocoa_powder', 'coffee', 'sugar', 'bread']",0
+1312,102247735,"['kiwifruit', 'apple', 'starfruit', 'lemon', 'orange', 'pineapple']",0
+1313,102248750,"['tomato', 'onion', 'garlic', 'salt', 'potato', 'pepper', 'capsicum', 'sugar']",0
+1314,102248870,"['milk', 'salt', 'flour', 'butter', 'welsh_onion', 'sugar']",1
+1315,102249957,"['mushroom', 'tomato', 'onion', 'garlic', 'salt', 'flour', 'basil', 'butter', 'meat', 'peas', 'oregano', 'carrot', 'water', 'soybean_sauce', 'pepper', 'sugar', 'mozzarella_cheese']",0
+1316,102251763,"['mushroom', 'tomato', 'pork', 'carrot']",0
+1317,102251825,['shrimp'],0
+1318,102252633,"['soybean', 'yogurt', 'sugar']",0
+1319,102253016,"['milk', 'salt', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+1320,102254085,"['flour', 'banana', 'milk_powder', 'egg', 'orange', 'lemon', 'sugar']",1
+1321,102257403,"['vinegar', 'salt', 'egg', 'ginger', 'sugar']",1
+1322,102257541,"['cream_cheese', 'cream', 'butter', 'chocolate', 'lemon', 'sugar']",0
+1323,102258122,['cherry_tomato'],0
+1324,102258215,"['corn', 'mushroom', 'beef', 'ham', 'onion', 'chicken', 'cherry_tomato', 'shrimp', 'peas', 'capsicum', 'mozzarella_cheese']",0
+1325,102258909,"['vanilla', 'milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'water', 'peanut', 'sugar']",1
+1326,102259127,"['vanilla', 'salt', 'flour', 'cream', 'butter', 'egg', 'water', 'sugar']",0
+1327,102259359,"['star_anise', 'salt', 'pork', 'welsh_onion', 'water', 'soybean_sauce', 'ginger', 'sugar']",0
+1328,102260114,"['mulberry', 'yogurt', 'sugar']",0
+1329,102260308,"['shrimp', 'lemon', 'sugar']",1
+1330,102260587,"['vinegar', 'salt', 'cucumber', 'capsicum', 'cooking_oil', 'ginger', 'sugar']",0
+1331,102261046,['flour'],0
+1332,102261084,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'walnut', 'raisin', 'sugar']",0
+1333,102263322,"['shrimp', 'cooking_oil']",0
+1334,102263361,"['salt', 'welsh_onion', 'shrimp', 'egg', 'soybean_sauce']",0
+1335,102263435,"['soybean_sauce', 'mallard_duck', 'welsh_onion', 'laurel', 'fennel', 'cinnamon', 'capsicum', 'ginger', 'sugar']",0
+1336,102263815,"['garlic', 'salt', 'welsh_onion', 'peas', 'soybean_sauce', 'ginger', 'sugar']",0
+1337,102264097,"['coriander', 'vinegar', 'salt', 'welsh_onion', 'oyster', 'ginger']",1
+1338,102264890,"['blueberry', 'bread', 'strawberry', 'mint', 'lemon', 'sugar']",0
+1339,102265969,"['garlic', 'salt', 'towel_gourd', 'pork', 'welsh_onion', 'egg', 'carrot', 'water', 'capsicum', 'pepper', 'sugar']",1
+1340,102266101,"['star_anise', 'coriander', 'vinegar', 'cumin', 'garlic', 'pork', 'clove', 'pepper', 'cinnamon', 'jews_ear', 'ginger', 'sugar']",0
+1341,102268928,"['broccoli', 'salt', 'cherry_tomato', 'egg', 'carrot', 'pepper', 'salad_dressing']",0
+1342,102270365,"['rice', 'shiitake', 'pak_choy', 'carrot', 'codfish']",0
+1343,102271152,"['salt', 'shrimp', 'mushroom', 'tofu']",0
+1344,102271281,"['corn', 'egg', 'sugar']",1
+1345,102273321,"['soybean', 'water', 'sesame', 'peanut', 'sugar']",0
+1346,102274311,"['ham', 'tomato', 'cheese', 'pasta', 'purple_laver', 'sugar', 'bread']",0
+1347,102274501,"['milk', 'salt', 'flour', 'spinach', 'sugar']",1
+1348,102275335,"['ham', 'pasta']",0
+1349,102275712,"['jujube', 'milk', 'flour', 'walnut', 'sesame', 'raisin', 'sugar']",0
+1350,102276035,['cherry_tomato'],0
+1351,102277646,"['rice', 'pumpkin', 'water']",1
+1352,102278034,"['vanilla', 'milk', 'butter', 'oats', 'cocoa_powder', 'peanut_butter', 'sugar']",0
+1353,102279009,"['star_anise', 'beef', 'tomato', 'welsh_onion', 'carrot', 'soybean_sauce', 'ginger']",0
+1354,102279232,"['flour', 'corn_oil', 'sugar', 'water']",0
+1355,102279318,"['rice', 'milk', 'millet', 'water', 'pumpkin']",0
+1356,102281323,"['asparagus', 'parsley', 'salt', 'flour', 'yogurt', 'remoulade', 'egg', 'pepper', 'peanut_butter', 'cooking_oil', 'mustard', 'sugar']",0
+1357,102281492,"['chickpea', 'mushroom', 'tomato', 'onion', 'garlic', 'salt', 'parsley', 'basil', 'laurel', 'oregano', 'carrot', 'pepper', 'capsicum', 'sugar']",0
+1358,102282097,"['salt', 'flour', 'egg', 'corn_oil', 'sugar']",1
+1359,102282733,"['capsicum', 'egg', 'onion', 'sausage']",0
+1360,102284552,"['mushroom', 'coriander', 'onion', 'parsley', 'salt', 'chicken', 'cream_cheese', 'cheese', 'cream', 'peas', 'pepper', 'capsicum', 'mozzarella_cheese']",0
+1361,102284814,"['banana', 'milk', 'egg', 'apple']",0
+1362,102286327,"['corn', 'pork', 'purple_laver', 'egg', 'carrot', 'celery']",0
+1363,102286395,"['milk', 'flour', 'butter', 'egg', 'carrot', 'sugar']",0
+1364,102287936,"['rice', 'tomato', 'vinegar', 'chicken', 'cheese', 'purple_laver', 'avocado', 'sausage', 'egg']",0
+1365,102288716,"['egg', 'sesame', 'cooking_oil', 'peanut', 'sugar']",0
+1366,102289320,"['egg', 'sugar']",0
+1367,102289501,['cucumber'],0
+1368,102289777,"['blueberry', 'lemon', 'sugar']",0
+1369,102289950,"['milk', 'salt', 'flour', 'butter', 'sugar']",0
+1370,102290042,['mushroom'],0
+1371,102290266,"['banana', 'butter', 'cinnamon', 'lemon', 'bread']",0
+1372,102290526,"['radish', 'sugar']",0
+1373,102290902,"['cherry', 'sugar', 'water']",0
+1374,102291406,"['yogurt', 'banana']",0
+1375,102291543,"['honey', 'papaya', 'milk', 'water']",1
+1376,102291819,['cucumber'],0
+1377,102292277,['crayfish'],0
+1378,102293964,"['coriander', 'soybean_sauce', 'salt', 'flour', 'pork', 'beans', 'welsh_onion', 'water', 'capsicum', 'cooking_oil', 'pepper', 'sugar']",0
+1379,102294864,"['condensed_milk', 'water_chestnut', 'coconut', 'water', 'sesame', 'sugar']",1
+1380,102295734,"['vanilla', 'milk', 'salt', 'flour', 'milk_powder', 'butter', 'condensed_milk', 'sugar']",0
+1381,102296063,"['tomato', 'salad', 'pork', 'egg', 'water_chestnut', 'lettuce', 'bread']",0
+1382,102297544,"['tofu', 'welsh_onion', 'scallop', 'ginger', 'ashgourd']",0
+1383,102298212,['apricot'],0
+1384,102299772,"['soybean', 'sugar', 'water']",1
+1385,102301380,"['cream', 'milk', 'sugar', 'milk_powder']",0
+1386,102301860,['cream'],0
+1387,102302071,"['tofu', 'wasabi', 'salt', 'soybean', 'soybean_sauce', 'mustard']",0
+1388,102303741,"['vanilla', 'milk', 'salt', 'chia', 'banana', 'strawberry', 'coconut', 'lemon_peel_oil']",0
+1389,102306280,"['kidney_beans', 'sugar']",0
+1390,102307605,"['bayberry', 'sugar', 'water']",0
+1391,102308914,"['jujube', 'oats', 'walnut', 'sesame', 'peanut_butter', 'peanut', 'sugar']",0
+1392,102310197,"['coriander', 'onion', 'garlic', 'salt', 'yogurt', 'welsh_onion', 'potato', 'pepper', 'mustard']",0
+1393,102312023,"['salt', 'cooking_oil', 'egg', 'cucumber']",1
+1394,102313158,"['peanut_butter', 'meringue']",0
+1395,102314086,"['tomato', 'flour', 'shrimp', 'chanterelle', 'peas', 'water']",0
+1396,102314105,"['salt', 'cooking_oil', 'potato']",0
+1397,102314813,"['lemon', 'sugar', 'water']",0
+1398,102315013,"['garlic', 'salt', 'sea_cucumber', 'welsh_onion', 'egg']",0
+1399,102315066,"['apricot', 'sugar']",0
+1400,102315224,"['millet', 'egg', 'corn_oil', 'lemon', 'sugar']",1
+1401,102316017,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'coconut', 'sugar']",0
+1402,102316157,"['shiitake', 'parsley', 'salt', 'shrimp', 'carrot', 'water', 'soybean_sauce', 'ashgourd']",1
+1403,102316883,['bread'],0
+1404,102317225,['shrimp'],0
+1405,102317381,"['bittergourd', 'honey', 'milk']",0
+1406,102317464,"['salt', 'cream', 'cake', 'biscuit', 'sugar']",0
+1407,102317488,"['coriander', 'tomato', 'salt', 'flour', 'spinach', 'cheese', 'shrimp', 'oats', 'salad_dressing', 'egg', 'carrot', 'pepper', 'capsicum', 'sugar']",0
+1408,102317703,"['garlic', 'green_zucchini', 'egg', 'pancake', 'carrot', 'capsicum', 'corn_oil', 'sugar']",0
+1409,102317758,"['crayfish', 'ginger', 'garlic']",0
+1410,102318172,"['milk', 'salt', 'flour', 'milk_powder', 'cream', 'butter', 'condensed_milk', 'egg', 'sugar']",0
+1411,102318825,"['soybean_sauce', 'chicken', 'cooking_oil', 'pepper']",1
+1412,102320033,['apple'],0
+1413,102320729,"['vanilla', 'milk', 'salt', 'banana', 'honey', 'cocoa_powder', 'coconut']",0
+1414,102320914,"['flour', 'milk']",0
+1415,102321214,"['grapefruit', 'honey', 'sugar', 'green_tea']",1
+1416,102322575,"['sesame', 'chicken']",0
+1417,102323221,"['garlic', 'salt', 'welsh_onion', 'lobster', 'soybean_sauce']",0
+1418,102323818,"['sesame', 'egg']",0
+1419,102323952,"['honey', 'lemon', 'grapefruit']",0
+1420,102323967,"['mushroom', 'ham', 'tomato', 'salt', 'flour', 'egg', 'water', 'soybean_sauce', 'lettuce']",0
+1421,102324302,"['salt', 'flour', 'water', 'corn_oil', 'sugar']",1
+1422,102325022,"['lemon_peel_oil', 'butter', 'egg', 'lemon', 'sugar']",0
+1423,102325967,"['milk', 'butter', 'egg', 'cake', 'sugar']",0
+1424,102326780,"['cream', 'milk']",0
+1425,102327025,"['milk', 'banana', 'sweet_potato', 'mango']",0
+1426,102328024,"['purple_laver', 'carrot']",0
+1427,102328747,"['gelatin', 'butter', 'cherry', 'biscuit', 'mint', 'water', 'lemon', 'sugar']",1
+1428,102329278,"['salt', 'flour', 'yogurt', 'egg', 'corn_oil', 'sugar']",0
+1429,102330147,"['cream', 'milk', 'sugar', 'milk_powder']",0
+1430,102331379,['orange'],0
+1431,102331535,"['cherry', 'chocolate', 'pistachio']",0
+1432,102332522,"['salt', 'soybean_sauce', 'egg', 'welsh_onion']",0
+1433,102332643,"['ham', 'tomato', 'egg', 'salad_dressing', 'lettuce', 'sugar', 'bread']",0
+1434,102333369,"['rice', 'apple', 'purple_laver', 'soybean_sauce', 'bread']",0
+1435,102333994,"['star_anise', 'soybean_sauce', 'salt', 'chicken', 'pork', 'welsh_onion', 'laurel', 'cinnamon', 'capsicum', 'ginger', 'sugar']",0
+1436,102335762,"['star_anise', 'cumin', 'bottlegourd', 'salt', 'flour', 'welsh_onion', 'shrimp', 'meat', 'clove', 'water', 'cinnamon', 'soybean_sauce', 'cooking_oil', 'pepper', 'ginger', 'sugar']",0
+1437,102336690,"['star_anise', 'cumin', 'grapefruit', 'honey', 'mint', 'pepper', 'cinnamon', 'orange', 'clove']",0
+1438,102337623,"['butter', 'milk', 'biscuit', 'ice_cream']",0
+1439,102338228,"['ham', 'tomato', 'remoulade', 'egg', 'lettuce', 'bread']",0
+1440,102338412,"['soybean_sauce', 'asparagus', 'ginger']",0
+1441,102338528,"['vanilla', 'salt', 'flour', 'green_zucchini', 'egg', 'cocoa_powder', 'chocolate']",0
+1442,102339404,"['vinegar', 'sweet_potato', 'salt', 'welsh_onion', 'cooking_oil', 'sugar']",0
+1443,102340417,"['milk', 'salt', 'flour', 'butter', 'condensed_milk', 'egg', 'litchi', 'sugar']",0
+1444,102340585,['water'],0
+1445,102340833,"['flour', 'condensed_milk', 'coconut', 'water', 'sugar']",1
+1446,102340870,"['lemon', 'sugar', 'bayberry']",0
+1447,102341608,"['garlic', 'salt', 'soybean', 'peas', 'water', 'soybean_sauce', 'sugar']",0
+1448,102341754,"['salt', 'clam', 'ginger', 'welsh_onion']",0
+1449,102354425,['cream'],0
+1450,102384878,"['cabbage', 'tomato', 'water']",0
+1451,102392143,"['vanilla', 'milk', 'salt', 'flour', 'butter', 'evaporated_milk', 'egg', 'water', 'sugar']",0
+1452,102395059,"['gelatin', 'mango', 'grapefruit', 'cream', 'butter', 'biscuit', 'egg', 'lemon', 'orange', 'sugar']",1
+1453,102396439,"['water', 'salt', 'flour', 'pork', 'egg', 'pepper', 'cooking_oil']",0
+1454,102397095,['kidney_beans'],0
+1455,102398246,"['soybean_sauce', 'vinegar', 'pork', 'sugar']",0
+1456,102398540,"['cream', 'cake']",0
+1457,102398834,"['salt', 'welsh_onion', 'shrimp', 'soybean_sauce', 'lettuce', 'sugar']",0
+1458,102415726,"['apple', 'almond', 'flour', 'oats', 'cherry']",0
+1459,102415884,"['salt', 'peach', 'sugar', 'water']",0
+1460,102420646,"['flour', 'rice', 'sugar']",0
+1461,102420818,"['vanilla', 'broccoli', 'garlic', 'cheese', 'egg']",0
+1462,102423428,"['honey', 'passionfruit', 'water']",0
+1463,102423982,"['gelatin', 'salt', 'flour', 'cream_cheese', 'yogurt', 'butter', 'peach', 'egg', 'water', 'sugar']",1
+1464,102425148,"['flour', 'shrimp']",0
+1465,102425374,"['egg', 'water', 'cooking_oil', 'cake', 'sugar']",1
+1466,102425602,"['passionfruit', 'grapefruit', 'honey', 'orange', 'lemon', 'sugar']",0
+1467,102428345,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+1468,102428461,"['rice', 'walnut', 'sugar', 'chestnut']",0
+1469,102428743,"['salt', 'welsh_onion', 'egg', 'carrot', 'pepper', 'celery', 'sugar']",1
+1470,1025124,"['honey', 'celery', 'water']",1
+1471,1025571,"['capsicum', 'tomato', 'egg', 'sugar']",1
+1472,1025674,"['salt', 'mushroom', 'cooking_oil', 'flour']",0
+1473,1025806,"['bonito', 'soybean_sauce', 'avocado']",0
+1474,1025868,"['honey', 'peach', 'water']",1
+1475,1025967,"['chocolate', 'strawberry']",1
+1476,1025984,"['flour', 'butter', 'egg', 'walnut', 'cooking_oil', 'sugar']",0
+1477,1026091,"['garlic', 'salt', 'peas', 'potato', 'water', 'soybean_sauce', 'sugar']",1
+1478,102747096,"['cardamom', 'tamarind', 'cinnamon', 'capsicum', 'sugar', 'saffron', 'poppy_seed', 'laurel', 'water', 'pepper', 'mace', 'coriander', 'cumin', 'turmeric', 'garlic', 'chicken', 'welsh_onion', 'ginger', 'clove', 'star_anise', 'nutmeg', 'fenugreek', 'sesame', 'soybean_sauce']",0
+1479,102747185,"['enokitake', 'scallop', 'welsh_onion', 'egg', 'carrot', 'cucumber']",0
+1480,102747699,"['mixed_nuts', 'chicken', 'yogurt', 'avocado', 'lettuce', 'orange']",1
+1481,102748915,"['medlar', 'water', 'salt', 'towel_gourd', 'clam', 'welsh_onion', 'pepper', 'ginger']",0
+1482,102749597,"['rice', 'cucumber', 'vinegar', 'salt', 'chicken', 'purple_laver', 'honey', 'carrot', 'pepper', 'soybean_sauce', 'cooking_oil', 'sugar']",0
+1483,102750296,"['avocado', 'milk', 'honey', 'ginger']",0
+1484,102750652,"['salt', 'cabbage', 'egg', 'pepper']",0
+1485,102751214,"['salt', 'flour', 'pork', 'welsh_onion', 'egg', 'pepper', 'soybean_sauce', 'cooking_oil', 'ginger']",0
+1486,102754274,"['star_anise', 'other_fish_product', 'cumin', 'salt', 'flour', 'pepper', 'cinnamon', 'sugar', 'clove']",0
+1487,102754785,"['milk', 'gelatin', 'grapefruit', 'cream', 'lemon', 'orange', 'sugar']",0
+1488,102755196,"['milk', 'salt', 'cream_cheese', 'cream', 'honey', 'biscuit', 'tea', 'syrup', 'sugar']",0
+1489,102755312,"['salt', 'salad_dressing', 'lettuce', 'fig']",0
+1490,102755675,"['rice', 'coriander', 'onion', 'cheese', 'welsh_onion', 'salad_dressing', 'egg', 'pepper', 'capsicum', 'lettuce', 'celery']",0
+1491,102756602,"['beef', 'rice', 'tomato', 'onion', 'soybean_sauce', 'sugar']",1
+1492,102758314,"['flour', 'sweet_potato', 'water']",0
+1493,102760398,"['soybean_sauce', 'salt', 'pork', 'sesame', 'capsicum', 'ginger']",0
+1494,102760920,"['milk', 'flour', 'butter', 'egg', 'cocoa_powder', 'chocolate', 'sugar']",1
+1495,102762779,['jujube'],0
+1496,102763092,"['rice', 'onion', 'garlic', 'salt', 'crayfish', 'soybean', 'beans', 'water', 'capsicum', 'lettuce', 'ginger']",0
+1497,102767174,"['salt', 'mushroom', 'broccoli', 'cooking_oil']",0
+1498,102768764,"['salt', 'flour', 'yogurt', 'milk_powder', 'butter', 'honey', 'egg', 'water', 'sugar']",0
+1499,102768949,"['egg', 'milk_powder']",1
+1500,102769254,"['beef', 'coriander', 'soybean_sauce', 'onion', 'enokitake', 'jews_ear', 'pepper', 'capsicum', 'ginger', 'sugar']",1
+1501,102771341,"['milk', 'salt', 'flour', 'butter', 'peanut_butter', 'peanut', 'sugar']",0
+1502,102772441,"['rice', 'asparagus', 'shiitake', 'onion', 'avocado', 'egg', 'carrot', 'sesame', 'soybean_sauce']",0
+1503,102772684,"['capsicum', 'beef', 'beans', 'water']",0
+1504,102774593,"['salt', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+1505,102777831,['towel_gourd'],0
+1506,102781229,"['soybean_sauce', 'onion', 'garlic', 'chicken', 'beans', 'welsh_onion', 'water', 'capsicum', 'ginger']",0
+1507,102781592,"['salt', 'chestnut', 'water']",0
+1508,102782332,"['salt', 'mustard_oil', 'orange', 'sugar']",0
+1509,102782383,"['flour', 'butter', 'egg', 'sugar']",1
+1510,102783470,"['sesame', 'flour']",0
+1511,102784563,"['milk', 'salt', 'flour', 'butter', 'millet', 'egg', 'sugar']",0
+1512,102784802,"['meat', 'mushroom', 'pepper']",0
+1513,102785087,"['salt', 'shrimp', 'egg', 'pepper']",0
+1514,102785253,"['flour', 'butter', 'egg', 'pistachio', 'sugar']",0
+1515,102785743,"['white_wine', 'beef', 'mushroom', 'tomato', 'soybean_sauce', 'onion', 'garlic', 'salt', 'cream', 'butter', 'egg', 'red_wine', 'potato', 'pepper', 'capsicum', 'sugar']",0
+1516,102786256,"['garlic', 'salt', 'welsh_onion', 'egg', 'soybean_sauce', 'lettuce', 'ginger']",1
+1517,102786761,"['plum', 'salad_dressing', 'okra']",0
+1518,102787747,"['salt', 'flour', 'milk_powder', 'butter', 'condensed_milk', 'egg', 'water', 'sugar']",0
+1519,102788625,"['vinegar', 'garlic', 'salt', 'welsh_onion', 'soybean_sauce', 'lemon', 'cooking_oil', 'sugar', 'lamb']",0
+1520,102790388,"['salt', 'common_carp', 'ginger']",0
+1521,102794757,"['beef', 'tomato', 'onion', 'parsley', 'salt', 'thyme', 'celery', 'laurel', 'potato', 'pepper', 'carrot', 'beer', 'ginger', 'sugar']",0
+1522,102797699,"['salt', 'chestnut', 'water', 'cooking_oil', 'sugar']",1
+1523,102799106,"['milk', 'salt', 'flour', 'wheat', 'water', 'cooking_oil', 'sugar']",0
+1524,102801624,"['corn', 'milk', 'salt', 'flour', 'soybean', 'butter', 'egg', 'salad_dressing', 'mozzarella_cheese', 'sugar']",0
+1525,102805547,"['butter', 'kidney_beans', 'egg', 'wonton_wrapper']",1
+1526,102805780,"['coffee', 'milk', 'gelatin']",0
+1527,102807462,"['flour', 'water', 'sesame', 'cooking_oil', 'sugar']",0
+1528,102808214,"['raisin', 'pumpkin']",0
+1529,102809038,"['salt', 'flour', 'butter', 'egg', 'lemon', 'orange', 'sugar']",0
+1530,102809628,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'walnut', 'water', 'sesame', 'raisin', 'sugar']",0
+1531,102812081,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg']",0
+1532,102812136,"['onion', 'garlic', 'salt', 'parsley', 'cheese', 'cream', 'butter', 'egg', 'coconut', 'water', 'pepper']",0
+1533,102813182,"['garlic', 'salt', 'pork', 'welsh_onion', 'taro', 'pepper', 'soybean_sauce', 'beer', 'ginger']",0
+1534,102813199,['pomegranate'],0
+1535,102814455,"['honey', 'lemon']",0
+1536,102815100,['pomegranate'],0
+1537,102815501,"['carrot', 'egg', 'milk_powder', 'water']",0
+1538,102815588,"['flour', 'milk_powder', 'wheat', 'water', 'cooking_oil', 'sugar']",0
+1539,102815665,"['salt', 'lemon', 'sugar']",0
+1540,102815955,"['yogurt', 'grapefruit']",0
+1541,102816919,"['beef', 'rice', 'salt', 'butter', 'egg', 'potato', 'pepper']",0
+1542,102817947,"['salt', 'flour', 'water', 'sesame', 'sugar']",0
+1543,102818874,"['vanilla', 'milk', 'salt', 'millet', 'egg', 'cooking_oil', 'sugar']",1
+1544,102820711,"['salt', 'milk_powder', 'marshmallow', 'butter', 'sesame', 'peanut']",0
+1545,102822287,"['flour', 'jujube', 'pumpkin']",0
+1546,102823052,"['vinegar', 'soybean_sauce', 'garlic', 'capsicum', 'sugar']",0
+1547,102823932,"['salt', 'cream', 'butter', 'condensed_milk', 'taro', 'water', 'syrup', 'sugar']",0
+1548,102824616,"['peas', 'sugar', 'water']",0
+1549,102825048,"['flour', 'sugar', 'water']",0
+1550,102826792,"['garlic', 'salt', 'green_zucchini', 'cheese', 'sausage', 'egg', 'oregano', 'coconut', 'pepper']",0
+1551,102826962,"['star_anise', 'allspice', 'nutmeg', 'soybean_sauce', 'cumin', 'salt', 'flour', 'pork', 'laurel', 'water', 'cinnamon', 'capsicum', 'sugar', 'clove']",0
+1552,102827751,['durian'],0
+1553,102828863,"['shrimp', 'rice', 'lemon', 'water']",1
+1554,102829173,"['cream', 'sugar']",1
+1555,102829894,"['mushroom', 'shiitake', 'salt', 'oyster_mushroom', 'ginger']",1
+1556,102832797,"['salt', 'soybean_sauce', 'pork']",0
+1557,102833093,"['soybean', 'walnut', 'sugar', 'water']",0
+1558,102833977,"['medlar', 'mallard_duck', 'ginger']",0
+1559,102834283,"['salt', 'flour', 'pork']",0
+1560,102834384,"['milk', 'flour', 'banana', 'oats', 'honey', 'egg', 'sesame', 'raisin', 'sugar']",1
+1561,102834604,"['flour', 'milk_powder', 'egg', 'water', 'sugar']",0
+1562,102835957,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+1563,102836073,"['star_anise', 'allspice', 'nutmeg', 'cumin', 'radish', 'salt', 'flour', 'meat', 'laurel', 'egg', 'cinnamon', 'clove']",0
+1564,102836549,"['pork', 'water']",0
+1565,102838584,"['garlic', 'salt', 'welsh_onion', 'shrimp', 'soybean_sauce', 'cooking_oil', 'sugar']",0
+1566,102839158,"['milk', 'flour', 'kidney_beans', 'egg', 'sugar']",0
+1567,102842147,"['ham', 'flour', 'cherry_tomato', 'butter', 'lettuce']",0
+1568,102842284,"['pear', 'orange', 'water_chestnut', 'sugar']",0
+1569,102844787,"['cream', 'rum', 'chocolate', 'gelatin']",0
+1570,102845040,"['star_anise', 'salt', 'pork', 'welsh_onion', 'water', 'ginger']",0
+1571,102847391,"['corn', 'sweet_potato', 'millet', 'water', 'buckwheat']",0
+1572,102847914,"['radish', 'ashgourd']",0
+1573,102847932,"['butter', 'mixed_nuts', 'biscuit']",0
+1574,102848335,"['flour', 'beef']",0
+1575,102850592,"['vinegar', 'flour', 'milk_powder', 'egg', 'lemon']",1
+1576,102850959,"['beef', 'milk', 'water', 'salt', 'pepper', 'celery', 'taro']",0
+1577,102851030,"['vinegar', 'radish', 'cucumber', 'soybean_sauce', 'sugar']",0
+1578,102851233,"['garlic', 'salt', 'welsh_onion', 'shrimp', 'cucumber', 'soybean_sauce', 'cooking_oil', 'ginger']",0
+1579,102852145,"['salt', 'olive', 'pork']",0
+1580,102852162,"['olive', 'abalone']",0
+1581,102852708,"['flour', 'water', 'sesame', 'cooking_oil', 'sugar']",0
+1582,102853092,"['jujube', 'rice', 'kidney_beans', 'rose', 'sugar']",0
+1583,102853777,"['shiitake', 'garlic', 'pak_choy', 'water', 'soybean_sauce', 'cooking_oil', 'sugar']",0
+1584,102856238,"['milk', 'sweet_potato', 'salt', 'flour', 'milk_powder', 'cocoa_powder', 'water', 'sugar']",0
+1585,102856401,"['rice', 'coriander', 'salt', 'scallop', 'peanut_oil', 'shrimp', 'water', 'peanut_butter', 'celery', 'pepper', 'ginger']",0
+1586,102861987,"['salt', 'mushroom', 'tomato', 'welsh_onion']",0
+1587,102867712,"['vinegar', 'yogurt', 'milk_powder', 'egg', 'sugar']",0
+1588,102868214,"['beef', 'salt', 'avocado', 'egg', 'pepper']",0
+1589,102869515,"['sesame', 'shrimp', 'purple_laver']",0
+1590,102871584,"['soybean_sauce', 'garlic', 'pork', 'beans', 'welsh_onion', 'ginger', 'water', 'capsicum', 'sugar']",0
+1591,102871871,"['orange', 'sugar']",0
+1592,102874625,"['blueberry', 'raspberry', 'strawberry', 'syrup', 'lemon', 'sugar']",0
+1593,102875022,"['jujube', 'raisin', 'medlar', 'apple']",0
+1594,102879194,"['milk', 'salt', 'flour', 'butter', 'egg', 'raisin', 'sugar']",0
+1595,102879756,"['milk', 'salt', 'flour', 'cream', 'butter', 'rum', 'egg', 'walnut', 'raisin', 'sugar']",0
+1596,102882798,"['milk', 'gelatin', 'cream', 'condensed_milk', 'water']",0
+1597,102882869,"['salt', 'condensed_milk', 'potato', 'sweet_potato']",0
+1598,102884991,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'orange', 'sugar']",0
+1599,102885135,"['condensed_milk', 'milk', 'chocolate', 'marshmallow']",0
+1600,102885908,"['salt', 'chicken', 'honey', 'pepper', 'soybean_sauce', 'cooking_oil']",1
+1601,102886193,"['salt', 'grapefruit']",0
+1602,102887386,"['vinegar', 'salt', 'shrimp', 'egg', 'pepper', 'cooking_oil', 'celery', 'sugar']",0
+1603,102890392,"['mushroom', 'coriander', 'tomato', 'salt', 'chicken', 'pasta', 'welsh_onion', 'egg', 'pepper', 'ginger']",0
+1604,102890821,"['beef', 'tomato', 'onion', 'garlic', 'salt', 'basil', 'cream', 'butter', 'carrot', 'pepper', 'soybean_sauce', 'brussels_sprout', 'sugar']",0
+1605,102891266,"['salt', 'flour', 'milk_powder', 'butter', 'honey', 'egg', 'water', 'sugar']",0
+1606,102891589,"['ham', 'water', 'salt', 'flour', 'egg', 'pepper', 'capsicum', 'cooking_oil']",0
+1607,102895514,"['jujube', 'soybean', 'millet', 'water', 'peanut', 'sugar']",0
+1608,102897607,"['milk', 'cream', 'condensed_milk', 'egg', 'orange', 'sugar']",0
+1609,102899626,"['star_anise', 'soybean_sauce', 'salt', 'laurel', 'pepper', 'capsicum', 'beer', 'peanut', 'ginger', 'sugar']",0
+1610,102900664,"['flour', 'butter', 'egg', 'sugar']",1
+1611,102903036,"['condensed_milk', 'mozzarella_cheese', 'sweet_potato']",0
+1612,102904002,"['blueberry', 'milk', 'flour', 'cream', 'egg', 'strawberry', 'lemon', 'corn_oil', 'sugar']",0
+1613,102907662,"['carrot', 'cucumber', 'radish', 'garlic']",0
+1614,102909393,"['vinegar', 'garlic', 'welsh_onion', 'other_fish_product', 'soybean_sauce', 'ginger']",0
+1615,102910957,"['welsh_onion', 'shrimp', 'cashew_nut', 'carrot', 'cucumber', 'soybean_sauce', 'celery', 'ginger']",0
+1616,102911411,"['kidney_beans', 'sugar', 'water']",0
+1617,102915204,"['rice', 'salt', 'pork', 'water_chestnut', 'carrot', 'cooking_oil']",0
+1618,102916015,"['purple_laver', 'soybean_sauce', 'rice', 'honey']",1
+1619,102916443,"['corn', 'salt', 'pork', 'water_chestnut', 'carrot', 'ginger']",0
+1620,102919231,"['garlic', 'salt', 'peas', 'egg', 'water_chestnut', 'carrot', 'cooking_oil']",0
+1621,102922279,"['mixed_nuts', 'garlic', 'capsicum', 'lettuce', 'peanut']",0
+1622,102924037,"['salt', 'flour', 'green_zucchini', 'welsh_onion', 'egg']",0
+1623,102924233,"['star_anise', 'beef', 'tomato', 'onion', 'garlic', 'salt', 'welsh_onion', 'laurel', 'potato', 'pepper', 'soybean_sauce', 'ginger', 'sugar']",0
+1624,102925706,"['milk', 'salt', 'avocado', 'egg', 'pepper', 'soybean_sauce', 'bread']",0
+1625,102926574,"['coriander', 'soybean_sauce', 'vinegar', 'garlic', 'salt', 'onion', 'jews_ear', 'sesame', 'capsicum', 'cooking_oil', 'peanut', 'sugar']",0
+1626,102927186,['rice'],0
+1627,102928491,"['salt', 'water', 'black_tea', 'lemon', 'sugar']",0
+1628,102930263,"['cardamom', 'tamarind', 'coconut', 'cinnamon', 'capsicum', 'saffron', 'onion', 'poppy_seed', 'laurel', 'pepper', 'mace', 'coriander', 'cumin', 'turmeric', 'salt', 'clove', 'broccoli', 'nutmeg', 'fenugreek', 'shrimp', 'peas', 'carrot', 'sesame']",0
+1629,102930542,"['salt', 'soybean_sauce', 'pork', 'garlic']",0
+1630,102931495,"['salt', 'flour', 'milk_powder', 'egg', 'water', 'corn_oil', 'sugar']",0
+1631,102933119,"['beef', 'garlic', 'salt', 'welsh_onion', 'potato', 'soybean_sauce', 'ginger', 'sugar']",0
+1632,102933781,"['corn', 'capsicum', 'peas']",0
+1633,102934471,"['soybean_sauce', 'vinegar', 'garlic', 'salt', 'capsicum', 'cooking_oil', 'ginger', 'sugar']",0
+1634,102934539,"['salt', 'shrimp', 'egg', 'carrot']",0
+1635,102934578,"['jujube', 'salt', 'flour', 'butter', 'walnut', 'water', 'sugar']",0
+1636,102934709,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+1637,102936103,"['star_anise', 'cumin', 'shiitake', 'onion', 'salt', 'chicken', 'abalone', 'carrot', 'pepper', 'cinnamon', 'cooking_oil', 'clove']",0
+1638,1029367,"['lemon', 'strawberry', 'sugar']",0
+1639,102938042,"['flour', 'corn', 'sugar', 'water']",0
+1640,102939512,"['vanilla', 'milk', 'sugar']",0
+1641,102940431,"['flour', 'milk', 'sugar', 'sweet_potato']",0
+1642,102943305,"['beef', 'mushroom', 'garlic', 'welsh_onion', 'ginger']",0
+1643,102944267,"['milk', 'milk_powder', 'condensed_milk', 'taro', 'sugar']",0
+1644,102953702,"['prawn', 'salt', 'flour', 'shrimp', 'egg', 'pepper']",0
+1645,102955414,"['flour', 'water']",0
+1646,102956020,"['mulberry', 'lemon', 'sugar']",0
+1647,102956063,"['egg', 'water']",0
+1648,102956219,"['garlic', 'salt', 'chicken', 'potato_chip', 'egg', 'soybean_sauce', 'cooking_oil']",1
+1649,102957647,"['salt', 'pineapple', 'lemon', 'sugar']",0
+1650,102957690,"['milk', 'salt', 'cream', 'butter', 'egg', 'sugar', 'bread']",0
+1651,102957810,"['milk', 'flour', 'egg', 'corn_oil', 'lemon', 'sugar']",0
+1652,102961490,"['milk', 'parsley', 'avocado', 'egg', 'pepper', 'mozzarella_cheese', 'bread']",1
+1653,102962060,"['flour', 'honey', 'lemon_peel_oil']",0
+1654,102962780,"['coriander', 'garlic', 'salt', 'pork', 'potato', 'water', 'carrot', 'soybean_sauce', 'ginger']",1
+1655,102963578,['sweet_potato'],0
+1656,102963886,"['star_anise', 'salt', 'beans', 'welsh_onion', 'capsicum', 'shallot', 'sugar']",0
+1657,102970412,"['sweet_potato', 'flour', 'spinach', 'carrot', 'water', 'cooking_oil', 'pumpkin', 'sugar']",0
+1658,102973379,"['passionfruit', 'honey', 'lemon']",1
+1659,102977796,"['tomato', 'vinegar', 'salt', 'flour', 'pork', 'egg', 'water', 'sesame', 'ginger', 'sugar']",0
+1660,102989511,"['salt', 'milk', 'peas', 'pepper']",0
+1661,102999100,"['milk', 'salt', 'welsh_onion', 'corn_oil', 'buckwheat']",0
+1662,103019579,"['mushroom', 'cardamom', 'tamarind', 'cinnamon', 'capsicum', 'saffron', 'onion', 'poppy_seed', 'egg', 'pepper', 'mace', 'rice', 'coriander', 'cumin', 'turmeric', 'salt', 'clove', 'nutmeg', 'fenugreek', 'shrimp', 'peas', 'carrot', 'sesame']",0
+1663,103022387,"['salt', 'vinegar', 'sugar', 'cucumber']",0
+1664,103023304,"['salt', 'milk', 'banana']",0
+1665,103024265,"['oats', 'cranberry', 'peanut_butter', 'banana']",1
+1666,103025600,"['milk', 'onion', 'cabbage', 'carrot', 'salad_dressing', 'lemon']",1
+1667,103026382,"['salt', 'flour', 'water']",0
+1668,103029565,"['cream', 'condensed_milk', 'ice_cream']",0
+1669,103037394,"['sugar', 'bayberry']",0
+1670,103042048,"['cream', 'condensed_milk', 'egg', 'chocolate', 'sugar']",0
+1671,1030623,"['vanilla', 'milk', 'cream_cheese', 'rum', 'egg', 'lemon', 'sugar']",1
+1672,103069831,"['plum', 'vinegar', 'sugar']",0
+1673,103085,"['salt', 'flour', 'welsh_onion', 'butter', 'egg', 'sugar']",1
+1674,103094993,"['garlic', 'morchella', 'pork', 'beans', 'water', 'capsicum', 'ginger']",0
+1675,103095256,"['pear', 'soybean', 'sugar', 'water']",0
+1676,103149388,"['broccoli', 'shiitake', 'radish', 'salt', 'onion', 'chicken', 'welsh_onion', 'scallop', 'soybean_sauce', 'cooking_oil', 'buckwheat', 'ginger']",0
+1677,103150615,"['rice', 'walnut', 'water']",0
+1678,103155231,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",0
+1679,103162,"['capsicum', 'buckwheat', 'cucumber']",1
+1680,103164830,"['coriander', 'garlic', 'canola_oil', 'welsh_onion', 'sesame', 'soybean_sauce']",0
+1681,103194043,"['peach', 'soybean', 'sugar', 'water']",0
+1682,103207963,"['milk', 'salt', 'flour', 'egg', 'corn_oil', 'sugar']",0
+1683,103255631,"['salt', 'flour', 'egg', 'water', 'cooking_oil']",0
+1684,103256650,"['milk', 'salt', 'flour', 'egg', 'water', 'cooking_oil']",0
+1685,103277668,"['passionfruit', 'honey', 'sugar', 'mango']",0
+1686,103282704,"['lemon', 'sugar', 'water']",0
+1687,103285855,"['garlic', 'salt', 'green_beans', 'soybean', 'pork', 'peanut_oil', 'water', 'soybean_sauce', 'ginger', 'sugar']",1
+1688,103288057,"['rice', 'coriander', 'nutmeg', 'water', 'cumin', 'cardamom', 'fenugreek', 'green_beans', 'poppy_seed', 'saffron', 'tamarind', 'turmeric', 'shrimp', 'cinnamon', 'pepper', 'sesame', 'capsicum', 'cooking_oil', 'mace', 'clove']",0
+1689,103293502,"['milk', 'sweet_potato', 'salt', 'flour', 'butter', 'oats', 'egg', 'cinnamon', 'sugar']",0
+1690,103297995,"['flour', 'cocoa_powder', 'water', 'sesame', 'cooking_oil', 'sugar']",0
+1691,103299190,"['salt', 'green_beans', 'garlic']",0
+1692,103299381,"['flour', 'carrot', 'cooking_oil', 'sugar']",0
+1693,103321587,"['cherry', 'mint', 'water', 'chocolate', 'sugar', 'bread']",0
+1694,103324038,"['flour', 'yogurt', 'biscuit', 'egg', 'corn_oil', 'buckwheat', 'lemon', 'sugar']",0
+1695,103326975,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",0
+1696,103335271,"['green_tea', 'water', 'syrup', 'orange', 'lemon', 'sugar']",0
+1697,103339258,"['star_anise', 'water', 'cumin', 'salt', 'flour', 'welsh_onion', 'cinnamon', 'pepper', 'sesame', 'cooking_oil', 'sugar', 'clove']",0
+1698,103339646,"['peach', 'sugar', 'water']",0
+1699,103339745,"['milk', 'salt', 'flour', 'quinoa', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",0
+1700,103355521,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'condensed_milk', 'egg', 'sugar']",0
+1701,103360652,"['peach', 'sugar']",0
+1702,103370397,"['blueberry', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+1703,103370650,"['corn', 'common_carp', 'salt', 'welsh_onion', 'water', 'cooking_oil', 'ginger']",0
+1704,103371352,"['cream', 'taro', 'sugar']",1
+1705,103377336,"['sesame', 'egg', 'flour']",0
+1706,103381955,"['garlic', 'pork', 'american_butterfish', 'capsicum', 'ginger']",0
+1707,103395524,"['rice', 'garlic', 'chicken', 'american_butterfish', 'capsicum']",0
+1708,103412724,"['soybean_sauce', 'shiitake', 'garlic', 'salt', 'cumin', 'welsh_onion', 'capsicum', 'sugar']",0
+1709,103418761,"['cucumber', 'tomato', 'onion', 'garlic', 'salt', 'flour', 'chicken', 'basil', 'cream', 'butter', 'meat', 'oregano', 'carrot', 'water', 'soybean_sauce', 'cooking_oil', 'pepper', 'sugar', 'mozzarella_cheese']",0
+1710,103419317,"['milk', 'water', 'onion', 'salt', 'cream', 'butter', 'pepper', 'pumpkin']",0
+1711,103423824,"['rice', 'parsley', 'salt', 'shrimp', 'water', 'cooking_oil', 'pepper', 'ginger']",0
+1712,103426016,"['soybean', 'water']",0
+1713,103426025,"['onion', 'salt', 'welsh_onion', 'shrimp', 'pepper', 'soybean_sauce']",0
+1714,103432305,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",0
+1715,103434414,"['honey', 'walnut', 'water', 'sesame', 'sugar']",0
+1716,103436141,"['milk', 'salt', 'flour', 'welsh_onion', 'shrimp', 'butter', 'egg', 'sugar']",0
+1717,103462973,"['salt', 'flour', 'milk_powder', 'butter', 'condensed_milk', 'egg', 'water', 'sugar']",0
+1718,103543,"['almond', 'flour', 'butter', 'egg', 'coffee', 'sugar']",1
+1719,103604,"['milk', 'salt', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+1720,103804,"['corn', 'medlar', 'radish', 'salt', 'pork', 'welsh_onion', 'water', 'longan', 'ginger']",0
+1721,1038900,"['milk', 'cream_cheese', 'butter', 'egg', 'sugar']",0
+1722,1039549,"['flour', 'butter', 'green_tea', 'egg', 'sugar']",1
+1723,1040373,"['chicken', 'honey', 'pepper', 'soybean_sauce', 'ginger']",1
+1724,1040435,"['snack_bar', 'milk']",0
+1725,1040559,"['vanilla', 'milk', 'vinegar', 'salt', 'flour', 'egg', 'lemon', 'cooking_oil', 'sugar']",0
+1726,1040798,"['milk', 'salt', 'flour', 'butter', 'egg', 'cocoa_powder', 'cooking_oil', 'sugar']",1
+1727,1041118,"['egg', 'green_zucchini', 'garlic']",1
+1728,1041182,"['salt', 'flour', 'butter', 'egg', 'strawberry', 'pancake', 'sugar']",1
+1729,1041353,"['flour', 'egg', 'cooking_oil', 'pumpkin', 'sugar']",1
+1730,1041629,"['flour', 'butter', 'water', 'sesame', 'sugar']",1
+1731,1041899,"['mushroom', 'parsley', 'butter', 'scallop', 'cooking_oil']",1
+1732,1042350,"['spinach', 'shiitake']",1
+1733,1042375,"['papaya', 'oats', 'egg', 'pumpkin', 'sugar']",1
+1734,1042523,"['garlic', 'salt', 'welsh_onion', 'scallop', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",1
+1735,1042687,"['flour', 'butter', 'egg', 'sugar']",1
+1736,1042731,"['spinach', 'mushroom', 'garlic']",1
+1737,1042835,"['garlic', 'salt', 'beans', 'welsh_onion', 'capsicum', 'cooking_oil']",1
+1738,1043157,"['chicken', 'beans', 'water', 'sesame', 'capsicum', 'mustard', 'ginger']",0
+1739,1043506,"['jujube', 'medlar', 'salt', 'pork', 'egg', 'cooking_oil', 'ginger']",1
+1740,1043821,"['flour', 'durian', 'water', 'cooking_oil', 'sugar']",1
+1741,1044254,"['garlic', 'salt', 'towel_gourd', 'egg', 'cooking_oil', 'ginger']",1
+1742,1044336,"['salt', 'flour', 'walnut', 'water', 'raisin', 'sugar']",1
+1743,1044610,"['milk', 'salt', 'flour', 'egg', 'lemon', 'cooking_oil', 'sugar', 'lemon_peel_oil']",1
+1744,1044726,"['vinegar', 'radish', 'salt', 'water', 'sugar']",1
+1745,1044763,"['flour', 'egg', 'biscuit', 'bread']",1
+1746,1044890,"['salt', 'egg', 'flour', 'welsh_onion']",1
+1747,1044926,"['vanilla', 'cream', 'butter', 'egg', 'ice_cream', 'raisin', 'sugar', 'bread']",1
+1748,1045049,"['mushroom', 'salt', 'welsh_onion', 'egg', 'celery']",1
+1749,1045074,"['flour', 'cranberry', 'milk_powder', 'butter', 'egg', 'sugar']",1
+1750,1045128,"['soybean_sauce', 'garlic', 'capsicum', 'cooking_oil', 'swamp_cabbage']",1
+1751,1045304,"['oats', 'almond']",0
+1752,1045822,"['tomato', 'onion', 'garlic', 'salt', 'basil', 'butter', 'oregano', 'pepper', 'sugar']",0
+1753,1045984,"['longan', 'sugar', 'ashgourd']",1
+1754,1045986,"['lemon', 'sugar']",1
+1755,1046243,"['milk', 'egg', 'pumpkin', 'sugar']",1
+1756,1046314,"['milk', 'egg', 'pepper']",1
+1757,1046452,"['honey', 'milk', 'carrot']",1
+1758,1046706,"['salt', 'pork', 'carrot', 'corn']",1
+1759,1046856,"['mushroom', 'egg', 'carrot']",1
+1760,1047029,"['milk', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+1761,1047214,"['salt', 'pork', 'welsh_onion', 'ginger', 'ashgourd']",1
+1762,1047521,"['beef', 'salt', 'soybean_sauce', 'ginger', 'sugar']",1
+1763,1047586,"['capsicum', 'green_beans', 'garlic']",1
+1764,1047688,"['garlic', 'salt', 'egg', 'jews_ear', 'lettuce']",1
+1765,1048240,"['milk', 'gelatin', 'cream', 'egg', 'water', 'lemon', 'sugar']",1
+1766,1048473,"['almond', 'flour', 'butter', 'egg', 'sugar']",1
+1767,1049088,"['garlic', 'salt', 'green_beans', 'eggplant', 'capsicum', 'cooking_oil']",1
+1768,1049270,"['mallard_duck', 'capsicum', 'soybean_sauce', 'pepper']",1
+1769,1049475,"['cheese', 'milk', 'cabbage', 'potato']",1
+1770,1049575,"['flour', 'egg', 'water', 'cooking_oil', 'sugar']",1
+1771,1049783,"['tofu', 'soybean_sauce', 'capsicum', 'cooking_oil', 'sugar']",1
+1772,1049865,"['plum', 'lemon', 'sugar']",0
+1773,1050173,"['soybean_sauce', 'cabbage', 'egg', 'pasta']",1
+1774,1050301,"['salt', 'soybean_sauce', 'pork', 'cucumber']",1
+1775,1050328,"['flour', 'milk', 'pumpkin', 'sugar']",1
+1776,1050348,"['sesame', 'mozzarella_cheese', 'sweet_potato']",1
+1777,1050669,"['salt', 'flour', 'butter', 'egg', 'mozzarella_cheese', 'sugar']",1
+1778,1050757,"['cardamom', 'tamarind', 'cinnamon', 'capsicum', 'saffron', 'tomato', 'onion', 'poppy_seed', 'egg', 'water', 'pepper', 'cooking_oil', 'mace', 'rice', 'coriander', 'cumin', 'turmeric', 'salt', 'pork', 'butter', 'clove', 'nutmeg', 'fenugreek', 'flour', 'sesame']",1
+1779,1051017,"['salt', 'cabbage', 'flour', 'water']",0
+1780,1051128,"['capsicum', 'pork', 'carrot']",1
+1781,1051526,"['saffron', 'coriander', 'milk', 'cumin', 'nutmeg', 'cardamom', 'salt', 'fenugreek', 'poppy_seed', 'turmeric', 'tamarind', 'pasta', 'cream', 'cinnamon', 'sausage', 'pepper', 'sesame', 'capsicum', 'mace', 'clove']",1
+1782,1051603,"['salt', 'scallop', 'egg', 'welsh_onion']",1
+1783,1052127,"['salt', 'green_beans', 'egg', 'sugar']",1
+1784,1052156,"['onion', 'chicken', 'cauliflower', 'sausage', 'carrot', 'capsicum']",1
+1785,1052521,"['salt', 'shrimp', 'pepper']",1
+1786,1052938,"['salt', 'welsh_onion', 'egg', 'capsicum', 'cooking_oil']",1
+1787,1053963,"['grape', 'water']",0
+1788,1053981,"['salt', 'egg', 'cucumber', 'cooking_oil', 'mustard', 'pepper', 'lemon']",0
+1789,1054149,"['salt', 'towel_gourd', 'welsh_onion', 'egg', 'cooking_oil']",1
+1790,1055298,"['shrimp', 'coriander']",1
+1791,1055957,"['garlic', 'salt', 'shrimp', 'water', 'capsicum', 'ginger']",1
+1792,1056126,"['rice', 'salt', 'welsh_onion', 'egg', 'potato']",1
+1793,1056628,"['broccoli', 'vinegar', 'salt', 'soybean_sauce', 'sugar']",0
+1794,1057135,"['milk', 'condensed_milk', 'green_tea', 'agar', 'sugar']",1
+1795,1060295,"['star_anise', 'garlic', 'green_beans', 'pork', 'welsh_onion', 'potato', 'soybean_sauce', 'ginger']",0
+1796,1060401,"['garlic', 'salt', 'chicken', 'welsh_onion', 'potato', 'soybean_sauce', 'ginger', 'sugar']",1
+1797,1060788,"['soybean_sauce', 'garlic', 'salt', 'green_beans', 'welsh_onion', 'potato', 'capsicum', 'sugar']",1
+1798,1060956,"['milk', 'gelatin', 'cream_cheese', 'cream', 'butter', 'biscuit', 'lemon', 'sugar']",1
+1799,1061170,"['egg', 'okra']",1
+1800,1061352,"['kidney_beans', 'cocoa_powder']",1
+1801,1061425,"['tomato', 'garlic', 'salt', 'green_beans', 'sugar']",1
+1802,1062288,"['flour', 'peanut_oil', 'kidney_beans', 'syrup']",1
+1803,1062340,"['garlic', 'clam', 'soybean_sauce', 'cooking_oil', 'sugar']",1
+1804,1064482,"['milk', 'salt', 'cream', 'egg', 'sesame', 'sugar']",0
+1805,1064552,"['salt', 'towel_gourd', 'bamboo_shoots', 'cooking_oil', 'sugar']",0
+1806,1064836,"['cranberry', 'skimmed_milk', 'oats', 'coffee', 'sugar']",1
+1807,1064891,"['star_anise', 'beef', 'soybean_sauce', 'cumin', 'salt', 'welsh_onion', 'millet', 'pepper', 'cinnamon', 'capsicum', 'clove']",1
+1808,1065327,"['rice', 'sweet_potato']",1
+1809,1066332,"['rice', 'egg']",1
+1810,1066400,"['vanilla', 'star_anise', 'rice', 'milk', 'egg', 'cinnamon', 'sugar']",1
+1811,1066534,"['flour', 'milk_powder', 'cocoa_powder', 'cinnamon', 'cooking_oil', 'sugar']",1
+1812,1066820,"['salt', 'capsicum', 'oyster_mushroom', 'soybean_sauce']",1
+1813,1066843,"['taro', 'cooking_oil', 'sugar', 'water']",1
+1814,1066845,"['salt', 'flour', 'green_zucchini', 'egg', 'pepper', 'cooking_oil']",1
+1815,1066858,"['salt', 'cooking_oil', 'egg', 'garlic']",1
+1816,1066891,"['salt', 'beef', 'lettuce', 'welsh_onion']",1
+1817,1066949,"['flour', 'butter', 'egg', 'walnut', 'sugar']",1
+1818,1067019,"['soybean_sauce', 'radish', 'garlic', 'salt', 'capsicum', 'sugar']",1
+1819,1067489,"['flour', 'milk', 'egg', 'sugar']",1
+1820,1067623,['atlantic_mackerel'],0
+1821,1067751,"['lemon', 'lemon_peel_oil', 'sugar', 'water']",0
+1822,1067756,"['beef', 'tomato', 'garlic', 'green_beans', 'welsh_onion']",0
+1823,1067895,"['pear', 'medlar', 'sugar', 'water']",1
+1824,1068371,"['flour', 'cocoa_powder', 'egg', 'cooking_oil', 'sugar']",1
+1825,1068387,"['beef', 'okra', 'garlic']",1
+1826,106858,"['salt', 'peas', 'carrot', 'jews_ear', 'cooking_oil', 'ginger', 'sugar']",1
+1827,1068712,"['beef', 'rice', 'onion', 'soybean_sauce', 'sugar']",1
+1828,1069255,"['sesame', 'soybean_sauce', 'milk', 'flour']",1
+1829,1069264,"['garlic', 'salt', 'pork', 'eggplant', 'welsh_onion', 'soybean_sauce', 'sugar']",1
+1830,1069279,"['flour', 'cream_cheese', 'butter', 'egg', 'chocolate', 'peanut', 'sugar']",1
+1831,1069705,"['cabbage', 'pork']",1
+1832,1069798,"['salt', 'spinach', 'beans', 'egg', 'water', 'capsicum', 'cooking_oil', 'sugar']",0
+1833,1069815,"['salt', 'green_beans', 'pork', 'soybean_sauce', 'cooking_oil']",1
+1834,1069908,"['pomegranate', 'sugar']",0
+1835,1070472,"['apple', 'cabbage', 'banana', 'water', 'lemon', 'pineapple']",1
+1836,1071176,"['garlic', 'salt', 'clam', 'peas', 'soybean_sauce']",1
+1837,1071291,"['corn', 'mushroom', 'garlic', 'welsh_onion', 'capsicum']",1
+1838,1071896,"['star_anise', 'soybean_sauce', 'shiitake', 'taro', 'carrot', 'capsicum', 'sugar']",1
+1839,1072240,"['cream', 'salt', 'chocolate', 'sugar']",1
+1840,1072554,"['milk', 'peanut', 'sugar', 'water']",0
+1841,1072605,"['salt', 'flour', 'cranberry', 'butter', 'green_tea', 'egg', 'water', 'sugar']",1
+1842,1072754,"['milk', 'gelatin', 'flour', 'cream', 'rum', 'green_tea', 'egg', 'cocoa_powder', 'water', 'sugar']",1
+1843,1073041,"['gelatin', 'coconut']",1
+1844,1073088,"['salt', 'pork', 'peas', 'cooking_oil', 'ginger']",1
+1845,1073236,"['milk', 'sugar', 'chestnut']",0
+1846,1073358,"['egg', 'sugar']",1
+1847,1073590,"['flour', 'strawberry', 'chocolate', 'egg']",1
+1848,1074327,"['salt', 'flour', 'butter', 'egg', 'water', 'sugar']",0
+1849,1074889,"['salt', 'flour', 'kidney_beans', 'water', 'corn_oil', 'sugar']",1
+1850,1075154,"['salt', 'flour', 'fig', 'butter', 'rum', 'egg', 'sugar']",0
+1851,1075700,"['salt', 'cabbage', 'shiitake', 'water']",1
+1852,107577,"['mushroom', 'ham', 'milk', 'salt', 'flour', 'cream', 'cooking_oil']",1
+1853,1075872,"['mushroom', 'salt', 'chicken', 'soybean_sauce', 'sugar']",1
+1854,1075897,"['milk', 'salt', 'flour', 'butter', 'condensed_milk', 'egg', 'sugar']",0
+1855,1075934,"['salt', 'flour', 'egg', 'water', 'cooking_oil']",0
+1856,1075986,"['soybean_sauce', 'radish', 'salt', 'peas', 'capsicum']",1
+1857,1076525,"['vanilla', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+1858,1076537,"['milk', 'flour', 'cocoa_powder', 'egg', 'sugar']",1
+1859,1076754,"['salt', 'pork', 'soybean_sauce', 'taro', 'sugar']",1
+1860,1076794,"['sesame', 'oats', 'milk', 'egg']",1
+1861,1076953,"['mushroom', 'vinegar', 'soybean_sauce', 'garlic', 'salt', 'welsh_onion', 'sesame', 'capsicum']",1
+1862,1077077,"['soybean_sauce', 'garlic', 'salt', 'chicken', 'canola_oil', 'capsicum', 'ginger']",1
+1863,1077103,"['plum', 'sugar']",0
+1864,1077213,"['blueberry', 'milk', 'flour', 'cream_cheese', 'butter', 'biscuit', 'egg', 'strawberry', 'lemon', 'sugar']",0
+1865,1077219,"['green_tea', 'water_chestnut', 'coconut', 'water', 'sugar']",1
+1866,1077527,"['milk', 'gelatin', 'yogurt', 'cheese', 'cream', 'butter', 'biscuit', 'rum', 'egg', 'strawberry', 'lemon', 'sugar']",1
+1867,1077676,"['kiwifruit', 'apple', 'water']",1
+1868,1077730,"['salt', 'pork', 'bamboo_shoots', 'soybean_sauce', 'sugar']",0
+1869,1077763,['starfruit'],1
+1870,1078045,"['peanut', 'sugar', 'water']",0
+1871,1078850,"['asparagus', 'milk', 'salt', 'flour', 'dill', 'pasta', 'cream', 'butter', 'pepper', 'salmon']",1
+1872,1079724,['tomato'],0
+1873,1080268,"['vanilla', 'flour', 'macadamia_nut', 'butter', 'egg', 'chocolate', 'sugar']",1
+1874,1080397,"['milk', 'gelatin', 'cream_cheese', 'sake', 'cream', 'butter', 'biscuit', 'green_tea', 'sugar']",1
+1875,1080798,"['milk', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+1876,1080827,"['sesame', 'water_chestnut', 'sugar', 'water']",1
+1877,1081293,"['flour', 'egg', 'water', 'corn_oil', 'black_tea', 'lemon', 'sugar']",1
+1878,1081657,"['broccoli', 'garlic', 'salt', 'pork', 'soybean_sauce', 'cooking_oil']",1
+1879,1081699,"['avocado', 'salad_dressing', 'egg']",1
+1880,1081817,"['spinach', 'egg']",1
+1881,1082146,"['chicken', 'potato']",1
+1882,1082509,"['flour', 'cream', 'butter', 'egg', 'sugar']",1
+1883,1082712,"['cucumber', 'soybean_sauce', 'garlic', 'chicken', 'welsh_onion', 'pepper', 'sesame', 'capsicum', 'lemon', 'ginger']",1
+1884,1083074,"['vinegar', 'soybean_sauce', 'salt', 'potato', 'capsicum']",1
+1885,1084141,"['oats', 'milk']",1
+1886,1084694,"['oats', 'milk_powder', 'sugar', 'water']",1
+1887,1084952,"['salt', 'flour', 'butter', 'honey', 'water']",1
+1888,1085013,"['salt', 'clam', 'welsh_onion', 'water', 'soybean_sauce', 'ginger']",1
+1889,1085481,"['blueberry', 'milk', 'gelatin', 'cream_cheese', 'cheese', 'cream', 'butter', 'biscuit', 'rum', 'egg', 'lemon', 'sugar']",1
+1890,1085692,"['corn', 'milk', 'salt', 'butter', 'water', 'sugar']",1
+1891,1086114,"['butter', 'corn']",1
+1892,1086284,"['milk', 'salt', 'flour', 'cream', 'butter', 'egg', 'sugar']",0
+1893,1086698,"['beef', 'garlic', 'welsh_onion', 'potato', 'ginger']",1
+1894,1087055,"['salt', 'spinach', 'flour', 'egg', 'pepper']",1
+1895,1087430,"['blueberry', 'gelatin', 'water', 'lemon', 'sugar']",1
+1896,1087513,"['cream', 'egg', 'flour', 'sugar']",1
+1897,1087514,"['welsh_onion', 'capsicum', 'carrot', 'potato']",1
+1898,1088094,"['rice', 'milk', 'sugar']",0
+1899,1088547,"['salt', 'welsh_onion', 'egg', 'jews_ear', 'cucumber', 'cooking_oil']",1
+1900,1089086,"['salt', 'shrimp', 'egg', 'welsh_onion']",1
+1901,108915,"['papaya', 'milk']",1
+1902,1089240,"['vinegar', 'radish', 'salt', 'water', 'sugar']",0
+1903,1089397,"['flour', 'sweet_potato', 'water']",1
+1904,1089625,"['flour', 'parmesan_cheese']",1
+1905,108963,"['salt', 'pork', 'sugar']",1
+1906,1089833,"['mushroom', 'salt', 'butter', 'pepper', 'mozzarella_cheese', 'bread']",1
+1907,1089890,"['pineapple', 'tomato', 'apple', 'onion', 'garlic', 'salt', 'basil', 'butter', 'meat', 'oregano', 'pepper', 'soybean_sauce', 'raisin', 'mozzarella_cheese', 'sugar']",1
+1908,1090322,"['salt', 'capsicum', 'chicken', 'pepper']",1
+1909,1090706,"['salt', 'flour', 'green_zucchini', 'egg', 'pepper']",1
+1910,1090767,"['milk', 'salt', 'flour', 'egg', 'cucumber', 'cooking_oil']",1
+1911,1090784,"['flour', 'kidney_beans']",1
+1912,1090817,"['flour', 'butter', 'cocoa_powder', 'coffee', 'sugar']",1
+1913,1091534,"['flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+1914,1092237,"['oats', 'egg', 'honey', 'sweet_potato']",1
+1915,1092967,"['salt', 'spinach', 'pork', 'soybean_sauce', 'cooking_oil', 'ginger']",1
+1916,1093282,"['pear', 'kiwifruit']",1
+1917,1093461,"['ham', 'soybean_sauce', 'garlic', 'salt', 'cucumber', 'capsicum']",1
+1918,1093480,"['mushroom', 'asparagus', 'garlic', 'salt', 'cooking_oil']",1
+1919,1093885,['pork'],1
+1920,1093977,"['mushroom', 'salt', 'pepper', 'sesame', 'ashgourd']",1
+1921,1093982,"['sesame', 'egg', 'carrot', 'pasta']",0
+1922,1094066,"['salt', 'cheese', 'butter', 'egg', 'bread']",1
+1923,1094368,"['salt', 'green_beans', 'welsh_onion', 'garlic']",1
+1924,1094541,['rice'],1
+1925,1094813,"['flour', 'soybean', 'butter', 'green_tea', 'egg', 'cocoa_powder', 'sesame', 'sugar']",1
+1926,1095702,"['salt', 'pork', 'bittergourd', 'soybean_sauce', 'cooking_oil', 'sugar']",1
+1927,1096313,"['salt', 'cooking_oil', 'egg', 'cucumber']",1
+1928,1097862,"['corn', 'cream', 'condensed_milk', 'butter', 'mozzarella_cheese']",1
+1929,1098220,"['broccoli', 'shiitake', 'salt', 'capsicum', 'ginger']",1
+1930,109952,"['vinegar', 'garlic', 'salt', 'pork', 'pepper', 'soybean_sauce', 'ginger', 'sugar']",1
+1931,1100245,"['garlic', 'salt', 'pork', 'beans', 'eggplant', 'welsh_onion', 'water', 'capsicum', 'cooking_oil']",1
+1932,1100246,"['garlic', 'salt', 'pork', 'green_tea', 'soybean_sauce', 'cooking_oil', 'ginger']",1
+1933,1100460,"['beef', 'cheese', 'egg', 'carrot', 'potato', 'salmon']",0
+1934,1100751,"['salt', 'flour', 'water', 'cooking_oil', 'sugar']",1
+1935,1101099,"['grape', 'gelatin', 'sugar']",1
+1936,110111,"['shrimp', 'peas']",1
+1937,1101149,"['egg', 'walnut', 'sugar', 'water']",1
+1938,1101357,"['capsicum', 'soybean', 'garlic']",1
+1939,110145,"['beef', 'salt', 'pepper', 'capsicum', 'sugar']",1
+1940,1101685,"['vanilla', 'apricot', 'lemon', 'sugar']",0
+1941,1103473,"['beef', 'salt', 'bittergourd', 'soybean_sauce', 'cooking_oil', 'ginger']",1
+1942,1103569,"['milk', 'cream_cheese', 'cream', 'egg', 'sugar']",1
+1943,1103632,"['bayberry', 'sugar', 'water']",1
+1944,1103715,"['rice', 'tomato', 'salt', 'welsh_onion', 'egg']",1
+1945,1104248,"['chicken', 'welsh_onion', 'potato', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",1
+1946,1104285,"['salt', 'celery', 'ginger', 'squid']",1
+1947,110694,"['walnut', 'sugar', 'water']",1
+1948,112988,"['flour', 'cream', 'butter', 'egg', 'pumpkin', 'sugar']",1
+1949,112992,"['flour', 'butter', 'egg', 'sesame', 'sugar']",1
+1950,113138,"['flour', 'butter', 'egg', 'walnut', 'cocoa_powder', 'sugar']",1
+1951,113143,"['corn', 'cooking_oil', 'sugar']",1
+1952,113325,"['milk', 'salt', 'flour', 'butter', 'honey', 'walnut', 'water', 'sugar']",1
+1953,113363,"['honey', 'kiwifruit', 'milk']",1
+1954,113513,"['milk', 'flour', 'egg', 'peanut_butter', 'cooking_oil', 'sugar']",1
+1955,113700,"['salt', 'flour', 'welsh_onion', 'butter', 'water', 'sesame', 'sugar']",1
+1956,11473,"['vanilla', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+1957,11478,"['lemon', 'strawberry', 'sugar']",0
+1958,115651,"['vinegar', 'salt', 'cabbage', 'sausage', 'soybean_sauce', 'sugar']",1
+1959,116197,"['flour', 'butter', 'egg', 'walnut', 'sugar']",1
+1960,117386,"['water', 'shrimp', 'kelp', 'pepper', 'ginger']",1
+1961,117400,"['star_anise', 'cumin', 'garlic', 'salt', 'pork', 'pepper', 'cinnamon', 'soybean_sauce', 'clove']",1
+1962,11963,"['papaya', 'milk']",0
+1963,11978,"['saffron', 'coriander', 'nutmeg', 'water', 'cumin', 'cardamom', 'salt', 'flour', 'fenugreek', 'poppy_seed', 'tamarind', 'turmeric', 'cinnamon', 'potato', 'pepper', 'sesame', 'capsicum', 'mace', 'clove']",1
+1964,12071,"['medlar', 'radish', 'salt', 'pork', 'water', 'pepper', 'ginger']",1
+1965,12416,"['corn', 'rice', 'shiitake', 'salt', 'chicken', 'carrot']",1
+1966,12426,"['soybean_sauce', 'shiitake', 'salt', 'welsh_onion', 'capsicum', 'codfish']",1
+1967,126741,"['blueberry', 'flour', 'chocolate', 'banana', 'oats', 'egg', 'cooking_oil', 'sugar']",1
+1968,12675,"['mushroom', 'onion', 'salt', 'flour', 'cream', 'butter', 'pepper']",1
+1969,126816,"['broccoli', 'egg', 'carrot']",1
+1970,127132,"['mushroom', 'saffron', 'coriander', 'tomato', 'cumin', 'nutmeg', 'onion', 'cardamom', 'fenugreek', 'chicken', 'poppy_seed', 'tamarind', 'turmeric', 'cinnamon', 'coconut', 'pepper', 'sesame', 'capsicum', 'mace', 'clove']",1
+1971,127242,"['beef', 'soybean_sauce', 'welsh_onion', 'peanut_oil', 'capsicum', 'ginger', 'sugar']",0
+1972,127355,"['milk', 'flour', 'egg', 'corn_oil', 'lemon', 'sugar']",1
+1973,128062,"['salt', 'chicken', 'cooking_oil', 'tomato']",1
+1974,132294,"['flour', 'corn']",1
+1975,135361,"['flour', 'pumpkin', 'water']",0
+1976,13771,"['fish', 'cooking_oil']",0
+1977,13811,['sweet_potato'],0
+1978,13895,"['garlic', 'salt', 'cabbage', 'welsh_onion', 'capsicum']",1
+1979,142721,"['salt', 'flour', 'cranberry', 'cream', 'butter', 'rum', 'egg', 'sugar']",1
+1980,146570,"['vanilla', 'flour', 'butter', 'egg', 'sugar']",1
+1981,147126,"['salt', 'soybean_sauce', 'carrot', 'potato']",1
+1982,147128,"['flour', 'pumpkin']",1
+1983,147165,['mushroom'],1
+1984,147472,"['flour', 'egg', 'pumpkin', 'sugar']",1
+1985,147515,"['pork', 'ginger', 'water']",0
+1986,14938,"['pear', 'rice']",1
+1987,14955,"['cooking_oil', 'sweet_potato']",1
+1988,150212,"['sweet_potato', 'flour', 'butter', 'egg', 'sugar']",1
+1989,150278,['orange'],1
+1990,15206,"['salt', 'soybean', 'bamboo_shoots', 'cinnamon', 'soybean_sauce', 'sugar']",1
+1991,15389,"['corn', 'sweet_potato']",1
+1992,157691,"['rice', 'onion', 'salt', 'welsh_onion', 'shrimp', 'egg', 'pepper', 'capsicum', 'ginger']",1
+1993,159253,"['salt', 'flour', 'butter', 'water', 'sugar']",1
+1994,159276,"['salt', 'broccoli', 'carrot']",1
+1995,159315,"['oats', 'rice', 'sweet_potato']",1
+1996,159489,['chocolate'],0
+1997,160889,"['beef', 'garlic', 'red_wine', 'pepper', 'sesame', 'soybean_sauce']",1
+1998,161467,"['onion', 'salt', 'egg', 'capsicum', 'cooking_oil', 'ginger']",1
+1999,161482,"['star_anise', 'beef', 'soybean_sauce', 'salt', 'welsh_onion', 'capsicum', 'cooking_oil', 'ginger']",1
+2000,164355,"['salt', 'peas', 'garlic']",1
+2001,164378,"['welsh_onion', 'soybean_sauce', 'potato', 'sugar']",1
+2002,164504,"['tomato', 'vinegar', 'garlic', 'salt', 'pork', 'egg', 'ginger', 'sugar']",1
+2003,166779,"['pineapple', 'pancake', 'sugar']",1
+2004,168963,"['milk', 'flour', 'cream_cheese', 'yogurt', 'butter', 'biscuit', 'egg', 'sugar']",1
+2005,170222,"['soybean_sauce', 'garlic', 'salt', 'towel_gourd', 'capsicum']",1
+2006,170994,"['sweet_potato', 'chestnut', 'sugar', 'water']",1
+2007,171177,"['jujube', 'pumpkin', 'sugar', 'water']",1
+2008,171214,"['soybean_sauce', 'garlic', 'salt', 'chicken', 'welsh_onion', 'capsicum', 'cooking_oil', 'ginger']",1
+2009,171403,"['pineapple', 'chicken', 'welsh_onion', 'soybean_sauce', 'ginger', 'sugar']",1
+2010,174866,"['honey', 'roselle', 'litchi', 'gelatin']",1
+2011,175890,"['milk', 'salt', 'flour', 'butter', 'pepper', 'mozzarella_cheese']",1
+2012,176667,"['cardamom', 'tamarind', 'coconut', 'cinnamon', 'capsicum', 'saffron', 'onion', 'poppy_seed', 'pepper', 'mace', 'rice', 'coriander', 'cumin', 'turmeric', 'chicken', 'clove', 'nutmeg', 'fenugreek', 'potato', 'carrot', 'sesame']",1
+2013,176861,"['water_chestnut', 'sugar', 'water']",1
+2014,17688,"['milk', 'egg', 'raisin', 'sugar', 'bread']",1
+2015,177036,"['salt', 'egg', 'flour', 'water']",0
+2016,177079,"['sesame', 'spinach', 'egg']",0
+2017,177328,"['kidney_beans', 'water_chestnut', 'sugar', 'water']",1
+2018,178452,"['honey', 'grapefruit', 'water']",1
+2019,17935,"['salt', 'coriander', 'eggplant', 'garlic']",0
+2020,17976,"['salt', 'bittergourd', 'welsh_onion', 'egg', 'carrot']",1
+2021,18005,"['soybean_sauce', 'garlic', 'salt', 'pork', 'water', 'capsicum']",1
+2022,18143,"['jujube', 'medlar']",1
+2023,181809,['egg'],1
+2024,181822,"['saffron', 'coriander', 'nutmeg', 'cumin', 'fenugreek', 'cardamom', 'turmeric', 'poppy_seed', 'chicken', 'tamarind', 'cinnamon', 'potato', 'pepper', 'sesame', 'capsicum', 'carrot', 'mace', 'clove']",1
+2025,182262,"['vinegar', 'salt', 'flour', 'durian', 'butter', 'egg', 'water', 'sugar']",1
+2026,182426,"['orange', 'gelatin', 'sugar', 'water']",1
+2027,18244,"['broccoli', 'garlic', 'salt', 'scallop', 'ginger']",1
+2028,182744,"['tofu', 'clam', 'kelp']",1
+2029,182756,"['salt', 'flour', 'peanut_oil', 'egg', 'walnut', 'peanut', 'sugar']",1
+2030,182874,"['capsicum', 'vinegar', 'sugar']",1
+2031,182905,"['cardamom', 'tamarind', 'cinnamon', 'capsicum', 'beef', 'saffron', 'onion', 'poppy_seed', 'pepper', 'mace', 'coriander', 'cumin', 'turmeric', 'garlic', 'welsh_onion', 'ginger', 'clove', 'star_anise', 'nutmeg', 'fenugreek', 'potato', 'carrot', 'sesame']",1
+2032,183710,"['shiitake', 'salt', 'chicken', 'welsh_onion', 'potato', 'soybean_sauce', 'ginger', 'sugar']",0
+2033,183792,"['blueberry', 'flour', 'cream_cheese', 'cream', 'butter', 'biscuit', 'egg', 'lemon', 'sugar']",1
+2034,184359,"['flour', 'cream_cheese', 'yogurt', 'cream', 'butter', 'biscuit', 'egg', 'sugar']",1
+2035,184361,"['salt', 'purple_laver', 'shrimp', 'egg', 'pepper']",1
+2036,184589,"['salt', 'enokitake', 'pork', 'pepper', 'soybean_sauce']",1
+2037,184723,"['other_fish_product', 'vinegar', 'salt', 'welsh_onion', 'pepper', 'soybean_sauce', 'ginger', 'sugar']",1
+2038,184966,"['star_anise', 'vinegar', 'pork', 'welsh_onion', 'soybean_sauce', 'ginger', 'sugar']",0
+2039,185257,"['grape', 'sugar']",0
+2040,186644,"['lemon', 'sugar', 'mango']",1
+2041,186722,"['flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+2042,186884,"['capsicum', 'soybean_sauce', 'eggplant', 'garlic']",1
+2043,187932,"['apple', 'salt', 'flour', 'oats', 'water']",0
+2044,190973,"['mushroom', 'garlic', 'salt', 'spinach', 'egg', 'jews_ear']",1
+2045,191041,"['salt', 'egg', 'jews_ear']",1
+2046,191055,"['star_anise', 'soybean_sauce', 'cumin', 'garlic', 'salt', 'green_beans', 'pork', 'pepper', 'cinnamon', 'capsicum', 'cooking_oil', 'clove']",1
+2047,192647,"['asparagus', 'jews_ear', 'garlic']",1
+2048,193549,"['mushroom', 'soybean_sauce', 'garlic', 'salt', 'pepper', 'capsicum']",1
+2049,194646,"['milk', 'flour', 'durian', 'egg', 'cooking_oil', 'sugar']",1
+2050,197037,"['bittergourd', 'honey']",1
+2051,197179,"['flour', 'butter', 'green_tea', 'egg', 'sugar']",1
+2052,197190,"['salt', 'flour', 'water', 'cooking_oil', 'buckwheat', 'sugar']",1
+2053,198099,"['milk', 'flour', 'cream_cheese', 'butter', 'egg', 'sugar']",1
+2054,199115,"['corn', 'flour', 'welsh_onion', 'egg', 'carrot']",1
+2055,199816,"['corn', 'lemon', 'egg', 'sugar']",1
+2056,201237,"['flour', 'condensed_milk', 'butter', 'milk_powder']",1
+2057,201727,"['star_anise', 'cumin', 'salt', 'potato', 'pepper', 'cinnamon', 'capsicum', 'clove']",1
+2058,202953,"['chocolate', 'strawberry']",0
+2059,203363,"['vanilla', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+2060,20431,"['salt', 'mushroom', 'chicken', 'ginger']",1
+2061,204934,"['flour', 'medlar', 'sugar', 'water']",1
+2062,205543,"['salt', 'apple', 'lemon']",1
+2063,206338,"['green_beans', 'garlic']",1
+2064,208785,"['milk', 'flour', 'butter', 'honey', 'walnut', 'water', 'sugar']",1
+2065,21256,"['salt', 'potato', 'welsh_onion', 'water']",1
+2066,21274,"['beef', 'water', 'garlic', 'pepper', 'soybean_sauce', 'cooking_oil', 'celery', 'ginger']",1
+2067,21359,"['milk', 'salt', 'flour', 'egg', 'strawberry', 'cinnamon', 'corn_oil', 'sugar']",1
+2068,21382,"['vanilla', 'salt', 'flour', 'yogurt', 'butter', 'egg', 'lemon', 'sugar', 'lemon_peel_oil']",1
+2069,21383,"['hazelnut', 'flour', 'butter', 'rum', 'egg', 'coffee', 'chocolate', 'sugar']",1
+2070,21404,"['hazelnut', 'flour', 'cranberry', 'flaxseed', 'butter', 'oats', 'honey', 'sugar']",1
+2071,21415,"['milk', 'flour', 'egg', 'corn_oil', 'sugar']",0
+2072,21422,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'sugar']",1
+2073,21439,"['milk', 'cream', 'green_tea', 'egg', 'sugar']",1
+2074,21445,"['vanilla', 'milk', 'cream', 'cherry', 'biscuit', 'egg', 'chocolate', 'sugar']",1
+2075,21446,"['salt', 'flour', 'chocolate', 'raisin', 'water', 'cooking_oil', 'sugar']",1
+2076,21458,"['vanilla', 'milk', 'cream', 'butter', 'condensed_milk', 'honey', 'egg', 'rum', 'lemon', 'sugar']",1
+2077,21462,"['almond', 'flour', 'butter', 'egg', 'cocoa_powder', 'chocolate', 'sugar']",1
+2078,21470,"['milk', 'salt', 'flour', 'butter', 'egg', 'sesame', 'sugar']",1
+2079,21473,"['milk', 'flour', 'butter', 'egg', 'lemon', 'sugar', 'lemon_peel_oil']",1
+2080,21481,"['jujube', 'salt', 'flour', 'butter', 'egg', 'sugar']",0
+2081,214852,"['corn', 'sugar']",1
+2082,21488,"['flour', 'butter', 'honey', 'egg', 'water', 'cinnamon', 'lemon', 'ginger', 'sugar']",1
+2083,21498,"['milk', 'salt', 'flour', 'butter', 'honey', 'egg', 'water', 'cinnamon', 'pumpkin', 'ginger', 'sugar']",1
+2084,21522,"['milk', 'flour', 'cream_cheese', 'cream', 'butter', 'egg', 'water', 'lemon', 'sugar']",1
+2085,21526,"['milk', 'salt', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+2086,21544,"['vanilla', 'flour', 'butter', 'green_tea', 'egg', 'cocoa_powder', 'sugar']",1
+2087,21553,"['salt', 'flour', 'butter', 'egg', 'water', 'sugar']",0
+2088,21589,"['flour', 'cooking_oil', 'egg', 'sugar']",1
+2089,21590,"['milk', 'flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+2090,21599,"['flour', 'milk_powder', 'butter', 'oats', 'egg', 'chocolate', 'sugar']",1
+2091,21610,"['flour', 'butter', 'egg', 'sugar']",1
+2092,21643,"['tomato', 'onion', 'garlic', 'salt', 'butter', 'oregano', 'pepper', 'sugar']",0
+2093,21647,"['milk', 'salt', 'flour', 'cranberry', 'egg', 'cooking_oil', 'sugar']",1
+2094,21663,"['milk', 'flour', 'butter', 'egg', 'coconut', 'water', 'sugar']",1
+2095,21671,"['salt', 'peanut_butter', 'flour', 'sugar']",1
+2096,216861,"['jujube', 'millet']",0
+2097,217248,"['milk', 'salt', 'flour', 'butter', 'honey', 'egg', 'walnut', 'sugar']",1
+2098,21768,"['salt', 'chicken', 'peanut_oil', 'welsh_onion', 'ginger']",1
+2099,21902,"['soybean_sauce', 'chicken', 'sugar']",1
+2100,22003,"['salt', 'shrimp', 'radish', 'welsh_onion']",1
+2101,22036,"['soybean_sauce', 'garlic', 'fish', 'capsicum', 'ginger', 'sugar']",0
+2102,22070,"['tomato', 'salt', 'chicken', 'pepper', 'soybean_sauce', 'lemon', 'sugar']",1
+2103,222872,"['salt', 'pork', 'shrimp', 'egg', 'jews_ear', 'soybean_sauce', 'cooking_oil']",0
+2104,22576,"['salt', 'amaranth', 'sugar', 'garlic']",1
+2105,227036,"['flour', 'butter', 'egg', 'cocoa_powder', 'chocolate', 'sugar']",1
+2106,228065,"['flour', 'egg', 'cooking_oil', 'lemon', 'sugar']",1
+2107,230469,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+2108,232378,"['milk', 'salt', 'cream', 'condensed_milk', 'cocoa_powder', 'coffee', 'chocolate', 'sugar']",1
+2109,232460,"['garlic', 'salt', 'flour', 'welsh_onion', 'potato', 'cucumber', 'carrot', 'lettuce', 'ginger']",0
+2110,23318,"['lemon', 'orange', 'sugar', 'ashgourd']",0
+2111,234378,"['flour', 'butter', 'egg', 'sugar']",1
+2112,234478,"['corn', 'radish', 'shiitake', 'salt', 'potato', 'celery', 'sugar']",1
+2113,23462,"['salt', 'chicken', 'red_wine', 'pepper', 'soybean_sauce', 'ginger', 'sugar']",1
+2114,234971,"['salt', 'flour', 'canola_oil', 'egg', 'water', 'cinnamon', 'raisin', 'sugar']",1
+2115,238435,"['peanut', 'sugar', 'water']",0
+2116,243110,"['orange', 'strawberry', 'kiwifruit', 'yogurt']",0
+2117,243191,"['beef', 'mushroom', 'tomato', 'salt', 'welsh_onion', 'ginger']",0
+2118,243222,"['salt', 'flour', 'egg', 'sesame', 'cooking_oil', 'sugar']",1
+2119,243264,"['vanilla', 'almond', 'flour', 'cocoa_powder', 'water', 'corn_oil', 'sugar']",1
+2120,243871,"['flour', 'condensed_milk', 'butter', 'egg', 'sugar']",1
+2121,244251,"['blueberry', 'milk', 'gelatin', 'cream_cheese', 'cream', 'butter', 'biscuit', 'lemon', 'sugar']",1
+2122,245780,"['rice', 'banana']",1
+2123,245810,"['blueberry', 'milk', 'gelatin', 'cream_cheese', 'cream', 'butter', 'biscuit', 'lemon', 'sugar']",1
+2124,245930,"['milk', 'egg', 'sugar']",1
+2125,246198,"['kiwifruit', 'blueberry', 'bread', 'strawberry', 'lemon', 'sugar']",0
+2126,246257,"['jujube', 'egg', 'water_chestnut', 'cauliflower']",0
+2127,246895,"['milk', 'flour', 'cranberry', 'yogurt', 'egg', 'cooking_oil', 'sugar']",1
+2128,247073,"['flour', 'cooking_oil', 'egg', 'sugar']",1
+2129,247088,"['flour', 'milk', 'pumpkin', 'sugar']",1
+2130,247563,"['butter', 'egg', 'bread']",1
+2131,247632,"['salt', 'welsh_onion', 'lamb', 'carrot', 'pepper', 'soybean_sauce', 'ginger', 'sugar']",0
+2132,247875,"['milk', 'salt', 'flour', 'cream', 'egg', 'raisin', 'sugar']",1
+2133,248348,['shiitake'],0
+2134,248618,"['ham', 'salt', 'purple_laver', 'egg', 'salad_dressing', 'lettuce', 'bread']",0
+2135,248806,"['blueberry', 'milk', 'tomato', 'salt', 'condensed_milk', 'egg', 'cocoa_powder', 'lemon', 'chocolate', 'sugar', 'bread']",0
+2136,248933,"['cardamom', 'tamarind', 'coconut', 'cinnamon', 'capsicum', 'saffron', 'onion', 'poppy_seed', 'gefilte_fish', 'pepper', 'cooking_oil', 'mace', 'coriander', 'cumin', 'turmeric', 'garlic', 'salt', 'clove', 'nutmeg', 'fenugreek', 'sesame']",1
+2137,248966,"['flour', 'butter', 'egg', 'sesame', 'sugar']",1
+2138,248974,"['salt', 'pork', 'soybean_sauce', 'cooking_oil', 'okra']",0
+2139,248979,"['salt', 'flour', 'butter', 'water', 'black_tea']",1
+2140,250627,"['salt', 'scallop', 'egg', 'carrot', 'pepper', 'lettuce']",0
+2141,251104,"['garlic', 'abalone', 'welsh_onion', 'water', 'soybean_sauce', 'ginger', 'sugar']",1
+2142,25144,"['cumin', 'soybean_sauce', 'salt', 'chicken', 'water', 'capsicum']",1
+2143,25158,"['salt', 'beef', 'radish']",0
+2144,25211,"['star_anise', 'soybean_sauce', 'mallard_duck', 'salt', 'welsh_onion', 'taro', 'capsicum', 'sugar']",1
+2145,252360,"['tomato', 'salt', 'cabbage', 'welsh_onion', 'soybean_sauce', 'cooking_oil']",1
+2146,25317,"['flour', 'eggplant', 'meat', 'egg', 'cooking_oil', 'beer']",1
+2147,253411,"['gelatin', 'flour', 'milk_powder', 'cream', 'butter', 'condensed_milk', 'coconut', 'sugar']",1
+2148,253530,"['salt', 'flour', 'yogurt', 'milk_powder', 'butter', 'egg', 'sugar']",1
+2149,253960,"['vanilla', 'kiwifruit', 'milk', 'raspberry', 'salt', 'flour', 'grape', 'butter', 'egg', 'water', 'apricot', 'orange', 'sugar']",1
+2150,254050,"['vodka', 'lemon', 'sugar', 'water']",1
+2151,254305,"['tomato', 'onion', 'garlic', 'salt', 'cream', 'shrimp', 'welsh_onion', 'butter', 'pepper', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",0
+2152,254497,"['flour', 'butter', 'egg', 'sugar']",1
+2153,254535,"['flour', 'sweet_potato', 'sugar', 'water']",1
+2154,254625,"['tomato', 'salt', 'flour', 'welsh_onion', 'egg', 'sugar']",1
+2155,254665,"['lemon', 'strawberry', 'sugar']",0
+2156,25474,"['corn', 'milk', 'egg', 'cooking_oil', 'sugar']",1
+2157,254881,"['flour', 'egg', 'sugar']",1
+2158,254913,"['bittergourd', 'pumpkin', 'sugar']",1
+2159,255154,"['sugar', 'ashgourd']",1
+2160,255215,"['corn', 'garlic', 'salt', 'pork', 'welsh_onion', 'carrot', 'soybean_sauce', 'beer', 'ginger', 'sugar']",1
+2161,255227,"['medlar', 'flour', 'water', 'pumpkin', 'sugar']",1
+2162,255261,"['cream', 'milk', 'egg', 'sugar']",1
+2163,255422,"['mushroom', 'cardamom', 'tamarind', 'cinnamon', 'capsicum', 'ham', 'saffron', 'onion', 'poppy_seed', 'pepper', 'mace', 'rice', 'coriander', 'cumin', 'turmeric', 'clove', 'nutmeg', 'fenugreek', 'purple_laver', 'potato', 'carrot', 'sesame']",0
+2164,255496,"['salt', 'flour', 'cranberry', 'egg', 'water', 'cooking_oil', 'sugar']",1
+2165,255619,"['milk', 'salt', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+2166,255743,"['cherry', 'orange']",0
+2167,256014,"['mung_bean', 'water']",1
+2168,256118,['cucumber'],0
+2169,256316,"['salt', 'soybean_sauce', 'lentils', 'sugar']",1
+2170,256348,"['beef', 'tomato', 'onion', 'garlic', 'salt', 'pasta', 'laurel', 'potato', 'pepper', 'capsicum', 'sugar']",1
+2171,256400,"['milk', 'gelatin', 'cocoa_powder', 'egg', 'sugar']",1
+2172,256809,"['vinegar', 'salt', 'flour', 'cranberry', 'rum', 'egg', 'sugar']",1
+2173,257204,"['salt', 'capsicum', 'scallop', 'welsh_onion']",1
+2174,257328,"['tofu', 'tomato', 'salt', 'welsh_onion', 'pepper', 'salmon']",1
+2175,257361,"['bittergourd', 'honey', 'banana']",1
+2176,257470,"['salt', 'cumin', 'potato', 'pepper']",1
+2177,257711,"['milk', 'salt', 'flour', 'cooking_oil', 'sugar']",1
+2178,257841,"['salt', 'flour', 'butter', 'green_tea', 'water', 'pumpkin', 'sugar']",1
+2179,257972,"['tofu', 'tomato', 'salt', 'welsh_onion', 'soybean_sauce', 'sugar']",1
+2180,258411,"['star_anise', 'mallard_duck', 'welsh_onion', 'cinnamon', 'soybean_sauce', 'ginger', 'sugar']",0
+2181,258706,"['flour', 'banana', 'egg', 'water', 'cooking_oil', 'sugar']",1
+2182,258927,"['sweet_potato', 'flour', 'butter', 'water', 'sugar']",1
+2183,259540,"['milk', 'breakfast_cereal', 'salt', 'flour', 'cranberry', 'rum', 'egg', 'cooking_oil', 'sugar']",1
+2184,259843,"['salt', 'flour', 'egg', 'cooking_oil', 'pumpkin']",1
+2185,259863,['sweet_potato'],1
+2186,260002,"['star_anise', 'soybean_sauce', 'cumin', 'garlic', 'salt', 'chicken', 'capsicum', 'beer', 'ginger']",1
+2187,260337,"['tomato', 'salt', 'potato', 'cooking_oil', 'ginger']",1
+2188,260686,"['soybean_sauce', 'garlic', 'salt', 'pork', 'capsicum', 'ginger']",1
+2189,260734,"['broccoli', 'tomato', 'garlic', 'salt', 'cauliflower', 'welsh_onion', 'ginger', 'sugar']",1
+2190,260858,"['beef', 'garlic', 'salt', 'flour', 'welsh_onion', 'butter', 'soybean_sauce', 'ginger', 'sugar']",1
+2191,260976,"['salt', 'flour', 'milk_powder', 'butter', 'oats', 'honey', 'water']",0
+2192,260982,"['apple', 'flour', 'butter', 'egg', 'lemon', 'sugar']",1
+2193,261249,"['milk', 'flour', 'butter', 'peach', 'egg', 'sugar']",1
+2194,261345,"['flour', 'passionfruit', 'butter', 'egg', 'sugar']",1
+2195,261742,"['milk', 'gelatin', 'cream', 'biscuit', 'cocoa_powder', 'water', 'chocolate', 'sugar']",1
+2196,261748,"['milk', 'cream', 'butter', 'egg', 'raisin', 'sugar', 'bread']",1
+2197,262042,"['sugar', 'water']",1
+2198,262180,"['soybean_sauce', 'chicken', 'cooking_oil', 'honey']",1
+2199,262354,"['flour', 'oats', 'honey', 'egg', 'sugar']",1
+2200,262544,"['salt', 'flour', 'butter', 'egg', 'chocolate', 'sugar']",1
+2201,262581,"['milk', 'flour', 'cream_cheese', 'butter', 'egg', 'sugar']",1
+2202,262704,"['flour', 'egg', 'walnut', 'sesame', 'sugar']",1
+2203,262711,"['salt', 'flour', 'milk_powder', 'butter', 'egg', 'cooking_oil', 'sugar']",1
+2204,262803,"['egg', 'vinegar', 'sugar']",1
+2205,262814,"['corn', 'salt', 'welsh_onion', 'egg', 'pepper']",1
+2206,262900,"['flour', 'egg', 'milk_powder']",1
+2207,263025,"['milk', 'flour', 'butter', 'honey', 'egg', 'lemon', 'ginger', 'sugar']",1
+2208,263124,"['milk', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+2209,263720,"['tomato', 'flour', 'banana', 'egg', 'sugar']",1
+2210,264355,"['flour', 'milk', 'butter', 'milk_powder']",1
+2211,264415,"['butter', 'lemon', 'egg', 'sugar']",0
+2212,264417,"['mushroom', 'soybean_sauce', 'salt', 'welsh_onion', 'carrot', 'capsicum', 'ginger']",1
+2213,264435,"['flour', 'cranberry', 'banana', 'egg', 'cooking_oil', 'lemon', 'sugar']",1
+2214,264562,"['flour', 'oats', 'egg', 'walnut', 'cooking_oil', 'sugar']",1
+2215,264646,"['tomato', 'vinegar', 'salt', 'pork', 'welsh_onion', 'cooking_oil', 'ginger', 'sugar']",1
+2216,264651,"['lemon', 'strawberry', 'sugar']",0
+2217,265003,"['shrimp', 'cooking_oil', 'tomato', 'sugar']",1
+2218,265033,"['medlar', 'soybean_sauce', 'vinegar', 'carp_bream', 'salt', 'welsh_onion', 'cucumber', 'capsicum', 'ginger']",0
+2219,265059,"['vinegar', 'chicken', 'honey', 'water', 'soybean_sauce', 'orange']",1
+2220,26510,"['saffron', 'coriander', 'nutmeg', 'water', 'cumin', 'cardamom', 'salt', 'fenugreek', 'poppy_seed', 'turmeric', 'tamarind', 'cinnamon', 'potato', 'pepper', 'sesame', 'capsicum', 'cooking_oil', 'mace', 'clove']",1
+2221,265153,"['milk', 'salt', 'flour', 'cranberry', 'cream_cheese', 'egg', 'sugar']",1
+2222,26518,"['soybean_sauce', 'garlic', 'capsicum', 'cooking_oil', 'swamp_cabbage']",1
+2223,265371,"['milk', 'egg', 'sugar', 'mango']",1
+2224,265991,"['star_anise', 'soybean_sauce', 'vinegar', 'salt', 'pork', 'welsh_onion', 'sesame', 'capsicum', 'cooking_oil', 'ginger']",0
+2225,266033,"['salt', 'flour', 'butter', 'egg', 'cocoa_powder', 'sugar']",1
+2226,266084,"['mushroom', 'tomato', 'salt', 'pork', 'welsh_onion', 'egg', 'soybean_sauce', 'sugar']",1
+2227,266179,"['tomato', 'onion', 'garlic', 'salt', 'basil', 'thyme', 'butter', 'pepper', 'sugar']",0
+2228,266197,"['salt', 'flour', 'cranberry', 'butter', 'egg', 'sugar']",1
+2229,26649,"['salt', 'soybean', 'egg', 'capsicum', 'cooking_oil', 'ginger']",1
+2230,26666,"['tomato', 'garlic', 'salt', 'green_zucchini', 'water', 'cooking_oil', 'sugar']",1
+2231,266711,"['apple', 'sugar', 'water']",1
+2232,266759,"['butter', 'egg', 'mozzarella_cheese', 'sweet_potato']",1
+2233,266791,"['tomato', 'garlic', 'salt', 'welsh_onion', 'shrimp', 'soybean_sauce', 'ginger', 'sugar']",0
+2234,26706,"['millet', 'jujube', 'sugar', 'water']",0
+2235,26708,"['star_anise', 'beef', 'salt', 'welsh_onion', 'potato', 'water', 'soybean_sauce', 'cooking_oil', 'ginger', 'sugar']",1
+2236,267173,"['milk', 'apple', 'flour', 'butter', 'rum', 'egg', 'water', 'sugar']",1
+2237,267202,"['banana', 'vinegar']",1
+2238,267432,"['tofu', 'ham', 'salt', 'welsh_onion', 'egg', 'water', 'cooking_oil']",1
+2239,267441,"['tofu', 'star_anise', 'vinegar', 'common_carp', 'salt', 'fish', 'welsh_onion', 'water', 'soybean_sauce', 'ginger', 'sugar']",0
+2240,267485,"['milk', 'flour', 'yogurt', 'egg', 'raisin', 'corn_oil', 'sugar']",1
+2241,267491,"['milk', 'salt', 'flour', 'oats', 'water', 'sugar']",1
+2242,267645,"['corn', 'milk', 'sugar', 'water']",0
+2243,267777,"['salt', 'soybean_sauce', 'vinegar', 'sugar']",1
+2244,26779,"['vinegar', 'salt', 'pork', 'cauliflower', 'welsh_onion', 'water', 'soybean_sauce', 'cooking_oil', 'ginger']",1
+2245,26781,"['broccoli', 'salt', 'shrimp', 'water', 'cooking_oil']",1
+2246,267810,"['gelatin', 'yogurt', 'cream', 'water', 'lemon', 'chocolate', 'sugar']",1
+2247,268194,"['flour', 'milk_powder', 'butter', 'egg', 'sugar']",1
+2248,268428,"['milk', 'salt', 'flour', 'butter', 'egg', 'sugar']",1
+2249,268911,"['flour', 'fig', 'butter', 'cocoa_powder', 'water', 'sugar']",1
+2250,268955,"['vanilla', 'cream_cheese', 'cream', 'butter', 'biscuit', 'chocolate', 'sugar']",1
+2251,269001,"['plum', 'lemon', 'sugar', 'water']",0
+2252,269242,"['milk', 'cranberry', 'butter', 'egg', 'raisin', 'sugar', 'bread']",1
+2253,269750,"['salt', 'pork', 'honey', 'pepper', 'sesame', 'soybean_sauce', 'sugar']",1
+2254,270143,"['flour', 'jujube', 'pumpkin']",1
+2255,28515,"['rice', 'pumpkin']",1
+2256,29028,"['milk', 'flour', 'cream_cheese', 'butter', 'egg', 'sugar']",1
+2257,30864,"['soybean_sauce', 'mallard_duck', 'garlic', 'salt', 'welsh_onion', 'oil_seed_camellia', 'capsicum', 'beer', 'ginger']",0
+2258,31900,"['squid', 'salt', 'welsh_onion', 'carrot', 'celery', 'ginger', 'sugar']",1
+2259,33919,"['milk', 'butter', 'egg', 'sugar', 'bread']",1
+2260,34260,"['flour', 'egg', 'water', 'cooking_oil', 'orange', 'sugar']",1
+2261,34488,"['orange', 'gelatin', 'sugar']",1
+2262,34612,"['flour', 'cranberry', 'butter', 'rum', 'egg', 'sugar']",0
+2263,34625,"['milk', 'egg', 'sugar']",1
+2264,34634,"['milk', 'salt', 'flour', 'egg', 'cooking_oil', 'sugar']",1
+2265,34654,"['welsh_onion', 'meat', 'taro', 'soybean_sauce', 'ginger', 'sugar']",1
+2266,35504,"['mushroom', 'coriander', 'salt', 'pork', 'welsh_onion', 'pepper', 'ginger']",1
+2267,35524,"['sesame', 'cheese', 'sweet_potato']",1
+2268,35544,"['tofu', 'tomato', 'salt', 'soybean', 'sugar']",1
+2269,35563,"['cream', 'sesame', 'strawberry', 'sugar']",0
+2270,35567,"['honey', 'medlar', 'radish']",1
+2271,35722,"['welsh_onion', 'egg', 'bittergourd']",1
+2272,35734,"['broccoli', 'coriander', 'garlic', 'carrot', 'jews_ear']",1
+2273,35766,"['lemon_peel_oil', 'salt', 'flour', 'butter', 'lemon', 'sugar']",1
+2274,35798,"['milk', 'flour', 'butter', 'egg', 'strawberry', 'sugar']",1
+2275,36102,"['salt', 'flour', 'cranberry', 'water', 'cooking_oil', 'sugar']",1
+2276,36106,"['sesame', 'green_tea', 'rice', 'purple_laver']",1
+2277,36539,"['lemon', 'strawberry', 'sugar']",0
+2278,37787,"['garlic', 'salt', 'welsh_onion', 'peanut_oil', 'bittergourd', 'egg', 'ginger']",1
+2279,37858,"['tomato', 'water', 'chicken', 'cheese', 'cucumber', 'lettuce', 'bread']",0
+2280,37890,"['milk', 'flour', 'cranberry', 'egg', 'corn_oil', 'lemon', 'sugar']",1
+2281,38640,"['milk', 'gelatin', 'cream', 'peach', 'sugar']",1
+2282,38785,"['tofu', 'tomato', 'salt', 'water', 'sugar']",1
+2283,39179,"['tomato', 'okra', 'garlic']",1
+2284,39213,"['apple', 'yogurt', 'walnut', 'raisin', 'celery']",1
+2285,39217,"['cardamom', 'tamarind', 'cinnamon', 'capsicum', 'saffron', 'poppy_seed', 'pepper', 'mace', 'coriander', 'cumin', 'turmeric', 'salt', 'welsh_onion', 'clove', 'star_anise', 'broccoli', 'nutmeg', 'fenugreek', 'cauliflower', 'carrot', 'sesame']",1
+2286,39374,"['flour', 'butter', 'egg', 'chocolate', 'sugar']",1
+2287,39445,"['corn', 'broccoli', 'onion', 'salt', 'butter', 'pepper', 'sugar']",1
+2288,40190,"['tomato', 'vinegar', 'salt', 'pork', 'cooking_oil', 'sugar']",1
+2289,43529,"['sugar', 'bayberry']",0
+2290,43625,"['salt', 'pork', 'welsh_onion', 'pak_choy', 'egg', 'pepper', 'ginger', 'sugar']",1
+2291,45802,"['star_anise', 'broccoli', 'beef', 'cumin', 'salt', 'carrot', 'pepper', 'cinnamon', 'soybean_sauce', 'clove']",1
+2292,46159,"['onion', 'salt', 'egg', 'water', 'cooking_oil']",1
+2293,46495,"['milk', 'apple', 'salt', 'flour', 'butter', 'egg', 'cinnamon', 'sugar']",1
+2294,46496,"['flour', 'butter', 'green_tea', 'egg', 'sugar']",1
+2295,47623,"['salt', 'spinach', 'meatball']",0
+2296,47808,"['agar', 'orange', 'sugar', 'water']",1
+2297,47854,"['salt', 'beans', 'welsh_onion', 'bamboo_shoots', 'water', 'cooking_oil', 'ginger']",0
+2298,49263,"['tomato', 'vinegar', 'salt', 'cauliflower', 'shrimp', 'water', 'sugar']",1
+2299,49541,"['rice', 'coriander', 'garlic', 'abalone', 'welsh_onion', 'water', 'ginger']",1
+2300,49916,"['flour', 'butter', 'egg', 'sugar']",1
+2301,49938,"['milk', 'gelatin', 'cream_cheese', 'butter', 'biscuit', 'sugar']",1
+2302,75658,"['lettuce', 'pork']",0
+2303,75686,"['salt', 'mushroom', 'cucumber', 'garlic']",1
+2304,75728,"['salt', 'swamp_cabbage', 'garlic']",1
+2305,75733,"['salt', 'broccoli', 'garlic']",1
+2306,76031,"['star_anise', 'soybean_sauce', 'radish', 'garlic', 'salt', 'welsh_onion', 'laurel', 'capsicum', 'sugar', 'lamb']",0
+2307,76365,"['papaya', 'coconut', 'gelatin', 'sugar']",0
+2308,76480,"['milk', 'cream', 'strawberry', 'egg', 'sugar']",1
+2309,77507,"['soybean_sauce', 'vinegar', 'garlic', 'pork', 'water', 'capsicum', 'sugar']",0
+2310,78378,"['oats', 'cooking_oil', 'honey', 'sugar']",1
+2311,78528,"['broccoli', 'carrot', 'squid']",1
+2312,78780,"['flour', 'oats', 'egg', 'corn_oil', 'sugar']",1
+2313,79873,"['milk', 'salt', 'flour', 'milk_powder', 'butter', 'egg', 'water', 'raisin', 'sugar']",1
+2314,83980,"['cumin', 'salt', 'chicken', 'pepper', 'capsicum', 'cooking_oil']",0
+2315,84637,"['milk', 'salt', 'flour', 'durian', 'butter', 'egg', 'sugar']",1
+2316,84751,"['flour', 'cranberry', 'yogurt', 'condensed_milk', 'egg', 'sugar']",1
+2317,85295,"['flour', 'cream_cheese', 'butter', 'egg', 'sugar']",1
+2318,85331,"['honey', 'egg']",1
+2319,85423,"['salt', 'oats', 'rice', 'pumpkin']",0
+2320,85440,"['shiitake', 'salt', 'pork', 'water', 'pepper', 'sugar']",1
+2321,85455,"['rice', 'sweet_potato']",1
+2322,85951,"['flour', 'egg', 'corn_oil', 'lemon', 'sugar']",1
+2323,86269,"['salt', 'brussels_sprout', 'cooking_oil', 'pork']",1
+2324,87279,"['salt', 'butter', 'flour', 'water']",1
+2325,87293,"['milk', 'salt', 'flour', 'butter', 'egg', 'raisin', 'sugar']",1
+2326,87412,"['milk', 'flour', 'cranberry', 'cream_cheese', 'egg', 'sugar']",1
+2327,87413,"['salt', 'flour', 'peanut_butter', 'cooking_oil', 'sugar']",1
+2328,88118,"['beef', 'shiitake', 'enokitake', 'beans', 'water', 'capsicum']",1
+2329,88801,"['salt', 'flour', 'canola_oil', 'water', 'sesame', 'sugar']",1
+2330,88892,"['peanut', 'milk_powder', 'marshmallow']",1
+2331,89224,"['salt', 'pork', 'honey', 'pepper', 'sesame', 'soybean_sauce', 'sugar']",1
+2332,90126,"['flour', 'oats', 'egg', 'cooking_oil', 'sugar']",1
+2333,91641,"['salt', 'towel_gourd', 'pork', 'welsh_onion', 'ginger']",1
+2334,92204,"['shiitake', 'salt', 'cabbage', 'pork', 'carrot', 'water']",1
+2335,92283,"['salt', 'pork', 'durian']",1
+2336,92301,"['flour', 'yogurt', 'butter', 'egg', 'raisin', 'sugar']",1
+2337,93218,"['salt', 'peanut', 'pepper']",0
+2338,93253,"['milk', 'salt', 'flour', 'egg', 'raisin', 'cooking_oil', 'sugar']",1
+2339,93766,"['milk_powder', 'condensed_milk', 'egg', 'water', 'sugar']",1
+2340,93979,"['flour', 'hazelnut', 'butter', 'sugar']",1
+2341,93985,"['salt', 'shrimp', 'coriander', 'radish']",1
+2342,94041,"['garlic', 'salt', 'chicken', 'cashew_nut', 'egg', 'capsicum', 'ginger']",1
+2343,94139,"['mango', 'cream_cheese', 'butter', 'egg', 'biscuit', 'sugar']",1
+2344,94207,"['flour', 'cooking_oil', 'egg', 'raisin']",1
+2345,94211,"['soybean', 'water']",1
+2346,94302,"['sesame', 'sweet_potato']",1
+2347,94448,"['corn', 'milk', 'flour', 'raisin', 'sugar']",1
+2348,94520,"['vanilla', 'milk', 'rum', 'egg', 'coffee', 'chocolate', 'sugar']",1
+2349,94542,"['bittergourd', 'honey', 'sweet_potato']",1
+2350,95053,"['cumin', 'onion', 'salt', 'capsicum', 'lamb']",1
+2351,95167,"['apple', 'sugar', 'water']",1
+2352,95722,"['milk', 'flour', 'butter', 'egg', 'sugar']",1
+2353,95827,"['corn', 'star_anise', 'cumin', 'garlic', 'shrimp', 'pepper', 'cinnamon', 'clove']",1
+2354,95994,"['flour', 'butter', 'cocoa_powder', 'egg', 'sugar']",1
+2355,9650,"['jujube', 'salt', 'chicken', 'peanut', 'ginger']",1
+2356,9665,"['garlic', 'salt', 'pork', 'welsh_onion', 'carrot', 'cucumber', 'soybean_sauce', 'ginger']",1
+2357,98494,"['coriander', 'vinegar', 'salt', 'carrot', 'sugar']",1
+2358,98865,"['jujube', 'flour', 'butter', 'egg', 'water', 'sugar']",1
+2359,98956,['sesame'],1
+2360,98982,"['tofu', 'garlic', 'salt', 'pork', 'welsh_onion', 'water', 'soybean_sauce', 'cooking_oil']",1
+2361,99004,"['flour', 'milk_powder', 'kidney_beans', 'cocoa_powder', 'coffee', 'peanut_butter']",0
+2362,99622,['tomato'],0
+2363,99634,"['flour', 'butter', 'green_tea', 'egg', 'sugar']",1
+2364,99672,['shrimp'],0
+2365,99673,"['vinegar', 'garlic', 'salt', 'welsh_onion', 'pepper', 'soybean_sauce', 'sugar', 'lamb']",0
