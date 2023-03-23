@@ -1,0 +1,131 @@
+,name,comb_cate,prevelence,node_type
+0,mallard_duck,Animal Product,0.00422654268808115,ingr
+1,pak_choy,Vegetable,0.00422654268808115,ingr
+2,welsh_onion,Vegetable,0.11834319526627218,ingr
+3,sausage,Dish,0.006339814032121725,ingr
+4,cake,Dish,0.00422654268808115,ingr
+5,passionfruit,Fruit,0.008030431107354184,ingr
+6,salt,Additive/Spice,0.4061707523245985,ingr
+7,lemon_peel_oil,Plant/Plant Derivative,0.00507185122569738,ingr
+8,clove,Additive/Spice,0.01775147928994083,ingr
+9,flour,Cereal/Maize,0.3072696534234996,ingr
+10,condensed_milk,Dairy,0.024513947590870666,ingr
+11,broccoli,Vegetable,0.013947590870667794,ingr
+12,spinach,Vegetable,0.010566356720202874,ingr
+13,saffron,Additive/Spice,0.0076077768385460695,ingr
+14,laurel,Plant/Plant Derivative,0.01014370245139476,ingr
+15,butter,Dairy,0.19188503803888418,ingr
+16,papaya,Fruit,0.00422654268808115,ingr
+17,corn,Cereal/Maize,0.02324598478444632,ingr
+18,chicken,Animal Product,0.04395604395604396,ingr
+19,peanut_butter,Plant/Plant Derivative,0.006762468300929839,ingr
+20,egg,Animal Product,0.3326289095519865,ingr
+21,cauliflower,Vegetable,0.005494505494505495,ingr
+22,beef,Animal Product,0.026204564666103127,ingr
+23,grapefruit,Fruit,0.006339814032121725,ingr
+24,milk_powder,Dairy,0.044801352493660185,ingr
+25,poppy_seed,Additive/Spice,0.008030431107354184,ingr
+26,gelatin,Additive/Spice,0.030431107354184278,ingr
+27,honey,Plant/Plant Derivative,0.04437869822485207,ingr
+28,beans,Seed/Nut/Legume,0.011411665257819104,ingr
+29,green_beans,Vegetable,0.012256973795435333,ingr
+30,cardamom,Additive/Spice,0.0076077768385460695,ingr
+31,banana,Fruit,0.0169061707523246,ingr
+32,enokitake,Fungus,0.005494505494505495,ingr
+33,cheese,Dairy,0.014370245139475908,ingr
+34,soybean_sauce,Plant/Plant Derivative,0.13651732882502113,ingr
+35,nutmeg,Additive/Spice,0.010566356720202874,ingr
+36,coriander,Herb,0.024091293322062553,ingr
+37,walnut,Seed/Nut/Legume,0.01944209636517329,ingr
+38,carrot,Vegetable,0.044801352493660185,ingr
+39,shiitake,Fungus,0.018174133558748945,ingr
+40,oats,Cereal/Maize,0.03296703296703297,ingr
+41,mustard,Vegetable,0.006339814032121725,ingr
+42,pumpkin,Fruit,0.020710059171597635,ingr
+43,cocoa_powder,Plant/Plant Derivative,0.022400676246830092,ingr
+44,beer,Beverage,0.005917159763313609,ingr
+45,pasta,Bakery,0.005917159763313609,ingr
+46,meat,Animal Product,0.005917159763313609,ingr
+47,scallop,Fish/Seafood,0.007185122569737954,ingr
+48,coconut,Fruit,0.013947590870667794,ingr
+49,green_zucchini,Vegetable,0.008030431107354184,ingr
+50,pork,Animal Product,0.07523245984784446,ingr
+51,cinnamon,Additive/Spice,0.03085376162299239,ingr
+52,corn_oil,Cereal/Maize,0.024091293322062553,ingr
+53,towel_gourd,Vegetable,0.007185122569737954,ingr
+54,plum,Fruit,0.004649196956889264,ingr
+55,mushroom,Fungus,0.02578191039729501,ingr
+56,eggplant,Vegetable,0.006762468300929839,ingr
+57,jujube,Fruit,0.013524936601859678,ingr
+58,cabbage,Vegetable,0.009721048182586645,ingr
+59,purple_laver,Fish/Seafood,0.011411665257819104,ingr
+60,ashgourd,Vegetable,0.0084530853761623,ingr
+61,garlic,Herb,0.12468300929839392,ingr
+62,peas,Seed/Nut/Legume,0.014370245139475908,ingr
+63,vinegar,Plant/Plant Derivative,0.03550295857988166,ingr
+64,celery,Additive/Spice,0.011411665257819104,ingr
+65,jews_ear,Fungus,0.009298393913778529,ingr
+66,mango,Fruit,0.006339814032121725,ingr
+67,yogurt,Dairy,0.027472527472527472,ingr
+68,millet,Seed/Nut/Legume,0.01014370245139476,ingr
+69,shrimp,Fish/Seafood,0.036770921386306,ingr
+70,bamboo_shoots,Plant/Plant Derivative,0.005494505494505495,ingr
+71,orange,Fruit,0.024091293322062553,ingr
+72,mozzarella_cheese,Dairy,0.01098901098901099,ingr
+73,chestnut,Seed/Nut/Legume,0.004649196956889264,ingr
+74,cranberry,Fruit,0.02197802197802198,ingr
+75,water_chestnut,Fruit,0.006762468300929839,ingr
+76,strawberry,Fruit,0.02028740490278952,ingr
+77,rum,Beverage,0.009721048182586645,ingr
+78,potato,Vegetable,0.0283178360101437,ingr
+79,medlar,Fruit,0.008875739644970414,ingr
+80,turmeric,Additive/Spice,0.0076077768385460695,ingr
+81,salmon,Fish/Seafood,0.00422654268808115,ingr
+82,peanut,Seed/Nut/Legume,0.016483516483516484,ingr
+83,bayberry,Fruit,0.00422654268808115,ingr
+84,tamarind,Fruit,0.0076077768385460695,ingr
+85,cumin,Additive/Spice,0.027049873203719356,ingr
+86,tomato,Vegetable,0.04902789518174133,ingr
+87,raisin,Fruit,0.021555367709213864,ingr
+88,apple,Fruit,0.014370245139475908,ingr
+89,biscuit,Bakery,0.018596787827557058,ingr
+90,cucumber,Vegetable,0.02324598478444632,ingr
+91,milk,Dairy,0.17709213863060017,ingr
+92,parsley,Additive/Spice,0.005494505494505495,ingr
+93,water,Additive/Spice,0.21090448013524937,ingr
+94,fenugreek,Herb,0.0076077768385460695,ingr
+95,sweet_potato,Vegetable,0.024936601859678782,ingr
+96,oregano,Additive/Spice,0.005494505494505495,ingr
+97,rice,Cereal/Maize,0.04311073541842773,ingr
+98,capsicum,Vegetable,0.10101437024513947,ingr
+99,lemon,Fruit,0.07523245984784446,ingr
+100,bread,Bakery,0.01775147928994083,ingr
+101,taro,Vegetable,0.008030431107354184,ingr
+102,chocolate,Plant/Plant Derivative,0.027472527472527472,ingr
+103,basil,Herb,0.00422654268808115,ingr
+104,sesame,Seed/Nut/Legume,0.05705832628909552,ingr
+105,tofu,Plant/Plant Derivative,0.01267962806424345,ingr
+106,vanilla,Plant/Plant Derivative,0.027472527472527472,ingr
+107,soybean,Seed/Nut/Legume,0.021132713440405747,ingr
+108,almond,Seed/Nut/Legume,0.008875739644970414,ingr
+109,cream_cheese,Dairy,0.024936601859678782,ingr
+110,ham,Animal Product,0.0084530853761623,ingr
+111,onion,Vegetable,0.03254437869822485,ingr
+112,coffee,Beverage,0.005917159763313609,ingr
+113,lamb,Animal Product,0.006762468300929839,ingr
+114,ginger,Additive/Spice,0.11834319526627218,ingr
+115,green_tea,Beverage,0.015215553677092139,ingr
+116,radish,Vegetable,0.013102282333051564,ingr
+117,cooking_oil,Additive/Spice,0.13440405748098055,ingr
+118,blueberry,Fruit,0.015215553677092139,ingr
+119,peach,Fruit,0.011411665257819104,ingr
+120,avocado,Fruit,0.014792899408284023,ingr
+121,peanut_oil,Plant/Plant Derivative,0.005494505494505495,ingr
+122,abalone,Fungus,0.00422654268808115,ingr
+123,sugar,Additive/Spice,0.5067624683009299,ingr
+124,pepper,Additive/Spice,0.09763313609467456,ingr
+125,clam,Fish/Seafood,0.00507185122569738,ingr
+126,cream,Dairy,0.08030431107354184,ingr
+127,mace,Additive/Spice,0.0076077768385460695,ingr
+128,star_anise,Additive/Spice,0.024936601859678782,ingr
+129,lettuce,Vegetable,0.010566356720202874,ingr
